@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Marathi_Miami">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Mi-a-Mi"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यातील सर्वोत्तम डिस्कोपैकी एक. अप्रतिम वातावरण. उत्कृष्ट ध्वनी प्रणाली. तसेच त्यांच्याकडे दर महिन्याला भेट देणारे सर्वोत्तम डीजे आहेत. उपलब्ध पेयांची विस्तृत श्रेणी मित्रांसोबत पार्टी करण्यासाठी एक उत्तम जागा बनवते. तुम्हाला मोठा आवाज आवडत नसेल तर दूर रहा.
+पुणे शहर त्याच्या दोलायमान आणि उत्साही रात्रीच्या जीवनासाठी खूप प्रशंसनीय आहे ज्यामध्ये JW मॅरियट पुणे हे Mi-a-Mi आहे. आम्हाला आनंद आहे की उबर-चिक नाईट क्लब तुम्हाला जगभरातील ताजेतवाने पदार्थ, फिंगर फूड आणि संगीत कलाकारांचा आनंद घेऊ देतो.
+
+आम्ही पाशाची शिफारस करू इच्छितो; आमचे रूफटॉप रेस्टॉरंट आणि लाउंज जे जेवण करणार्‍यांना आमच्या मिक्सोलॉजिस्टद्वारे आनंददायक उत्तर भारतीय पाककृती आणि ताजेतवाने बनवलेल्या पदार्थांसह शहराचे पक्षीदर्शक दृश्यासह घरामध्ये आणि बाहेर दोन्ही ठिकाणी जेवण करण्याची संधी देते.
+
+
+काय छान बनवते?
+त्यामुळे तुम्ही बुधवारी मित्रांसोबत बाहेर असता, तुम्ही काही पेये घेतली होती आणि तुमच्यापैकी एक म्हणतो चला नाचूया! रात्री 11:45 वाजता. तुम्ही कुणीकडे चाललात? मूठभर पर्यायांसह, आम्ही तुमच्यासाठी शहरातील सर्वोत्तम क्लब आणतो. आकर्षक इंटिरिअर्स, सर्वोत्तम मद्य आणि एक जबरदस्त ध्वनी प्रणाली – काही मद्यधुंद आठवणींसाठी Mi-a-Mi हा एक उत्तम पर्याय का आहे हे आम्ही शोधतो."/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="परिसरातून निवडण्यासाठी मूठभर आस्थापनांसह, Mi-a-Mi JW Marriott Hotel Pune येथे S.B. एक-दोन रात्री मद्यपानासाठी आणि जोरदार नृत्याने भरलेल्या रात्रीचे ठिकाण म्हणून रस्ता बाहेर उभा आहे. दिवसाच्या प्रकाशात एक कंटाळवाणा, राखाडी आधुनिक कार्यालयीन जागा सूर्यास्त झाल्यावर क्लब स्वर्ग बनते. 15,000 चौरस फुटांमध्ये पसरलेल्या क्लबमध्ये एक मोठा डान्स फ्लोअर आणि आलिशान काळा, पांढरा आणि महोगनी इंटीरियर आहे. खरोखरच भव्य फॅशनमध्ये, रेशीम अपहोल्स्ट्री असलेले विस्तीर्ण पलंग क्लबच्या भव्य बारच्या मागील भागाला शोभा देतात तर समोर बार टेबल आणि डान्स फ्लोर तुमचे स्वागत करतात. प्रवेशद्वारावर रेषा असलेले निऑन दिवे क्लबच्या वातावरणाला अतिरिक्त मोहक स्पर्श देतात. कलाकार आणि थेट बँड सादर करण्यासाठी एक स्टेज क्षेत्र देखील आहे.
+
+Mi-a-Mi हे श्रीमंत, श्रीमंत, चांगले कपडे घातलेल्या लोकांसाठी आहे आणि A-लिस्टर्ससाठी एक उत्स्फूर्त ठिकाण आहे. तुम्ही बहुतेक रात्री इलेक्ट्रॉनिक, ट्रान्स, हाऊस आणि व्यावसायिक संगीताचा आनंद घेण्यासाठी येथे जाऊ शकता. स्वदेशी टॅलेंट व्यतिरिक्त, Mi-a-Mi ने जगातील काही सर्वोत्तम कलाकारांना पुण्यासाठी परफॉर्म करताना पाहिले आहे.
+
+बुधवारची रात्र, उर्फ ​​लेडीज नाईट, मोफत पेये पिणाऱ्या महिलांमध्ये लोकप्रिय आहेत. बारमध्ये सहसा गर्दी असते परंतु सेवा प्रभावित होत नाही. आम्ही सुचवितो की तुम्ही लाँग आयलंड आइस्ड टी निवडा, जो येथे लोकप्रिय आहे.
+
+वेळ 9.30 PM ते 1.30 AM (बुधवार आणि शुक्रवार) पर्यंत आहे, तर शनिवारी रात्री 9.30 ते 2.30 पर्यंत आहे.
+
+प्रवेशासाठी जोडप्यासाठी रु. 1,000 आणि हरिणासाठी रु. 2,000 (बुधवार आणि शुक्रवार) आणि जोडप्यासाठी रु. 2,000 आणि शनिवारी 3,000 रु. किंमती पूर्ण कव्हर आहेत, ज्यात पेय आणि अन्न समाविष्ट आहे. महिला बुधवार आणि शुक्रवारी विनामूल्य प्रवेश करू शकतात
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim2"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim3"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

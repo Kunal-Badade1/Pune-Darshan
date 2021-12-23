@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".rajgad_marathi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="24sp"
+        android:text="राजगड"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:src="@drawable/rajgad1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:text="तुम्ही ट्रेकिंगचे शौकीन असाल तर पुण्याला जाताना तुम्हाला राजगड किल्ला चढवावा लागेल.
+पुण्यापासून सुमारे ६० किलोमीटर अंतरावर असलेल्या या ऐतिहासिक किल्ल्यावरून सह्याद्री पर्वतराजीचे विलोभनीय दृश्य दिसते.
+मध्यम अडचण पातळीसह, गडावरील काही मनोरंजक ठिकाणे आहेत:
+
+\nबाले किल्ला
+\nसंजीवनी माची
+\nपद्मावती मंदिर
+\nपद्मावती माची
+\nपाली दरवाजा
+\nराजगड किल्ला देखील रात्रीच्या ट्रेकिंगच्या विलक्षण संधी प्रदान करतो.\n"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:src="@drawable/rajgad"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:text="
+\n
+मजबूत शूज घाला.
+स्नॅक्स आणि एनर्जी बार सोबत पिण्याचे पाणी सोबत ठेवा.
+सनस्क्रीन लावायला विसरू नका कारण दुपारनंतर सूर्यप्रकाश येतो.
+कृपया गडावर कुठेही कचरा टाकू नये.
+जर तुम्ही शहरात नवीन असाल, तर पुण्यातील अनेक ट्रेकिंग क्लबपैकी एकाद्वारे तुम्ही किल्ल्याला भेट द्यावी अशी शिफारस केली जाते.
+
+
+\nनसरापूर एसटी स्टँड
+\nभोर बस स्टँड
+\nकार भाड्याने घेणे किंवा ट्रेकिंग क्लबमधून जाण्याची शिफारस केली जाते.
+
+\nराजगड किल्ला पत्ता: बालेकिल्ला रोड, पुणे, महाराष्ट्र ४१२२१३, भारत
+\nराजगड किल्ल्याची वेळ: २४ तास
+\nराजगड किल्ल्याला भेट देण्यासाठी सर्वोत्तम वेळ (प्राधान्य वेळ): सकाळी 06:00 ते 11:00
+\nराजगड किल्ल्याला भेट देण्यासाठी लागणारा वेळ: 05:00 वा
+
+
+
+
+
+
+
+"
+
+        ></TextView>
+
+
+    </LinearLayout>
+
+</ScrollView>

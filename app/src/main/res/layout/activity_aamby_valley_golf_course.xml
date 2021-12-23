@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AambyValleyGolfCourse">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Aamby Valley"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="The city, founded in 2006, is spread over 10,600 acres (4,300 ha) of hilly terrain in the Sahyadri hills of the Western Ghats. It is about 23 km (14 mi) from Lonavala, 87 km (54 mi) from the city of Pune and 120 km (75 mi) from the city Mumbai.[ The township is connected by road from Mahabaleshwar. The township has an airstrip that stopped functioning in late 2016. It has an average annual rainfall of 4,000 mm (160 in) from June to September.
+
+Marketed to India's super-rich,[ the city was developed in five phases. It was designed and master planned by Gruen–Bobby Mukherji  Associates in the year 2003. It is almost entirely owned and operated by Sahara and related entities.[7] It has between 600–800 luxury bungalows priced between ₹5 crore to ₹20 crore."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Three large man made lakes have been created by constructing dams. The largest lake is 1.5 km in length. The city is spread over 10,000 acres and ten villages near Lonavala and boasts of an airstrip, helipads, shopping complexes, 256 acres PGA approved 18-hole golf course,captive power plant, two small dams, an international school, and a hospital. The township has multiple luxury restaurants and a lagoon with an artificial beach adjacent to the replica of Varanasi ghat for cultural programs.
+
+In late 2016, the golf course and the airstrip stopped functioning."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="In 2014, Aamby Valley inked a 4-year $14 million sponsorship deal with Bangladesh national cricket team.Without citing any reasons, the Bangladesh Cricket Board ended the contract 15 months before it was scheduled to end."/>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

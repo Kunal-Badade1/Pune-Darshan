@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathibladesofglory">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="ब्लेड्स ऑफ ग्लोरी क्रिकेट संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="द ब्लेड्स ऑफ ग्लोरी क्रिकेट म्युझियमचे औपचारिक उद्घाटन सचिन तेंडुलकरने २०१२ मध्ये केले होते. हे निवासी इमारतीच्या तिसऱ्या मजल्यावर आहे आणि १२,००० हून अधिक क्रिकेट उपकरणे आहेत. हे संग्रहालय रोहन पाटे, एक माजी अंडर-19 क्रिकेटपटू यांच्या मालकीचे, क्युरेट केलेले आणि निधी दिलेले आहे. हे चार लहान खोल्या आणि भारतीय क्रिकेट संघाचे बॅनर आणि क्रिकेट उपकरणे असलेल्या एका मोठ्या खोलीत विभागलेले आहे. चार लहान खोल्या विक्रमी क्रिकेटपटूंना समर्पित आहेत. मोठ्या खोलीत विविध प्रकारची उपकरणे आहेत आणि भारताच्या विश्वचषक विजयावर प्रकाश टाकला आहे.
+
+4,000 चौरस फुटांवर पसरलेल्या या संग्रहालयात क्रिकेटच्या काही महान क्रिकेटपटूंच्या ऑटोग्राफ केलेल्या बॅट, बॉल, शूज, पॅड्स, जर्सी आणि इतर गोष्टी आहेत. सचिन तेंडुलकर आणि विराट कोहली यांना खास समर्पित एक खोली आहे, ज्यामध्ये प्रत्येकी त्यांच्या क्रिकेट कारकिर्दीचा तपशीलवार रेकॉर्ड आहे, ज्यामध्ये गुण, पुरस्कार, गणवेश, उपकरणे इ. ख्रिस गेल आणि सनथ जयसूर्या सारख्या आंतरराष्ट्रीय क्रिकेटपटूंच्या कलाकृतींचा समावेश आहे. माजी क्रिकेटपटूंच्या टोप्या, आयकॉनिक बॉलिंग मोमेंट्समधून फाटलेल्या शूज इत्यादी दुर्मिळ वस्तू देखील येथे जतन केल्या आहेत. संग्रहालयात जगभरातील क्रिकेटपटूंच्या वैयक्तिक भेटींचा अभिमान आहे. या क्रिकेटपटूंच्या फोटो आणि पोस्टर्सवर त्यांच्या दौऱ्यात त्यांनी खास स्वाक्षरी केली आहे. प्रवेशद्वारावर, अभ्यागतांना एक व्हिडिओ दर्शविला जातो जो संग्रहालयाच्या प्रवासाचे दस्तऐवजीकरण करतो."/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b5"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="1975 मध्ये क्लाइव्ह लॉयडच्या वेस्ट इंडिजपासून ते 2019 मध्ये इऑन मॉर्गनच्या इंग्लंडपर्यंत, गॅलरीमध्ये 12 विश्वचषक विजेत्या संघांपैकी प्रत्येकाने स्वाक्षरी केलेले बॅट दाखवले आहेत.
+जगभरातील खेळाडूंकडून 51000+ हून अधिक संस्मरणीय वस्तू"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b3"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="माजी ऑस्ट्रेलियन क्रिकेटपटू सर नील हार्वे यांची सही असलेली बॅट.
+लारा, सेहवाग, जयसूर्या, आमला, कुमार संगकारा यांसारख्या तिहेरी शतकी फलंदाजांनी स्वाक्षरी केली.
+त्याचप्रमाणे, तीनही विश्व ट्वेंटी-20 चॅम्पियन संघ - भारत (2007), पाकिस्तान (2009) आणि इंग्लंड (2010) - यांनी बॅटवर स्वाक्षरी केली आहे जी गॅलरीत प्रदर्शित केली गेली आहे.
+सचिन तेंडुलकरने 50 वे कसोटी शतक झळकावताना घातलेली पायघोळ; मुथय्या मुरलीधरनची जर्सी ज्या दिवशी तो कसोटी क्रिकेटमध्ये माउंट 800 पार करणारा एकमेव क्रिकेटपटू बनला होता आणि वीरेंद्र सेहवागची जर्सी ज्याने त्याला 2010 मध्ये श्रीलंकेविरुद्ध संस्मरणीय द्विशतक झळकावण्यास मदत केली होती.
+डेस्मंड हेन्स, गॉर्डन ग्रीनिज (वेस्ट इंडीज), मार्क वॉ, अॅलन बॉर्डर (ऑस्ट्रेलिया), केविन पीटरसन (इंग्लंड,) सौरव गांगुली, कपिल देव, महेंद्रसिंग धोनी, युवराज सिंग (भारत) यांच्यासह दिग्गजांनी स्वाक्षरी केलेले वैयक्तिक क्रिकेट गियर.
+1999 मध्ये कर्करोगाने मरण पावलेला वेस्ट इंडिजचा महान वेगवान गोलंदाज माल्कम मार्शलची वेस्ट इंडिजची कॅप; सर व्हिव्हियन रिचर्ड्सचे खेळण्याच्या दिवसात स्वेटर; ऑस्ट्रेलियाचा विश्वचषक विजेता सलामीवीर डेव्हिड बूनची ODI जर्सी आणि पाकिस्तानचे माजी महान जावेद मियांदाद यांची ऑटोग्राफ केलेली बॅट.
+द लिजेंड्स रूममध्ये सचिन तेंडुलकर, राहुल द्रविड, सर व्हिव्हियन रिचर्ड्स, जॅक कॅलिस आणि रिकी पाँटिंग यांचे ऑटोग्राफ केलेले क्रिकेटिंग गियर आणि सर्व महान फलंदाज, सर डोनाल्ड ब्रॅडमन यांनी स्वाक्षरी केलेली गोल्डन सेंच्युरी फ्रेम दाखवली आहे.
+21 मे 1997 रोजी चेन्नई येथे सईद अन्वरने भारताविरुद्ध 194 धावा केल्या त्या क्रिकेट बॅटने.
+विश्वचषक २०१९ संग्रह. बॅट, बॉल आणि जगभरातील खेळाडूंची जर्सी."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b1"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

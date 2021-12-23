@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Pune Darshan</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="about_us">About Us</string>
+    <string name="language">Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_pethh">pethh</string>
+    <string name="tab_text_1">Origins of peths</string>
+    <string name="tab_text_2">Peths</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_engmuseum">engmuseum</string>
+
+    <string name="tab_text_3">Blades of Glory Museum</string>
+    <string name="tab_text_4">Mahtma Phule Museum</string>
+    <string name="tab_text_5">Peshwe Museum</string>
+    <string name="tab_text_6">Raja Dinkar Kelkar Museum</string>
+    <string name="tab_text_7">Southern Command Museum</string>
+
+    <string name="title_activity_eng_temples">engTemples</string>
+
+    <string name="tab_text_8">Gupchup Ganpati</string>
+    <string name="tab_text_9">Parvati Temple</string>
+    <string name="tab_text_10">Pataleshwar Temple</string>
+    <string name="tab_text_11">Trishunda Ganpati</string>
+    <string name="tab_text_12">Sheshshayi Vishnu</string>
+    <string name="title_activity_hindipeth">hindipeth</string>
+
+    <string name="tab_text_13">पेठो की उत्पत्ती</string>
+    <string name="tab_text_14">पेठ</string>
+    <string name="title_activity_hindimuseum">hindimuseum</string>
+
+    <string name="tab_text_15">ब्लेड्स ऑफ ग्लोरी क्रिकेट संग्रहालय</string>
+    <string name="tab_text_16">महात्मा फुले संग्रहालय </string>
+    <string name="tab_text_17">पेशवे संग्रहालय </string>
+    <string name="tab_text_18">राजा दिनकर केळकर संग्रहालय </string>
+    <string name="tab_text_19">दक्षिण कमांड मिलिटरी संग्रहालय</string>
+    <string name="title_activity_hinditemples">hinditemples</string>
+
+    <string name="tab_text_20">गुपचूप गणपती मंदिर </string>
+    <string name="tab_text_21">पर्वती मंदिर </string>
+    <string name="tab_text_22">पाताळेश्वर मंदिर </string>
+    <string name="tab_text_23">त्रिश्रूंड गणपती मंदिर </string>
+    <string name="tab_text_24">शेषशायी विष्णू मंदिर</string>
+
+    <string name="tab_text_25">पेठांची निर्मिती</string>
+    <string name="tab_text_26">पुण्यातील पेठा</string>
+    <string name="title_activity_marathipetha">marathipetha</string>
+    <string name="title_activity_marathimuseum">marathimuseum</string>
+    <string name="title_activity_marathibladesofglory">marathibladesofglory</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_marathitemples">marathitemples</string>
+    <string name="title_activity_english_forts">English_Forts</string>
+
+    <string name="tab_text_27">Shinha Gad</string>
+    <string name="tab_text_28">RajGad</string>SectionsPagerAdapter
+    <string name="tab_text_29">Jadhav Gad</string>
+    <string name="title_activity_marathi_forts">Marathi_Forts</string>
+
+    <string name="tab_text_30">सिंहगड</string>
+    <string name="tab_text_31">राजगड</string>SectionsPagerAdapter
+    <string name="tab_text_32">जाधवगड</string>
+    <string name="title_activity_hindi_forts">Hindi_Forts</string>
+
+    <string name="tab_text_33">सिंहगड</string>
+    <string name="tab_text_34">राजगड</string>SectionsPagerAdapter
+    <string name="tab_text_35">जाधवगड</string>
+    <string name="title_activity_english_hills">English_hills</string>
+
+    <string name="tab_text_36">Taljai</string>
+    <string name="tab_text_37">Parvati</string>
+    <string name="title_activity_marathi_hills">Marathi_hills</string>SectionsPagerAdapter
+
+    <string name="tab_text_38">तळजाई</string>
+    <string name="tab_text_39">पर्वती</string>
+    <string name="title_activity_hindi_hills">Hindi_hills</string>
+
+    <string name="tab_text_40">तळजाई</string>
+    <string name="tab_text_41">पर्वती</string>
+    <string name="title_activity_historical_places">Historical_Places</string>
+
+    <string name="tab_text_42">Vishrambag Wada</string>
+    <string name="tab_text_43">Shaniwar Wada</string>
+    <string name="tab_text_44">Lal Mahal</string>
+    <string name="tab_text_45">Nana Wada</string>
+    <string name="tab_text_46">Shitole Wada</string>
+    <string name="tab_text_47">Bhuleshwar Temple</string>
+    <string name="title_activity_marathi_historical_places">marathi_historical_places</string>
+
+
+    <string name="tab_text_48">विश्रामबाग वाडा</string>
+    <string name="tab_text_49">शनिवार वाडा</string>
+    <string name="tab_text_50">लाल महाल</string>
+    <string name="tab_text_51">नाना वाडा</string>
+    <string name="tab_text_52">शितोळे वाडा</string>
+    <string name="tab_text_53">भुलेश्वर मंदिर</string>
+    <string name="title_activity_hindi_historical_places">Hindi_HistoricalPlaces</string>
+
+    <string name="tab_text_54">विश्रामबाग वाडा</string>
+    <string name="tab_text_55">शनिवार वाडा</string>
+    <string name="tab_text_56">लाल महाल</string>
+    <string name="tab_text_57">नाना वाडा</string>
+    <string name="tab_text_58">शितोळे वाडा</string>
+    <string name="tab_text_59">भुलेश्वर मंदिर</string>
+
+
+</resources>

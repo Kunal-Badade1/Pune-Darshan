@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ShoppingCenter">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Shopping Malls in Pune"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="1. Phoenix Market City, Pune"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/phoenix"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Touted to be one of the biggest malls in Pune, this famous chain of lifestyle malls has made its footprint in the city by blending in modern and traditional retail elements perfectly. The four-floored retailing paradise has a gigantic hypermarket, four spacious departmental stores, a value shopping bazaar, and over 280 retailing store partners. The stores include the right mix of premium and home labels for toys, books, electronics, beauty service and lifestyle stores, casuals, sports and luxury gear, art and craft, etc. For those who want to relax for a while after relentless shopping, the mall has a sprawling courtyard and a cascading waterfall area that is inspired by the great waterfalls near Pune. The kids’ play zone will keep your little ones engaged for hours on end.
+
+Coming to food, the humungous food court at the mall houses 6 fine-dining restaurants that can be definitely included in the most iconic restaurants in Pune list, over 20 multi-cuisine restaurants, several quick-service counters, a garden dining area that serves fast food, popcorn, and snacks, plus an open-air terrace garden with cafés. The PVR multiplex with nine screens is where you can catch up on the latest releases. The mall complex also includes amenities like a community center, a 5-star hotel and luxury serviced apartments, and a spacious state-of-the-art business center, to mention a few. No wonder, Phoenix Mall, Pune is a crowd favorite during all seasons.
+
+Location: Viman Nagar Road, Pune
+Timings: 11.00 am to 11.00 pm every day (restaurants are open till 12.00 am)
+Nearest Bus Stop: Inorbit Mall Bus Stop "/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="3. Seasons Mall, Pune"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/seasons"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="A food court that spans over 25,000 sq. ft, a 15-screen multiplex, a sensational hypermarket, and multiple stores housing over a hundred brands – well, Seasons Mall in Pune has got everything to make you unleash your shopping spirits. Affordable luxury is the core theme of this mall which reflects its customer-centric values. The mall also accommodates the best in entertainment and leisure with its gaming zone, kids’ play zone, Go-Karting track, and the Snow World, while the fine-dining restaurants here are among the best in town. The mall has a grand entrance where different welcome settings and models are displayed according to seasonal themes. There are elevators and escalators on every floor and a large parking area for your cars and two-wheelers. Seasons Mall promises a gala time with the gang every time you go there and a great shopping experience for that special occasion.
+
+Location: Magarpatta City, Pune
+Timings: 10.30 am to 11.00 pm; every day
+Nearest Bus Stop: Magarpatta"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="4. Pune Central Mall, Pune"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/central"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Central Mall, Pune is meant for seasonal shoppers who binge-shop for affordable luxury brands. It houses a large departmental store for clothing, apparels, accessories, footwear, home décor, and lifestyle products. With over 300 brands to choose from at CMP, shoppers are bound to go bonkers over the variety of eclectic goods which are absolute trendsetters. The latest collection under each label is featured here for the fashion-forward people in town. The mall has a large food court to recharge at after a long day’s shopping spree with many fast-service counters and casual dining outlets. You do not have to worry about stationing your vehicles since the mall has a generous parking space. Venture into a world of uninterrupted shopping at Pune Central this weekend and gorge on some amazing grub afterward, what say?
+
+Location: Khilarewadi, Pune
+Timings: 11.00 am to 10.30 pm; every day
+Nearest Bus Stop: Garware College"/>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

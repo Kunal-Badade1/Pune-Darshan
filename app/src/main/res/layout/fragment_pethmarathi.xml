@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pethmarathi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="1) शनिवार पेठ"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="10sp"
+            android:textSize="18sp"
+            android:text="पुण्यातील 'शनवार' पेठेचा इतिहास
+
+मूर्तझा पेठ हे खरे तर या पेठेचे नाव. परंतु या पेठेचा गाजावाजा झाला तो पेशव्यांनी उभारलेल्या त्यांच्या वाड्यामुळे. पेशवाई मध्ये त्या वास्तूला थोरला वाडा असे नाव होते. अर्थात शनिवार पेठेत असल्याने त्याला पुढे शनिवार वाडा असे म्हणले जाऊ लागले आणि हीच पुण्याची खरी ओळख बनली. रामशास्त्री प्रभुणे यांचा वाडा सुद्धा याच पेठेत होता. पूर्वीच्या काळी शनिवारवाड्याच्या समोरील पटांगणात भाजी मंडई भरत असे.
+
+सन 1764 साली या पेठेत सुमारे 374 घरे होती पण पुढे जसे जसे शनिवार वाड्याचे महत्व कमी होऊ लागले तसे या पेठेतील वस्ती सुद्धा कमी होऊ लागली. सन 1826 मध्ये या पेठेत फक्त 159 घरे होती.
+
+शनिवार पेठेतेच ओंकारेश्वर आणि अमृतेश्वर यांच्यासारखी सुंदर पेशवेकालीन मंदिरे आहेत. ओंकारेश्वर मंदिराच्या इथे तर पूर्वी स्मशान होते. पेठेतील अमृतेश्वर मंदिर हे थोरल्या बाजीराव पेशव्यांच्या बहिणीने बांधले आहे.
+शनिवार पेठेत अनेक प्रसिद्ध सरदारांचे वाडे होते. यात सांगलीकर, रास्ते, नातू, मेहेंदळे, गोळे, बिवलकर, थत्ते, राजमाचीकर यांचा समावेश होतो."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="2) मंगलवार पेठ:  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंगळवार पेठ : औरंगजेब बादशाहाचा मामा शाहिस्तेखान दख्खन मोहीमेवर ९ मे १६६० रोजी पुण्यामधे आला,त्यावेळी त्याने लाल महालामद्ध्ये आपला मुक्काम ठोकला , आणि त्याचेसोबत
+आलेल्या अडीच लाखांच्यावर  सैनिकाची व्यवस्था त्याने लाल महालाच्या आजूबाजूच्या असलेल्या मोकळ्या जागेत केली.जवलूनच मुठा नदी जात असल्याने पाण्याचीही सोय झाली.
+तीन वर्षातच बाजारपेठ बहरली. शाहीस्तेख्नाचीया पेठ म्हणून हीला शास्तापुरा आसेही म्हणत असत अशीही कागदोपत्री नोंद आढसळते.छत्रपती शिवाजीमहाराजांनी शाहीस्तेखानाच्या
+छावणीवर हल्ला करून लाल महालाच्या खिडकीतून शाहीस्तेखान पळून जात असता त्याची बोटे छाटली त्यामुळे घाबरून जाऊन खान दिल्लीला पळून गेला. "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="3) बुधवार पेठ: :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="बुधवार पेठ : रविवार पेठ चार वर्षातच भरली म्हणून नानासाहेब पेशव्यांनी त्याच्या जवळसच नवी वसाहत वसविण्याचा निर्णय घेतला व त्या वसाहतीचे ‘बुधवार पेठ’असे नामकरणही केले.
+या ठिकाणी रस्त्याचे दुतर्फा कापडाचे व्यापारी  कापड व्यवसाय करीत असल्याने या भागाला ‘कापड गंज (पेठ) किंवा कापड आळीअसेही म्हणत, जवळच एक विठ्ठलाचे मंदिरही होते त्याच्या
+समोरच नारायण गावचे  काही पासोड्या विकणारे व्यापारी बसत म्हणून त्या विठ्ठलालाही ‘पासोड्या विठोबा असे म्हटले जाऊ लागले."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="4) गुरुवार पेठ :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gr1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गुरुवार पेठ : बुधवार आणि रविवार या दोन्ही पेठांमधील वस्ती व गर्दी वाढली,मोठ्या व्यापार्यां नी तर बरीचशी जागा व्यापून टाकली, पण त्यामुळे छोट्या
+व्यापार्यांीची फारच गैरसोय होऊ लागली.जवळपासच्या छोट्या छोट्या गावातून आपला माल घेऊन येऊन विकणारे बरेच छोटे व्यापारी होते. दिवसभर
+व्यापार करून दिवेलागणीला परत घरी जाणारे. अशा व्यापाराला मेण बाजार असे म्हणतात. या छोट्या व्यापार्यां ना व्यवस्थित जागा मिळावी या उद्देशाने
+नानासाहेब पेशव्यांनी ही नवीन ‘ गुरुवार ’ पेठ वसविली ,तेथे एक वेताळाचे देऊळही बांधले त्यामुळे ‘ वेताळपेठ ’ असाही उल्लेख केलेला
+आढळतो .या गुरुवार पेठेत अठरापगड जातींचे व्यापारी होते.उदा. सोनार , लोहार , जंगम , काची , पेंधारी , छप्परबंद , मोची , तांबोळी  इत्यादी."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gr2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="5) शुक्रवार पेठ :  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="शुक्रवार पेठ : जिवाजीपंत  अण्णा खासगीवाले कोतवाल यांनी ही पेठ तिसरे पेशवे श्रीमंत बाळाजी बाजीराव यांच्या आदेशा वरुन वसविली होती. क्षेत्रफळ व लोकसंख्येनुसार हे पेठ इतर सर्व पेठांपेक्षा मोठी होती. "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="6) सोमवार पेठ :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sm2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सोमवार पेठ हे भारतीय प्रजासत्ताक राज्याच्या महाराष्ट्र राज्यातील पुणे शहरात स्थित एक क्षेत्र आहे.
+या भागाला कसबा पेठ, शनिवार पेठ आणि रविवार पेठ लागून आहे.
+सोमवार पेठेचा विकास 1625 मध्ये महाराज शहाजी राजे भोसले यांचे मंत्री रंगो बापूजी धडफळे यांनी केला.
+१६३० मध्ये आदिल शाही घराण्याने केलेल्या छाप्यांमुळे हा परिसर प्रभावित झाला. १६३६ ते १६४७ दरम्यान शहाजीचे लष्करी आणि प्रशासकीय अधिकारी दादोजी कोंडदेव यांनी त्याचा पुनर्विकास केला.
+केईएम हॉस्पिटल (किंग एडवर्ड मेमोरियल हॉस्पिटल) आणि शाहू गार्डन याच परिसरात आहे. सोमवार पेठ हे कात्रज, स्वारगेट, पुणे रेल्वे स्टेशन, कॅम्प आणि या बस मार्गावरील इतर भागांना PMPML बसने जोडलेले आहे. त्रिशुंड गणपती हेमाड पंथी मंदिर आणि नागेश्वर मंदिर ही सोमवार पेठेतील सर्वात जुनी मंदिरे आहेत.
+
+केईएम रुग्णालय हे भारतातील पुणे शहरातील सोमवार पेठ परिसरात आहे. केईएम हॉस्पिटल सोसायटीद्वारे चालवले जाणारे हे हॉस्पिटल संपूर्ण पुणे जिल्ह्यातील सर्वात मोठी अशासकीय हॉस्पिटल संस्था आहे. हॉस्पिटलमध्ये 550 खाटा आहेत आणि ते पुणे शहर तसेच पुणे जिल्ह्यातील पुणे उपनगरे आणि ग्रामीण भागातील रुग्णांना सेवा देतात. मध्य पुण्यातील स्थानामुळे ते सोयीस्करपणे उपलब्ध आहे.
+
+पुण्यातील सोमवार पेठ परिसरात असलेल्या शाळा खालीलप्रमाणे आहेत.
+
+सरस्वती विद्यालय संघ प्राथमिक शाळा. (सह-संपादक)
+सरस्वती विद्यालय युनियन हायस्कूल आणि ज्युनियर कॉलेज (को-एड)
+बालविकास शिक्षण संस्था प्राथमिक शाळा. (सह-संपादक)
+आबासाहेब अत्रे हायस्कूल.(सह-संपादक)
+सरस्वती विद्यालय युनियन हायस्कूल आणि कनिष्ठ महाविद्यालय.(सह-संपादक)
+मुख्य कार्यकारी अधिकारी जिल्हा परिषद
+एसआय रास्ते प्राथमिक विद्यालय (सह-संपादक)
+इंडियन रेड क्रॉस (को-एड)"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sm3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="7) रविवर पेठ:  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400sp"
+            android:src="@drawable/bd3"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="रविवार पेठ :  कसबा पेठ आणि शनिवार पेठ येथील वस्ती वाढत होती आणि जागा अपुरी पडत होती त्यामुळे थोरले बाजीराव पेशवे यांनी पूर्वीच्या केदार वेशीच्या बाहेर जुन्या मलकापुर पेठेच्या दुतर्फा नव्या पेठेची उभारणी करून तिचे (आदित्यवार) ‘ रविवार ‘ पेठ असे नामकरण केले. जुन्या  केदावेशिपासून ते पासोद्या विठोबाच्या मंदीरापर्यंतच्या रस्त्यावर व्यापार्यांेनी बाजारपेठा वसविल्या. शेजारच्या मुहियाबाद पेठेतल्या (बुधवार पेठ) कापडालीमध्ये सुद्धा दुकानांची भाऊगर्दी झाली होतीच म्हणूनच रविवार पेठ दक्षिणेकडे वाढवून सराफाञ्ची दुकाने थाटली गेली. रविवार पेठेच्या दक्षिणेकडील टोकाला सोन्या मारुती आहे. रविवार पेठ म्हणजे श्रीमंत व्यापारी पेठ अशी ओळख आहे."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd4"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="8) कसबा पेठ :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kb2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="कसबा पेठ किंवा कसबा हा पुणे, भारतातील 'पेठ' (परिसर) हा सर्वात जुना निवासी भाग आहे. हे ऐतिहासिक शनिवार वाडा राजवाडा-किल्ल्याला लागून आहे. कसबा पेठ ही 5 व्या शतकात कधीतरी स्थापन झालेली पहिली पेठ होती,[1] आणि पुण्यातील सर्वात जुनी क्षेत्र आहे. त्याला 'पुणे शहराचे हृदय' असे म्हणतात. पुण्याच्या इतिहासात एकेकाळी हे शहर ‘कसबे पुणे’ म्हणून ओळखले जात असे.
+
+        कसबा गणपती हे पुण्याचे ग्रामदैवत आहे. ते शिवाजीच्या काळात बांधले गेले. कसबा पेठेत शिवरायांचे तटबंदी असलेले निवासस्थान लाल महाल होते. आज शनिवारवाड्याला लागून त्याची प्रतिकृती पाहायला मिळते. शहराचा सर्वात जुना भाग असल्याने, येथे जुने निवासी संकुल, 'वाडा (घर)' अस्तित्वात आहे. कसबा पेठ हे प्रामुख्याने निवासी क्षेत्र आहे. कसबा पेठेभोवती विविध प्रकारची दुकाने आहेत (तांबट अली, शिंपी अली, व्यवहार अली, भोई अली इ.). कुंभार वाडा (मातीच्या भांड्यांचे क्षेत्र) आणि तांबट अली (पितळ/तांबे भांडी उत्पादकांचे क्षेत्र) यासाठी हे प्रसिद्ध आहे.
+
+        कसबा गणपतीबद्दल एक कथा आहे: काही मुलांनी या परिसरात गायी चरण्यासाठी आणल्या होत्या, आणि त्यांना गणपतीची मूर्ती सापडली. त्यानंतर त्यांनी या मूर्तीला रंग दिला आणि तिची पूजा सुरू केली. शिवरायांची आई जिजाबाईही अनेकदा मंदिरात जात. त्यामुळे दादोजी कोंडदेव यांनी मूर्तीसमोर पेंडोल बांधला; याच ठिकाणी आज कसबा गणपती मंदिर आहे.
+
+        मुठा नदीजवळील पेठेचा भाग कुंभार वाडा (मातीचे भांडे बनविणाऱ्यांचा परिसर) म्हणून ओळखला जातो. पितळ आणि तांब्यापासून भांडी तयार करण्यासाठी ओळखले जाणारे कुशल धातू कारागीर (तांबट म्हणून ओळखले जाते) देखील तेथे राहतात.
+
+        लाल महाल आणि कसबा गणपती मंदिर, त्वष्टा कासार कालिका देवी मंदिर ही काही प्रेक्षणीय ठिकाणे आहेत. बुधवार पेठ आणि शनिवार पेठ (नैऋत्येला), रास्ता पेठ (आग्नेयेला), रविवार पेठ (दक्षिणेत) आणि मंगळवार पेठ (पूर्वेला) या कसबा पेठेच्या शेजारच्या पेठ आहेत."/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kb3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="9) गणेश पेठ: :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गणेश पेठ : रविवारपेठेच्या पूर्वेला आणि गंजपेठे च्या उत्तरेला वसाहत स्थापण्यात आली आणि गणेश पेठ असे नामकरण करण्यात आले. येथे असणाऱ्या डुल्या मारुतीची एक आख्यायिका प्रसिद्ध आहे ती अशी, पानिपत संहाराच्या बातम्या ऐकून इथला मारुती डोलू लागला म्हणुन याला ‘डुल्या मारुती’ असे नांव पडले."/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="10) गंज पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मीठगंज पेठ : त्याकाळी या भागात मोठ्या प्रमाणावर मीठाचा व्यापार, साठवण, विक्री चालायची म्ह्णुन या भागाला ‘ मीठगंज ‘ पेठ असे नाव पडले. मिठाबरोबरच येथे मोठ्या प्रमाणावर अॅन मालाची गोदामे होती म्हणून काही काळानंतर ‘ गंज पेठ ‘ असे नामकरण करण्यात आले. त्यावेळी महात्मा ज्योतिबा फुले येथे रहात असत व आता शासनाने त्याच जागेवर आता त्यांचे स्मारक  केल्याने आता या पेठेचे नांव ‘ महात्मा फुले पेठ ‘ असे बदलण्यात आले आहे"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="11) नारायण पेठ:"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नारायण पेठ : पानिपतच्या युद्धानंतर  पांचवे पेशवे नारायण बाळाजी (मृत्यू १७७३) यांच्या स्मृतीप्रित्यर्थ ही पेठ वसविण्यात आली."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="12) घोरपड़े पेठ :"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="घोरपडे पेठ  :  सरदार मालोजीराव घोरपडे  (१७८१) यांचे स्वतःचे खासगी सैन्यदल होते . त्यांच्या स्मृतिप्रित्यर्थ त्यांचा नांवानेच ही पेठ वसविली गेली. "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gh"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="13) भवानी पेठ  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bh"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भवानी पेठ (टिंबर मार्केट)  : नागझरीच्याही पलीकडे जेथे १६०३ मध्ये औरंगजेबाच्या सैन्याची छावणी होती , त्या जागेवर पुण्याचा विस्तार करावयाचे माधवराव पेशव्यांनी ठरवले . तेथील पेशव्यांचे कारभारी सखाराम भगवंत यांनी मोकळ्या जागेत भवानी देवीचे मंदिर बांधले. त्याउले पुढे ही ‘ भवानी पेठ ‘ म्हणूनच ओळखली जाऊ लागली.
+घाऊक व्यापारी, तेलबिया,लाकूड आणि किराणा - भुसारी व्यापारी अशी या पेठेची ओळख आजही कायम आहे. मोकळी जागा भरपूर असल्याने बाहेरून आलेल्या मालाची चढ-उतार व साठवण आणि वाटप याच ठिकाणी होते. या पेठेच्या मध्यभागी सूर्यामुखी सिद्धीविनायक मंदिराच्या जवळच  चावडी होती. त्यावर रामोशी पहारेकरी असायचे .शेजारी  रामोशी गेट पोलिस चौकी आहे."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="14) नाना पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नाना पेठ : नानासाहेब पेशवे यांच्या स्मृतीप्रित्यर्थ आणि फक्त धान्य व्यापाऱ्यांसाठी नाना पेठ स्थापन केली गेली, व केवळ व्यापारी उद्देशाकारताच ही पेठ वसविली गेली. "/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="15) रास्ते पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="रास्ते पेठ : पेशव्यांचे एक सरदार आनंदराव लक्ष्मण रास्ते (१७८२)  हे पेशव्यांचे घोडदळ सांभाळायचे. त्यांच्याच नांवे ही पेठ ओळखली जाते."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="16) नागेश पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नागेश पेठ : हिलाच ‘न्याहाल’  पेठ असेही म्हणत असत.
+लोकवस्ती वाढली, उदयोगधंदे वाढले नवीन पेठा स्थापन झाल्या. सात वार, सात पेठा हे समीकरण कधीच मागे पडले. आजकाल नवीन शहरेच वसविली जातात."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पण या पेठांमुळे बरेचसे पुणेरीपण टिकविले आहे. काळानुरुप बदल झाले असतील पण ते पुणे आता राहिलेच नाही म्हणणाऱ्यांनी इथे चक्कर मारलीच पाहिजे.
+
+पुण्याच्या या पेठांचे १८६९ ते १८७२ या दरम्यान रे लाईट या ब्रिटीश अधिकाऱ्याकडून नकाशामापन या शास्त्रशुद्ध पद्धतीनुसार सर्वेक्षण करण्यात आले. कारण तेव्हा पेठा म्हणजेच पुणे आणि पुणे म्हणजेच पेठा होते."/>
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

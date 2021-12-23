@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindicricket">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="ब्लेड्स ऑफ ग्लोरी क्रिकेट संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="ब्लेड्स ऑफ ग्लोरी क्रिकेट म्यूजियम का उद्घाटन औपचारिक रूप से सचिन तेंदुलकर ने 2012 में किया था। यह एक आवासीय भवन की तीसरी मंजिल पर स्थित है और 12,000 से अधिक क्रिकेट एक्सेसरीज का घर है। संग्रहालय का स्वामित्व, क्यूरेट, और वित्त पोषित रोहन पाटे द्वारा किया जाता है, जो स्वयं एक पूर्व अंडर -19 क्रिकेटर हैं। यह चार छोटे कमरों और एक बड़े कमरे में बंटा हुआ है जिसमें भारतीय क्रिकेट टीम के बैनर और क्रिकेट उपकरण लगे हैं। चार छोटे कमरे रिकॉर्ड बनाने वाले क्रिकेटरों को समर्पित हैं। बड़े कमरे में विभिन्न प्रकार के उपकरण हैं और भारत की विश्व कप जीत पर प्रकाश डाला गया है।
+
+4,000 वर्ग फुट में फैले इस संग्रहालय में क्रिकेट के कुछ महानतम क्रिकेटरों के ऑटोग्राफ वाले चमगादड़, गेंद, जूते, पैड, जर्सी आदि हैं। विशेष रूप से सचिन तेंदुलकर और विराट कोहली को समर्पित एक कमरा है, प्रत्येक में उनके क्रिकेट करियर का विस्तृत रिकॉर्ड है, जिसमें स्कोर, पुरस्कार, वर्दी, उपकरण आदि शामिल हैं। क्रिस गेल और सनथ जयसूर्या जैसे अंतरराष्ट्रीय क्रिकेटरों की कलाकृतियाँ भी शामिल हैं। दुर्लभ वस्तुएं, जैसे कि पूर्व क्रिकेटरों की टोपी, प्रतिष्ठित बॉलिंग मोमेंट्स के फटे जूते आदि भी यहां संरक्षित हैं। संग्रहालय में दुनिया भर के क्रिकेटरों की व्यक्तिगत यात्राओं का दावा है। इन क्रिकेटरों की तस्वीरें और पोस्टर उनके दौरे के दौरान उनके द्वारा विशेष रूप से हस्ताक्षरित किए गए हैं। प्रवेश पर, आगंतुकों को एक वीडियो दिखाया जाता है जो संग्रहालय की यात्रा को बहुत अच्छी तरह से दस्तावेज करता है।"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b5"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="1975 में क्लाइव लॉयड के वेस्ट इंडीज से लेकर 2019 में इयोन मॉर्गन के इंग्लैंड तक, गैलरी 12 विश्व कप विजेता टीमों में से प्रत्येक द्वारा हस्ताक्षरित बल्ले को प्रदर्शित करती है।
+दुनिया भर के खिलाड़ियों से 51000+ से अधिक यादगार लम्हें"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b3"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सभी विश्व कप विजेता कप्तानों का हस्ताक्षरित बल्ला
+पूर्व ऑस्ट्रेलियाई क्रिकेटर सर नील हार्वे का हस्ताक्षरित बल्ला।
+लारा, सहवाग, जयसूर्या, अमला, कुमार संगकारा जैसे ट्रिपल सेंचुरियन द्वारा हस्ताक्षरित चमगादड़।
+इसी तरह, तीनों विश्व ट्वेंटी 20 चैंपियन टीमों - भारत (2007), पाकिस्तान (2009) और इंग्लैंड (2010) ने बल्ले पर हस्ताक्षर किए हैं जो गैलरी में प्रदर्शित होते हैं।
+50वां टेस्ट शतक बनाने के दौरान सचिन तेंदुलकर ने जो ट्राउजर पहना था; मुथैया मुरलीधरन की जर्सी जिस दिन वह टेस्ट क्रिकेट में माउंट 800 को पार करने वाले एकमात्र क्रिकेटर बने और वीरेंद्र सहवाग की जर्सी जिसने उन्हें 2010 में श्रीलंका के खिलाफ एक यादगार दोहरा शतक बनाने में मदद की।
+डेसमंड हेन्स, गॉर्डन ग्रीनिज (वेस्टइंडीज), मार्क वॉ, एलन बॉर्डर (ऑस्ट्रेलिया), केविन पीटरसन (इंग्लैंड), सौरव गांगुली, कपिल देव, महेंद्र सिंह धोनी, युवराज सिंह (भारत) सहित महान लोगों द्वारा हस्ताक्षरित व्यक्तिगत क्रिकेट गियर।
+वेस्ट इंडीज के महान तेज गेंदबाज मैल्कम मार्शल की वेस्ट इंडीज कैप, जिनकी 1999 में कैंसर से मृत्यु हो गई; अपने खेल के दिनों में सर विवियन रिचर्ड्स का स्वेटर; ऑस्ट्रेलिया के विश्व कप विजेता सलामी बल्लेबाज डेविड बून की वनडे जर्सी और पाकिस्तान के पूर्व महान खिलाड़ी जावेद मियांदाद का ऑटोग्राफ वाला बल्ला।
+द लीजेंड्स रूम में सचिन तेंदुलकर, राहुल द्रविड़, सर विवियन रिचर्ड्स, जैक्स कैलिस और रिकी पोंटिंग के ऑटोग्राफ वाले क्रिकेटिंग गियर के साथ एक गोल्डन सेंचुरी फ्रेम है जिसमें सभी बल्लेबाजों के महानतम सर डोनाल्ड ब्रैडमैन द्वारा हस्ताक्षरित एक सुनहरा बल्ला शामिल है।
+क्रिकेट का बल्ला जिससे सईद अनवर ने भारत के खिलाफ 21 मई 1997 को चेन्नई में 194 रन बनाए।
+विश्व कप 2019 संग्रह। दुनिया भर के खिलाड़ियों के बल्ले, गेंद और जर्सी।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/b1"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

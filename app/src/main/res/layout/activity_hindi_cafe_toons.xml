@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_CafeToons">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="कैफे टून्स"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="कैफे टून्स एकदम सही स्पोर्ट्स बार है। माहौल की बात करें तो दीवारों पर कार्टून कमाल के थे और मुझे उनके द्वारा बजाए गए संगीत से प्यार था। रेनोवेशन के बाद लुक को पूरी तरह से बदल दिया गया है लेकिन फील वही रहता है। हम खरीदारी के एक लंबे दिन के बाद बस एक-दो बियर के लिए निकले, इसलिए भोजन पर ज्यादा टिप्पणी नहीं कर सकते। सेवा अच्छी थी। कुल मिलाकर, खेल देखने और चैट करने के लिए एक अच्छी जगह।
+
+कैफे टून्स अपने रॉक संगीत, ठंडी बियर, आरामदेह माहौल, लाइव स्पोर्ट्स कवरेज वाले एलसीडी के लिए प्रसिद्ध है। मुझे लगभग 6 साल पहले इस जगह की अपनी पहली यात्रा याद है और अब भी यह पुराने समय की तरह ही जीवंत है।
+वर्तमान में कैफे टून्स 14 अक्टूबर से 23 अक्टूबर 2016 तक बर्गर फेस्टिवल चला रहा है। जहां वे 7 मांसाहारी बर्गर और 5 वेज बर्गर पेश कर रहे हैं।
+#FoodProwl टीम को कल भोजन चखने के लिए आमंत्रित किया गया था और हमने उन सभी नॉन-वेज बर्गर का स्वाद चखा
+"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="वैसे उनके नियमित मेनू में उनके पास बीयर, शॉट्स, कॉकटेल, वाइन, भोजन, पास्ता, पिज्जा, बर्गर, साइड ऑर्डर, कॉफी और पेय पदार्थ हैं। बर्गर फेस्ट के लिए उनके पास एक विशेष मेनू है जिसमें बीयर + बर्गर कॉम्बो और बर्गर, पूरे लोटा बर्गर हैं !!
+परोसे जाने वाले सभी बर्गर का नाम रॉक ट्रैक के नाम पर रखा गया है क्योंकि यह स्थान सभी लोकप्रिय क्लासिक रॉक नंबरों को बजाने के लिए जाना जाता है। शाकाहारी बर्गर में मोज़ेरेला, चेडर और पनीर, पोर्टोबेलो पेस्टो बर्गर, स्वीट चाइल्ड'ओ माइन बर्गर आदि से भरा बिली जीन बर्गर शामिल हैं। मांसाहारी बर्गर में पुल्ड लैम्ब बर्गर, द सैंडमैन बर्गर, मिसो ग्लेज़्ड फिश बर्गर, होटल कैलिफ़ोर्निया बर्गर शामिल हैं। , जद का बर्गर ऐस ऑफ स्पेड्स बर्गर।
+
+होटल कैलिफ़ोर्निया बर्गर में वसाबी की बड़ी बूँद थी जिसने मुझे किसी भी चीज़ की तरह मारा। मिसो इन्फ्यूज्ड, ग्रिल्ड रिवर सोल जिसमें वसाबी मेयो होता है, इसके साथ एक वसाबी डिप भी परोसा जाता है। ओह यार!! वह वसाबी प्रभाव कुछ मिनटों तक चला, मेरी आँखों में पानी आ गया और नाक बहने लगी :(। लेकिन अगर आपके पास बस पर्याप्त है, तो प्रारंभिक तीखापन सुखद मीठा और मधुर स्वाद में बदल जाता है।
+
+तो अगर आप बर्गर के बहुत बड़े प्रशंसक हैं तो आगे बढ़ें कुछ बर्गर @ टून्स के साथ दो चिल्ड बियर। कुछ रॉकिंग संगीत का आनंद लें।
+
+पता:
+
+यह एमजी रोड पर शहर के बीचों-बीच वंडरलैंड नामक परिसर में बेसमेंट में स्थित है।
+
+टून्स - द कैफे डाउन अंडर
+26, वंडरलैंड बेसमेंट, 7 एमजी रोड, कैंप एरिया, पुणे
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t4"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

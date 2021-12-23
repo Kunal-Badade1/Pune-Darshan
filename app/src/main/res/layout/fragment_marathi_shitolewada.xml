@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathi_shitolewada">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="ितोळे वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shitole_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सरदार शितोळे वाडा ( कसबा पेठ, पुणे )
+या ऐतिहासिक वास्तूचे मूळ मालका राजा राजेंद्र शितोळराजा या सिसोदिया राजघराण्यातील वंशज आहेत.
+हे घराणे सुमारे बाराशे वर्षापूर्वी उत्तरेकडून येऊन स्थानिक झालेत, अनेक शतके त्यांची देशमुखीचे अखंडित
+ हक्क होते. पुणे परिसरातील पाषाण, लवळे, हडपसर, वानवडी, मांजरी, मोशी यासारख्या सुमारे साडेतीनशे
+ गावांचे ते इनामदार होते. आज २१ व्या शतकात देखील त्या-त्या गावातून जमिनींचे मालक म्हणून शितोळे देशमुखांच्या नोंदी आळतात.
+
+पुण्याचा शनिवारवाड्या खालचं भूखंड , ही सरदार शितोळे देशमुखांची शेतजमीन होती. शनिवारवाडा
+बांधण्यासाठी पेशव्यांना हा भूखंड शितोळे सरकारांनी दिला होता, त्याच्या मोबदल्यात पेशव्यांकडून
+त्यांना बाणेर व जवळार्जुन येथील जामिनी देण्यात आल्या."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shitole_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+पुढे सरदार शितोळे यांच्या जहागिरी मध्यप्रदेशातील होशंगाबाद, शहाजाबाद, खंडवा, सोनपत, पानिपत, नरवर ,
+ उज्जैन, गवाल्हेर इत्यादी जिल्ह्यात आणि महाराष्ट्रातील सातारा, पुणे, अहमदनगर, नाशिक या जिल्हयाबरोबरच
+खानदेशापर्यंत विस्तारल्या होत्या.
+
+या घराण्यातील व्यक्तीला या वास्तूत नरसिंहाचा दृष्टांत झाला होता. अर्थात नरसिंह देवता या घराण्याचे कुल दैवत आहेत.
+गणपती मंदिर, ७३/अ, रामगणेश गडकरी पथ, श्री कसबा जवळ, यशोदत्त हाउसिंग सोसायटी, कसबा पेठ, पुणे, महाराष्ट्र ४१११०११
+
+
+
+"
+
+            ></TextView>
+
+
+
+    </LinearLayout>
+</ScrollView>

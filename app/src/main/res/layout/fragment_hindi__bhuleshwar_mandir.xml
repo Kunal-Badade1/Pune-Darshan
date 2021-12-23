@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_BhuleshwarMandir">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="भुलेश्वर मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bhuleshwar1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+भगवान शिव को समर्पित, भुलेश्वर पुणे से लगभग 50 किलोमीटर की दूरी पर स्थित एक प्राचीन हिंदू मंदिर है।
+ 13वीं सदी का यह मंदिर दिलचस्प और दिलचस्प नक्काशी के साथ एक सुंदर वास्तुकला का दावा करता है।
+संरक्षित स्मारक घोषित, मंदिर के बारे में एक विचित्र तथ्य है- यदि आप एक पेटी चढ़ाते हैं
+कभी-कभी शिव लिंग को मिठाई की; एक या अधिक मिठाइयाँ गायब हो जाती हैं, मानो प्रभु
+आपके प्रसाद को स्वीकार कर लिया है!
+"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+अन्य संपर्क नंबर +91 9975601144 है।
+यह पूजा का एक सक्रिय स्थान है, इसलिए कृपया जगह की शांति बनाए रखें।
+रूढ़िवादी कपड़े पहनने की सिफारिश की जाती है।
+मंदिर परिसर के बाहर अपने जूते उतारना न भूलें
+
+"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+यवती में बस स्टॉप
+सासवाडी में बस स्टॉप
+कार किराए पर लेने की सलाह दी जाती है।
+भुलेश्वर मंदिर का पता: भुलेश्वर रोड, पुणे, महाराष्ट्र 412104, भारत
+भुलेश्वर मंदिर संपर्क नंबर: +91-9860792003
+भुलेश्वर मंदिर का समय: सुबह 06:00 बजे से शाम 09:00 बजे तक
+भुलेश्वर मंदिर जाने का सबसे अच्छा समय (पसंदीदा समय): सुबह 08:00 बजे से शाम 05:00 बजे तक
+भुलेश्वर मंदिर के दर्शन के लिए आवश्यक समय: 01:00 बजे
+
+
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

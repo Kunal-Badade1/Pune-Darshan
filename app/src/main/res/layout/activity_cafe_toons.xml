@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CafeToons">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Cafe Toons"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Café toons is the perfect sports bar. Talking about the ambience, the cartoons on the walls were awesome and I loved the music they played. After renovation, the look has been completely changed but the feel remains the same. We just dropped by for a couple of beers after a long day of shopping so cannot comment much on food. Service was nice. All in all, a nice place to watch sports and chat. "/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Cafe Toons is famous for its rock music, chilled beers, cozy ambiance, LCDs beaming live sports coverage. I remember my first visit to this place around 6 years ago and still it has same vibes as of the old times.
+Currently Cafe Toons is running a Burger festival starting from 14th October to 23rd October 2016. Where they are offering 7 non vegetarian burgers and 5 veg burgers.
+The #FoodProwl team was invited for food tasting yesterday and we tasted all those non-veg burgers 🙂
+"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/t4"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Well in their regular menu they have Beers, shots, cocktails, wines, meals, pastas, pizzas, burgers, side orders, coffees and beverages. For Burger Fest they have  a special menu which has Beer+ Burger combos and Burgers, whole lotta Burgers!!
+All burgers served are named after a rock track since this place is known for playing all popular classic rock numbers. The veg burgers include The Billie Jean Burger loaded with mozzarella, cheddar and cottage cheese, Portobello pesto Burger, Sweet Child’O mine Burger etc. The non vegetarian burgers include Pulled lamb burger, The Sandman Burger,  Miso glazed fish burger, Hotel California burger, JD’s Burger Ace of Spades Burger.
+
+Hotel California Burger was having huge blob of Wasabi in it which hit me like anything. Miso infused, grilled river sole with wasabi mayo in it also a wasabi dip served along with this. Oh man!!  That wasabi effect lasted for couple of minutes, made my eyes watery and nose runny :(. But if you have just enough, the initial pungency turns into pleasantly sweet and mellow aftertaste.
+
+So if you are big fan of burgers then go ahead have some burgers @ Toons with couple of chilled beers. Enjoy some rocking music.
+
+Address:
+
+It is located in the heart of town on MG Road in a complex called Wonderland, at basement of it.
+
+Toons – The Cafe Down Under
+26, Wonderland Basement, 7 MG Road, Camp Area, Pune
+"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

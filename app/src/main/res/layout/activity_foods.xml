@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Foods">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Cusine in Pune"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="What makes Pune’s street foods special are the small eateries that got established years ago and has gain fame over the years, transforming from stalls to little shops. These are the places you need to look out for on your trip to Pune. We are here to help you find the best of the bests in Pune! Scroll down and see why Pune won our heart straight away!
+Origins of Puneri Food
+Pune has a mixed street food culture. The origins can be traced from traditional Maharashtrian, Gujarati and even North Karnataka cuisine. With a dash of Goda masala, raw onions, coriander, lemons, Sev and Farzan, Puneri food is simply delectable. When in Pune, be sure to not miss out on delicacies like Misal Pav, Pithla Bhakri, Bhakarwadi, Mastani, Dabeli, Pav Bhaji, Poha, Vada Pav and baked goodies from the old school bakeries.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vadapav"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="1) Vada-Pav at Garden Vada Pav Centre
+One of the oldest and most Pune famous eatery, Garden Vada Pav Centre is legendary for serving (arguably) the most famous Vada Pav in Pune. The taste and texture are unsurpassed, and the portions are huge, which is always a good thing. Also, don’t forget to ask for some churra with your yummy vada-pav.
+
+Where: Garden Vada Pav (All outlets)
+
+When: 09:00 am to 10:00 pm"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/misal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="2) Kata Kirr is the best place to eat in Pune if you want some mouth-watering missal variety. You can choose between the light, medium and spicy versions of the dish, which means there’s a misal pav for every palate here! This one is a crowd favorite.
+
+Where: Kata Kirr, multiple outlets
+
+When: 08:00 am to 05:00 pm (Tue-Sun)"/>
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

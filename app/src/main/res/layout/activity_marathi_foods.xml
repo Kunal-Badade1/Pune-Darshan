@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Marathi_Foods">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पुणेरी अन्न"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्याच्या स्ट्रीट फूड्सला खास बनवणारी गोष्ट म्हणजे वर्षांपूवीर् स्थापन झालेल्या आणि स्टॉल्सपासून छोट्या दुकानांमध्ये बदलत गेलेल्या आणि वर्षानुवर्षे प्रसिद्धी मिळवणारी छोटी भोजनालये. तुमच्या पुण्याच्या प्रवासात तुम्हाला ही ठिकाणे पाहण्याची गरज आहे. पुण्यातील सर्वोत्कृष्ट वस्तू शोधण्यात मदत करण्यासाठी आम्ही येथे आहोत! खाली स्क्रोल करा आणि पहा पुण्याने लगेच आमचे मन का जिंकले!
+पुणेरी अन्नाची उत्पत्ती
+पुण्यात संमिश्र स्ट्रीट फूड संस्कृती आहे. पारंपारिक महाराष्ट्रीयन, गुजराती आणि अगदी उत्तर कर्नाटक पाककृतींमधून मूळ शोधले जाऊ शकते. गोडा मसाला, कच्चा कांदा, कोथिंबीर, लिंबू, शेव आणि फरझान यांच्या चकत्याने पुणेरी जेवण अगदी रुचकर आहे. पुण्यात आल्यावर, मिसळ पाव, पिठला भाकरी, भाकरवडी, मस्तानी, दाबेली, पावभाजी, पोहे, वडा पाव आणि जुन्या शालेय बेकरीमधील बेक्ड गुडीज यांसारखे स्वादिष्ट पदार्थ चुकवू नका."/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/misal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="१) जर तुम्हाला तोंडाला पाणी आणणारी मिसळ हवी असेल तर पुण्यात खाण्यासाठी काटा किर हे उत्तम ठिकाण आहे. तुम्ही डिशच्या हलक्या, मध्यम आणि मसालेदार आवृत्त्यांमधून निवडू शकता, याचा अर्थ इथे प्रत्येक टाळूसाठी मिसळ पाव आहे! हा एक गर्दीचा आवडता आहे.
+
+कुठे: काटा किर, एकाधिक आउटलेट
+
+केव्हा: सकाळी 08:00 ते संध्याकाळी 05:00 (मंगळ-रवि)
+"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vadapav"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="2) वडा-पाव गार्डन वडा पाव सेंटर येथे
+पुण्यातील सर्वात जुने आणि सर्वात प्रसिद्ध भोजनालयांपैकी एक, गार्डन वडा पाव सेंटर हे पुण्यातील सर्वात प्रसिद्ध वडा पाव सर्व्ह करण्यासाठी प्रख्यात आहे. चव आणि पोत अतुलनीय आहेत, आणि भाग खूप मोठे आहेत, जे नेहमीच चांगली गोष्ट असते. तसेच, तुमच्या स्वादिष्ट वडा-पावसोबत चुर्रा मागायला विसरू नका.
+
+कुठे: गार्डन वडा पाव (सर्व दुकाने)
+
+केव्हा: सकाळी 09:00 ते रात्री 10:00"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

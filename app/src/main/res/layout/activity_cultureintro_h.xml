@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cultureintroH">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="मेले और त्यौहार"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shanivar"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text=" पुणे एक स्वदेशी मराठी संस्कृति और लोकाचार का उदाहरण है,
+            जिसमें शिक्षा, कला और शिल्प और थिएटर को प्रमुखता दी जाती है। यह
+            भगवद गीता पर प्रसिद्ध भाष्य 'ज्ञानेश्वरी' के लेखक कवि-संत तुकाराम
+            (देहु में) और ज्ञानेश्वर (अलंदी में) का जन्मस्थान है। यह बाल गंगाधर तिलक, अगरकर
+            और गोपाल कृष्ण गोखले जैसे महान स्वतंत्रता सेनानियों का घर है। प्रसिद्ध समकालीन वैज्ञानिक
+            जयंत नार्लीकर पुणे के रहने वाले हैं। पुणे उत्तर भारतीय शास्त्रीय संगीत का केंद्र है। वार्षिक
+             रूप से, दिसंबर के महीने में, यह सवाई-गंधर्व नामक मुखर और वाद्य शास्त्रीय संगीत
+             के तीन रात के सांस्कृतिक कार्यक्रम की मेजबानी करता है। पुणे आधुनिकीकरण और
+             इसके दुष्प्रभावों के साथ संस्कृति और
+        विरासत के सम्मिश्रण के लिए एक उदाहरण रहा है। पुणे महाराष्ट्र की सांस्कृतिक राजधानी है.."/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sinhagad_hindi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text=" सिंहगड "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shinhagad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="जब आप ठोकर खाते हैं तो मराठों की ऐतिहासिक लड़ाई की याद आती है
+ सिंहगढ़ किले पर हवा के झोंके खंडहर। पुणे से 25 किमी दूर है यह किला प्रिय
+पुनेकर और मुंबईकरों का सप्ताहांत स्थान समान है।
+
+सिंहगढ़ तानाजी मालुसरे और छत्रपति राजाराम के स्मारकों के लिए महत्वपूर्ण है।
+ शिवाजी के छोटे पुत्र राजाराम मराठा साम्राज्य के तीसरे राज्याभिषेक राजा थे।
+तानाजी मालुसरे एक मराठा सेनापति थे जिन्होंने सिंहगढ़ की लड़ाई में अपनी जान गंवा दी थी।
+
+मार्च 1640 में, तानाजी ने प्रशिक्षित इगुआना और उसके मुट्ठी भर भरोसेमंद सैनिकों की मदद से
+अभेद्य किले में प्रवेश किया। यद्यपि तानाजी युद्ध में अपनी जान गंवा बैठे, लेकिन उनकी पार्टी ने पुनः कब्जा कर लिया
+मुगलों से किला। शेर की तरह लड़ने वाले अपने पसंदीदा सेनापति शिवाजी के खोने का शोक
+किले का नाम 'कोंढाना' से बदलकर 'सिंहगढ़' कर दिया।
+
+आपको लोकमान्य तिलक का बंगला मिलेगा, जो सबसे शुरुआती प्रगतिशील स्वतंत्रता में से एक है
+सिंहगढ़ पर भारत के लड़ाके। प्राचीन जासूसी छेद, ऊबड़-खाबड़ पत्थर के द्वार, का एक प्राचीन मंदिर
+देवी काली, कुछ परित्यक्त तोपें इस पौराणिक किले के अवशेष हैं।
+
+वे कहते हैं कि ध्यान से देखने पर आपको अमीरों से बिखरे पुराने सिक्के मिलेंगे
+सिंहगढ़ के दिन। आप सुंदर, खतरनाक घाटियों में टकटकी लगाकर बैठते हैं और आश्चर्य करते हैं कि यह कैसे है
+जगह कुछ सदियों पहले देखा।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sinhagad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+यदि आप शीर्ष पर ट्रेकिंग करने जा रहे हैं तो सुबह जल्दी शुरू करें।
+लंबी पैदल यात्रा के दौरान संतुलन के लिए अपने साथ एक छड़ी रखें।
+सुबह में कड़ाके की ठंड पड़ सकती है, गर्म कपड़े ले जाएं।
+मानसून के दौरान सावधान रहें, सड़कें बहुत फिसलन भरी हो जाती हैं।
+स्थानीय झोंपड़ियों में भोजन का अनुभव करें। कांडा भाजी और पिठला भाकरी मुंह में पानी लाने वाली हैं।
+क्षेत्र में शराब या किसी अन्य नशीले पदार्थ का सेवन न करें।
+संरचनाओं को कूड़ा-करकट या तोड़-फोड़ न करें।
+सिंहगढ़ एक किला है जिस पर ट्रेकर्स द्वारा व्यापक रूप से चढ़ाई की गई है। 19 फरवरी, शिवाजी की जयंती पर समारोह के लिए कई लोग यहां इकट्ठा होते हैं।
+
+
+\n स्वारगेट और शनिवारवाड़ा किले से राज्य परिवहन की बसें।
+\nआवासरे वाड़ी बस स्टॉप
+\nअपने वाहन से जाने की सलाह दी जाती है।
+
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

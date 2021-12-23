@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_AambyValleyGolfCourse">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text=" एंबी वैली"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="2006 में स्थापित यह शहर, पश्चिमी घाट की सह्याद्री पहाड़ियों में 10,600 एकड़ (4,300 हेक्टेयर) पहाड़ी इलाके में फैला हुआ है। यह लोनावाला से लगभग 23 किमी (14 मील), पुणे शहर से 87 किमी (54 मील) और मुंबई शहर से 120 किमी (75 मील) दूर है। [शहर महाबलेश्वर से सड़क मार्ग से जुड़ा हुआ है। टाउनशिप में एक हवाई पट्टी है जिसने 2016 के अंत में काम करना बंद कर दिया था। इसमें जून से सितंबर तक 4,000 मिमी (160 इंच) की औसत वार्षिक वर्षा होती है।
+
+भारत के सुपर-रिच के लिए विपणन किया गया, [शहर को पांच चरणों में विकसित किया गया था। इसे वर्ष 2003 में ग्रुएन-बॉबी मुखर्जी एंड एसोसिएट्स द्वारा डिजाइन और मास्टर प्लान किया गया था। यह लगभग पूरी तरह से सहारा और संबंधित संस्थाओं के स्वामित्व और संचालित है। [7] इसमें ₹5 करोड़ से ₹20 करोड़ के बीच कीमत वाले 600-800 लक्ज़री बंगले हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="बांध बनाकर तीन बड़ी मानव निर्मित झीलें बनाई गई हैं। सबसे बड़ी झील 1.5 किमी लंबी है। यह शहर लोनावाला के पास 10,000 एकड़ और दस गांवों में फैला हुआ है और एक हवाई पट्टी, हेलीपैड, शॉपिंग कॉम्प्लेक्स, 256 एकड़ पीजीए स्वीकृत 18-होल गोल्फ कोर्स, [10] [11] कैप्टिव पावर प्लांट, दो छोटे बांध, एक अंतरराष्ट्रीय स्कूल का दावा करता है। , और एक अस्पताल। टाउनशिप में कई लक्ज़री रेस्तरां और सांस्कृतिक कार्यक्रमों के लिए वाराणसी घाट की प्रतिकृति के निकट एक कृत्रिम समुद्र तट के साथ एक लैगून है।
+
+2016 के अंत में, गोल्फ कोर्स और हवाई पट्टी ने काम करना बंद कर दिया।
+
+एन 2014, एंबी वैली ने बांग्लादेश की राष्ट्रीय क्रिकेट टीम के साथ 4 साल का $14 मिलियन का प्रायोजन सौदा किया। बिना किसी कारण का हवाला दिए, बांग्लादेश क्रिकेट बोर्ड ने अनुबंध समाप्त होने से 15 महीने पहले समाप्त कर दिया।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb3"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb2"/>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

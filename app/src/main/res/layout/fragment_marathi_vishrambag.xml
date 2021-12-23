@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathi_vishrambag">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="विश्रामबाग वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vishrambag_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="दुसरे पेशवे बाजीराव यांनी १८११ साली बांधले,
+विश्रामबाग वाडा हा तीन मजली पेशवेकालीन वाडा आहे
+तरीही प्रत्येकाला त्याच्या ऐतिहासिक समृद्धीने मोहित करते जे
+ ते आता प्रतीक आहे. सदाशिव पेठेतील चौकाचौकात आहे
+ बाजीराव रोड आणि लक्ष्मी रोडचा हा वाडा जरी दुर्लक्षित अवस्थेत आहे.
+ आर्किटेक्चरची उत्कृष्टता प्रदर्शित करते.
+
+कोरीव खांब असलेले प्रवेशद्वारही भव्य आहे
+जे सागवान लाकडापासून बनलेले आहेत, अजूनही मजबूत आहेत.
+विश्रामबाग वाडा गजबजून उभा आहे
+गजबजलेल्या बाजारपेठेतील गजबज. त्याचे सायप्रस-आकाराचे स्तंभ, सुशोभित
+प्रवेशद्वाराच्या दोन्ही बाजूला छत, दगडी फरशी आणि सागवान गॅलरी
+तुम्हाला बाजीरावाच्या गौरवशाली युगात घेऊन जाईल. इमारतीच्या पहिल्या मजल्यावर,
+तुम्हाला एक मोठा हॉल, दरबार दिसेल, ज्यामध्ये गुंतागुंतीचे कोरीव छत आहेत,
+उत्कृष्ट नक्षीकाम असलेले सागवान खांबांसह भव्य झुंबर.
+त्याची भव्य सागवान बाल्कनी, जिथे अभ्यागतांना आता परवानगी नाही,
+बाजीरावाचे संगीतकार जिथून कार्यक्रम करत असत त्या ठिकाणाला म्हणतात."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vishrambag_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+वाड्याचा एक भाग सार्वजनिक भेटीसाठी खुला आहे, उर्वरित भागांसह
+भाग कार्यालय म्हणून वापरला जात आहे. फक्त काही भाग दिसत असले तरी, हे
+ठिकाण शोधण्यासारखे आहे. च्या भव्यतेची झलक तुम्हाला देते
+महाराष्ट्रात बाजीराव कालखंड. निर्दोष सूक्ष्मता ज्यासह होती
+बांधकाम लक्षात ठेवण्यासारखे आणि कौतुक करण्यासारखे काहीतरी आहे. इंग्रजांच्या नंतर
+ताब्यात घेतल्यावर पेशवे राजवटीचा ऱ्हास झाला, विश्रामबाग वाड्याचा तुरुंगाचा उपयोग झाला.
+याचा उपयोग पुणे महानगरपालिकेच्या कार्यालयासाठीही केला जात होता.
+1930 ते 1958 पर्यंत.
+
+
+
+"
+
+            ></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+सध्या विश्रामबाग वाड्यातून अनेक शासकीय कार्यालये चालतात.
+त्याचा बराचसा भाग पोस्ट ऑफिसमध्ये देखील वापरला जातो.
+SMILE (सावित्री मार्केटिंग इन्स्टिट्यूट फॉर लेडीज एम्पॉवरमेंट) चे हस्तकलेचे दुकान देखील आहे.
+वाडा संकुलाच्या आत.
+आरबी कुमठेकर रोड, पेरुगेट, सदाशिव पेठ, पुणे, महाराष्ट्र 411030
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="datagrid" type="id"></item>
+    <item name="foods" type="id"></item>
+    <item name="images" type="id"></item>
+    <item name="gridView" type="id"></item>
+</resources>

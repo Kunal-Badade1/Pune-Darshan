@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Marathi_Gardens">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पुण्यातील उद्याने"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="1.कमला नेहरू पार्क"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kamala"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यातील एरंडवणे येथे कमला नेहरू
+        पार्क हे शहरातील सर्वात हिरवेगार आणि सुंदर उद्यानांपैकी एक आहे.
+        विविध प्रकारच्या दोलायमान फुलांनी आणि झुडुपांनी बहरलेली बाग यासाठी आदर्श आहे
+        सकाळी आणि संध्याकाळी चालणे. याशिवाय, उद्यानात अनेक कलात्मक शिल्पे बसवलेली आहेत ज्यामुळे ते ठिकाण अधिक सुंदर दिसते."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="२.पेशवे उद्यान"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/peshwa"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पेशवे उद्यान हे सारसबागच्या अगदी शेजारी स्थित आहे आणि स्थानिक लोकांसाठी हे एक लोकप्रिय आकर्षण आहे जिथे ते काही वेळ आरामात आणि स्वतःला पुनरुज्जीवित करण्यासाठी घालवू शकतात. हे विशेषतः मुलांमध्ये लोकप्रिय आहे, म्हणून, जवळपास राहणारे बहुतेक पालक त्यांच्या कुटुंबियांना आठवड्याच्या शेवटी सहलीला भेट देतात. परंतु, हे ठिकाण तरुण आणि वृद्ध दोघांनाही आकर्षित करते, ज्यांना काही वेळात पळून जाण्याची इच्छा आहे. उद्यानात सुस्थितीत असलेले लॉन, योग्य प्रकारे पक्के मार्ग आणि उंच घनदाट झाडे असलेली एक विस्तीर्ण बाग आहे ज्यामुळे प्रत्येक पाहुण्याला आनंद घेता येईल असे सुंदर वातावरण निर्माण होते. .
+
+पेशवे उद्यानात अनेक उपक्रम आहेत ज्यात अभ्यागत सहभागी होऊ शकतात. यापैकी काही मनोरंजनात्मक तर काही मनोरंजक, शैक्षणिक आणि साहसी आहेत. उद्यानात एक प्राणीसंग्रहालय आहे जिथे आपण विविध प्रकारचे प्राणी पाहू शकतो. लँडस्केप फोटोग्राफी प्रेमींना देखील आकर्षित करते जे त्यांच्या कलेसाठी प्रेरणा शोधत आहेत. आठवड्याचे शेवटचे दिवस आणि संध्याकाळी, गर्दी मोठ्या प्रमाणात होते. म्हणून, एखाद्याला काही घाईघाईची अपेक्षा करणे आवश्यक आहे. असे म्हटल्यावर, एकांतात थोडा वेळ घालवायला नक्कीच जागा मिळेल."/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="3.Saras Baug"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sarasbag"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सारस बाग हे पुण्यातील एक लोकप्रिय आकर्षण आहे जे सुरुवातीला पार्वतीच्या पायथ्याशी एक तलाव होते. तलावाचे पाणी कोरडे पडल्याने, उघडी पडलेल्या जमिनीचा उद्यानात विकास करण्यात आला आणि त्याला सारस बाग असे नाव देण्यात आले. हे आकर्षण 25 क्षेत्रफळात विस्तारले. एकर आणि मध्यभागी एक मंदिर देखील आहे. हे मंदिर गणपतीला समर्पित आहे आणि ते तलावाच्या मधोमध बांधले गेले असल्याने याला तळ्यातला गणपती असेही म्हणतात. बाग आणि मंदिर बांधले गेले असल्याने त्यांना काही ऐतिहासिक महत्त्व देखील आहे. पेशवाईच्या काळात. मंदिर, विशेषतः, अनेक ऐतिहासिक घटनांसाठी देखील एक महत्त्वाचे ठिकाण आहे.
+
+सारस बाग येथे, हिरवीगार हिरवळ एक्सप्लोर केली जाऊ शकते जी बर्याचदा सुव्यवस्थित आणि व्यवस्थित ठेवली जाते. लोक संपूर्ण उद्यानात चांगल्या पक्क्या मार्गांनीही फिरू शकतात. जोपर्यंत ते परिसर स्वच्छ ठेवतात तोपर्यंत ते लोकांसाठी खुले ठेवलेल्या बागेच्या सर्व विभागांमध्ये हँग आउट करू शकतात. त्यामुळे, येथे एक अतिशय आरामशीर वातावरण आहे जे मोठ्या संख्येने स्थानिकांना आकर्षित करते. हे आकर्षण पार्वतीच्या पायथ्याशी आहे, त्यामुळे प्रवासी ही दोन आकर्षणे अवघ्या काही तासांत कव्हर करू शकतात. उद्यानात गणपतीला समर्पित एक छोटेसे संग्रहालय देखील आहे. सारसबागमध्ये पेशवे पार्क नावाचे प्राणीसंग्रहालय होते जे आता स्थलांतरित करण्यात आले आहे. "/>
+    </LinearLayout>
+
+
+</ScrollView>

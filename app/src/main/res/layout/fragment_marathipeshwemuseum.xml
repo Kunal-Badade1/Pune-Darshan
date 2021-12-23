@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathipeshwemuseum">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पेशवे संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पर्वती टेकडीवरील पेशवेवाड्यात असलेल्या संग्रहालयात महाराष्ट्रातील पेशवे घराण्याचा इतिहास आणि वारसा जोपासला गेला आहे.
+
+पर्वती टेकडीवरील पेशव्यांचा राजवाडा १७९५ मध्ये श्रीमंत नानासाहेब पेशवे यांनी बांधला. आज त्यातील काही भाग पेशवे काळातील कलाकृतींच्या संग्रहालयात रूपांतरित झाला आहे. या कलाकृती मुख्यतः पेशवे राजवाड्यातूनच मिळवल्या गेल्या आहेत. त्यात पेशवे राज्यकर्त्यांशी संबंधित शस्त्रे, कपडे, भांडी, दागिने, फर्निचर, वाद्ये आणि पालखी अशा सर्व गोष्टींचा समावेश आहे. ऐतिहासिक घटना आणि पेशव्यांचा कौटुंबिक नकाशा यानुसार बाजीराव पेशवे, मस्तानी, नानासाहेब पेशवे, चिमाजीअप्पा पेशवे, बाळाजी विश्वनाथ या मराठा नेत्यांची चित्रे आहेत. पेशव्यांशी संबंधित मध्ययुगीन हस्तलिखिते, तसेच पुणे शहराची काही जुनी व दुर्मिळ छायाचित्रेदेखील या संग्रहालयात आहेत."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भारतात पेशवे, मुघल आणि ब्रिटिशांच्या काळात वापरल्या गेलेल्या असंख्य नाणी व चलनांचा संग्रहही या संग्रहालयात आहे. यापैकी काही नाणी अत्यंत दुर्मिळ आणि मौल्यवान आहेत.
+
+पानिपतच्या तिसर्‍या युद्धात आपला मुलगा आणि भाऊ दोघेही गमावल्यामुळे दु:खाचा डोंगर कोसळलेल्या श्रीमंत नानासाहेब पेशवे यांची समाधी संग्रहालयाच्या शेजारीच आहे. त्या बाजूच्या भागाचे नूतनीकरण करून त्याचे सभामंडपात रूपांतर करण्यात आले आहे. त्यात मराठ्यांनी केलेल्या अनेक लढायांची चित्रे लावण्यात आली आहेत. मध्य प्रदेशातील बुऱ्हानपूरचे सरदार भुस्कुटे आणि स्थानिक जमीनदारांचा राजवाडा हा देखील या संग्रहालयाचा एक भाग आहे.
+
+हे संग्रहालय संध्याकाळी ४:३० ते रात्री ९ वाजेपर्यंत खुले असते. प्रवेश शुल्क प्रत्येकी १० रुपये."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p2"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p4"/>
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_Miami">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="मियामी"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में सबसे अच्छे डिस्को में से एक। अद्भुत माहौल। शानदार साउंड सिस्टम। साथ ही उनके पास हर महीने बेहतरीन विजिटिंग डीजे होते हैं। उपलब्ध पेय की एक विस्तृत श्रृंखला इसे दोस्तों के साथ पार्टी करने के लिए एक शानदार जगह बनाती है। अगर आपको तेज आवाज पसंद नहीं है तो दूर रहें।
+पुणे शहर अपनी जीवंत और उत्साही रात के जीवन के लिए बहुत प्रशंसित है, जिसमें जेडब्ल्यू मैरियट पुणे में एमआई-ए-एमआई है। हमें खुशी है कि uber-chic नाइट क्लब आपको दुनिया भर के फिंगर फ़ूड और संगीत कलाकारों के ताज़गी भरे मनगढ़ंत व्यंजनों का आनंद लेने देता है।
+
+हम पाशा की सिफारिश करना चाहेंगे; हमारे रूफटॉप रेस्तरां और लाउंज जो भोजन करने वालों को शहर के एक विहंगम दृश्य के साथ घर के अंदर और बाहर दोनों जगह भोजन करने का अवसर देता है, जिसमें हमारे मिक्सोलॉजिस्ट द्वारा एक मनोरम उत्तर भारतीय व्यंजन और ताज़ा मनगढ़ंत व्यंजन हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="क्या यह कमाल करता है?
+तो आप बुधवार को दोस्तों के साथ बाहर हैं, आपने कुछ पेय पी हैं, और आप में से एक कहता है चलो नाचते हैं! 11:45 बजे। तुम कहाँ जाते हो? मुट्ठी भर विकल्पों के साथ, हम आपके लिए शहर के सर्वश्रेष्ठ क्लबों में से एक लेकर आए हैं। शानदार इंटीरियर, बेहतरीन शराब और शानदार साउंड सिस्टम - हम यह पता लगाते हैं कि एमआई-ए-एमआई कुछ नशे की यादों के लिए एक बढ़िया विकल्प क्यों है।
+
+        क्षेत्र में चुनने के लिए कुछ प्रतिष्ठानों के साथ, जेडब्ल्यू मैरियट होटल पुणे में एमआई-ए-एमआई एस.बी. सड़क एक या दो पेय और भारी नृत्य से भरी रात के लिए एक जगह के रूप में बाहर खड़ा है। दिन के उजाले में एक नीरस, ग्रे आधुनिक दिन कार्यालय की जगह की तरह लगता है कि सूरज डूबने के बाद एक क्लब स्वर्ग बन जाता है। 15,000 वर्ग फुट में फैले इस क्लब में एक बड़ा डांस फ्लोर और आलीशान काले, सफेद और महोगनी अंदरूनी भाग हैं। वास्तव में भव्य फैशन में, रेशम के असबाब के साथ विशाल सोफे क्लब में बड़े पैमाने पर बार के पीछे के क्षेत्र को सुशोभित करते हैं, जबकि बार टेबल और एक डांस फ्लोर सामने आपका स्वागत करते हैं। नियॉन लाइट्स जो प्रवेश द्वार को लाइन करती हैं, क्लबों के माहौल को एक अतिरिक्त सुरुचिपूर्ण स्पर्श देती हैं। कलाकारों और लाइव बैंड के प्रदर्शन के लिए एक मंच क्षेत्र भी है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mim3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="एमआई-ए-एमआई अमीर, संपन्न, अच्छी तरह से तैयार लोगों के लिए है, और ए-लिस्टर्स के लिए एक सहज स्थान है। आप अधिकतर रातों में इलेक्ट्रॉनिक, ट्रान्स, हाउस और व्यावसायिक संगीत का आनंद लेने के लिए यहां जा सकते हैं। घरेलू प्रतिभाओं के अलावा, Mi-a-Mi ने पुणे के लिए दुनिया के कुछ बेहतरीन कलाकारों को प्रदर्शन करते देखा है।
+
+बुधवार की रात, उर्फ लेडीज नाइट, उन महिलाओं के बीच लोकप्रिय है जो मुफ्त पेय के लिए हैं। बार में आमतौर पर भीड़ होती है लेकिन सेवा अप्रभावित रहती है। हमारा सुझाव है कि आप लॉन्ग आइलैंड आइस्ड टी चुनें, जो यहां की लोकप्रिय पसंदीदा है।
+
+समय 9.30 बजे से 1.30 बजे (बुधवार और शुक्रवार) तक है, जबकि शनिवार को यह 9.30 बजे से 2.30 बजे तक है।
+
+एक जोड़े के लिए प्रवेश 1,000 रुपये और हरिण के लिए 2,000 रुपये (बुधवार और शुक्रवार) और एक जोड़े के लिए 2,000 रुपये और शनिवार को हरिण के लिए 3,000 रुपये है। कीमतें पूर्ण कवर हैं, जिसमें पेय और भोजन शामिल हैं। बुधवार और शुक्रवार को महिलाएं नि:शुल्क प्रवेश कर सकती हैं"/>
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

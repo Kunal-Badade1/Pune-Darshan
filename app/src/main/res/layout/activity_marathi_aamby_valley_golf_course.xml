@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Marathi_AambyValleyGolfCourse">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="अॅम्बी व्हॅली"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="2006 मध्ये स्थापन झालेले हे शहर पश्चिम घाटातील सह्याद्री पर्वतरांगांमध्ये 10,600 एकर (4,300 हेक्टर) डोंगराळ प्रदेशात पसरलेले आहे. हे लोणावळ्यापासून सुमारे 23 किमी (14 मैल), पुणे शहरापासून 87 किमी (54 मैल) आणि मुंबई शहरापासून 120 किमी (75 मैल) अंतरावर आहे.[ टाऊनशिप महाबळेश्वरपासून रस्त्याने जोडलेली आहे. टाउनशिपमध्ये एक हवाई पट्टी आहे ज्याने 2016 च्या उत्तरार्धात काम करणे थांबवले. जून ते सप्टेंबर या कालावधीत सरासरी वार्षिक 4,000 मिमी (160 इंच) पाऊस पडतो.
+
+भारतातील अति-श्रीमंतांसाठी विपणन,[ शहराचा विकास पाच टप्प्यांत करण्यात आला. 2003 मध्ये ग्रुएन-बॉबी मुखर्जी आणि असोसिएट्सने त्याची रचना आणि मुख्य नियोजित केली होती. हे जवळजवळ संपूर्णपणे सहारा आणि संबंधित संस्थांच्या मालकीचे आणि चालवले जाते.[7] यामध्ये ₹5 कोटी ते ₹20 कोटी किंमतीचे 600-800 आलिशान बंगले आहेत."/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="धरणे बांधून तीन मोठे मानवनिर्मित तलाव निर्माण केले आहेत. सर्वात मोठ्या तलावाची लांबी 1.5 किमी आहे. हे शहर 10,000 एकर आणि लोणावळ्याजवळील दहा गावांमध्ये पसरलेले आहे आणि येथे हवाई पट्टी, हेलिपॅड, शॉपिंग कॉम्प्लेक्स, 256 एकर PGA मंजूर 18-होल गोल्फ कोर्स,[10][11] कॅप्टिव्ह पॉवर प्लांट, दोन लहान धरणे, एक आंतरराष्ट्रीय शाळा आहे. , आणि हॉस्पिटल. टाउनशिपमध्ये अनेक लक्झरी रेस्टॉरंट्स आणि सांस्कृतिक कार्यक्रमांसाठी वाराणसी घाटाच्या प्रतिकृतीला लागून कृत्रिम समुद्रकिनारा असलेला तलाव आहे.
+
+2016 च्या उत्तरार्धात, गोल्फ कोर्स आणि एअरस्ट्रिपने काम करणे थांबवले.
+
+n 2014, अॅम्बी व्हॅलीने बांगलादेश राष्ट्रीय क्रिकेट संघासोबत 4 वर्षांचा $14 दशलक्ष प्रायोजकत्व करार केला. कोणतेही कारण न सांगता, बांगलादेश क्रिकेट बोर्डाने करार संपण्याच्या 15 महिने आधी संपवला."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb2"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/amb3"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

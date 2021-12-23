@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".sinhagad_marathi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text=" सिंहगड "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shinhagad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="तुम्ही अडखळत असताना मराठ्यांच्या ऐतिहासिक लढायांच्या आठवणी तुमच्या मागे येतात
+ सिंहगड किल्ल्यावर वार्‍याने कोसळलेले अवशेष. पुण्याबाहेर 25 किमी अंतरावर असलेला हा किल्ला सर्वांचा लाडका आहे
+पुणेकर आणि मुंबईकरांचे वीकेंड स्पॉट.
+
+तानाजी मालुसरे आणि छत्रपती राजाराम यांच्या स्मारकांसाठी सिंहगड महत्त्वाचा आहे.
+ शिवाजीचा धाकटा मुलगा राजाराम हा मराठा साम्राज्याचा तिसरा राज्याभिषेक झालेला राजा होता.
+तानाजी मालुसरे हे एक मराठा सेनापती होते ज्यांनी सिंहगडाच्या लढाईत आपला जीव गमावला होता.
+
+मार्च १६४० मध्ये, तानाजीने प्रशिक्षित इग्वानास आणि त्याच्या मूठभर विश्वासू सैनिकांच्या मदतीने
+अभेद्य किल्ल्यात प्रवेश केला. युद्धात तानाजीला प्राण गमवावे लागले असले तरी त्याचा पक्ष पुन्हा ताब्यात आला
+मुघलांकडून किल्ला. सिंहाप्रमाणे लढणारा आपला आवडता सेनापती शिवाजी हरवल्याबद्दल शोक व्यक्त करतो
+किल्ल्याचे नाव 'कोंढाणा'वरून बदलून 'सिंहगड' केले.
+
+तुम्हाला लोकमान्य टिळकांचा बंगला सापडेल, जो सर्वात आधीच्या पुरोगामी स्वातंत्र्यांपैकी एक आहे
+सिंहगडावर भारताचे लढवय्ये. प्राचीन गुप्तचर छिद्र, खडबडीत दगडी दरवाजे, प्राचीन मंदिर
+काली देवी, या पौराणिक किल्ल्यातील काही सोडलेल्या तोफा आहेत.
+
+त्यांचे म्हणणे आहे की जर तुम्ही नीट पाहिले तर तुम्हाला श्रीमंतांची जुनी नाणी विखुरलेली आढळतील
+सिंहगडाचे दिवस. तुम्ही सुंदर, धोकादायक दर्‍यांकडे टक लावून बघत बसता आणि आश्चर्यचकित होता की हे कसे
+जागा काही शतकांपूर्वी दिसत होती.
+
+पिठला-भाकरी असलेले जेवण (ताजे मसाले आणि ज्वारीची भाकरी असलेले बंगाली बेसन)
+किल्ल्यातील एका शॅकमधून सिंहगडाच्या भेटीचे एक वैशिष्ट्य आहे.
+हे आवडते पिकनिक स्पॉट चुकवू नका, विशेषत: हिवाळ्यात, जेव्हा तुम्ही मंच करू शकता
+गोड कॉर्न आणि तुमच्या मित्रांसोबत एक संस्मरणीय दिवस जावो.
+
+तुम्ही टॅक्सी पकडू शकता किंवा ट्रेक प्रेमींच्या मार्गाने प्रवास करू शकता, तुम्ही मंत्रमुग्ध व्हाल
+या ठिकाणाची मूळ आभा. पानशेत आणि खडकवासला धरणांचे चित्तथरारक दृश्य,
+आजूबाजूच्या सर्व टेकड्यांवर हिरव्या मखमलीचे थर, सिंहगड जसा शंभर वर्षांपूर्वी होता."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sinhagad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+जर तुम्ही शिखरावर जाणार असाल तर सकाळी लवकर सुरुवात करा.
+गिर्यारोहण करताना समतोल साधण्यासाठी एक काठी सोबत ठेवा.
+सकाळी काटेरी थंडी पडू शकते, उबदार कपडे घालू शकतात.
+पावसाळ्यात काळजी घ्या, रस्ते खूप निसरडे होतात.
+स्थानिक शॅक्समधील अन्नाचा अनुभव घ्या. कांदा भाजी आणि पिठला भाकरी तोंडाला पाणी आणणारी आहे.
+परिसरात दारू किंवा इतर मादक पदार्थांचे सेवन करू नका.
+कचरा टाकू नका किंवा संरचनेची तोडफोड करू नका.
+सिंहगड हा ट्रेकर्सनी मोठ्या प्रमाणावर चढाई केलेला किल्ला आहे. 19 फेब्रुवारी, शिवाजी जयंती साजरी करण्यासाठी येथे बरेच लोक जमतात.
+
+\n स्वारगेट आणि शनिवारवाडा किल्ल्यावरून राज्य परिवहन बसेस.
+\n आवसरे वाडी बस स्टॉप
+\n स्वतःच्या वाहनाने जाण्याची शिफारस केली जाते.
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

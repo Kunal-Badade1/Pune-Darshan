@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindi_taljai">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Taljai Tekdi"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="महाराष्ट्र कई सुरम्य यात्रा के साथ धन्य है
+गंतव्य जो प्रकृति प्रेमियों के लिए एक चुंबकीय आकर्षण है और
+साहसिक उत्साही। चाहे वह हरी-भरी पहाड़ियाँ हों या
+घने जंगल, मानसून इन जगहों में जोड़ता है रहस्यमयी आकर्षण
+जब वे कायाकल्प और हरे दिखते हैं।
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+तलजई हिल्स शहर में एक लोकप्रिय सप्ताहांत भगदड़ है
+पुणे का, जो अपनी प्रचुरता के लिए पर्यटकों का पसंदीदा है
+प्राकृतिक सुंदरता और विदेशी जीव। पश्चिमी घाट में बसा
+लगभग पूरे वर्ष सुखद जलवायु के साथ, वह स्थान
+पर्यावरणविदों और शटरबग्स के लिए कई आकर्षण हैं।
+ खुला वन क्षेत्र सुबह और शाम की सैर के लिए एक आरामदेह आश्रय प्रदान करता है।
+
+
+"
+
+            ></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+
+तलजई हिल्स प्रसिद्ध मंदिर के लिए पुनेकरों के बीच लोकप्रिय है
+ तलजई माता देवी पहाड़ी के ऊपर स्थित है। मंदिर का रास्ता
+आपके पास वन क्षेत्र के साथ एक ज़िगज़ैग बिटुमिनस ट्रेल है
+ कोई भी वाहन पहाड़ी की चोटी तक नहीं पहुंचने के कारण वृद्धि करने के लिए। तब से
+ जंगल घना नहीं है, आपके पास तलाशने का अच्छा मौका है
+जिस स्थान पर आप मंदिर की ओर बढ़ते हैं।
+"
+            ></TextView>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai2"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+
+
+अपनी यात्रा के दौरान आप कई प्रवासी पक्षियों को देख सकते हैं,
+ तितलियों, मोर और खरगोशों की दुर्लभ प्रजातियाँ अपने प्राकृतिक रूप में
+प्राकृतिक वास। पक्की बैठक के साथ मंदिर क्षेत्र को अच्छी तरह से बनाए रखा गया है
+जहां यात्री कुछ देर बैठ कर आराम कर सकें। तलजई के रास्ते में
+माता मंदिर आपको एक तालाब मिलेगा जहाँ आप देख सकते हैं बत्तख
+ चंचल मूड में तैरना।
+
+
+
+यह दुर्लभ नजारा देखने लायक है! तलजई हिल्स एक आदर्श है
+बाहरी पिकनिक और भ्रमण के लिए स्थान जहाँ आप हो सकते हैं
+प्रकृति के साथ एक और कुछ समय के लिए अपने बंधनों को खोल दें।
+मंदिर के ऊपर से, आप 360 डिग्री पैनोरमिक का आनंद ले सकते हैं
+पन्ना हरे पश्चिमी घाट की पृष्ठभूमि में पुणे शहर का दृश्य।
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

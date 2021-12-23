@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Miami">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Miami"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="24sp"/>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:src="@drawable/mim1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:text="One of the best discos in Pune. Amazing ambience. Superb sound system. Also they have the best visiting DJs every month. A wide range of drinks available makes it a great place to party with friends. Stay away if you don't like loud noise.
+The city of Pune is much acclaimed for its vibrant and spirited night life to which JW Marriott Pune houses Mi-a-Mi. We are glad that the uber-chic night club let you enjoy refreshing concoctions, relishing finger food and music artists from all around the world.
+
+We would like to recommend Paasha; our rooftop restaurant and lounge that allows diners an opportunity to dine both indoors and outdoors with a bird’s eye view of the city featuring a delectable North Indian cuisine and refreshing concoctions by our mixologist"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:src="@drawable/mim2"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:text="What Makes It Awesome?
+So you’re out with friends on a Wednesday, you’ve had a few drinks, and one of you says “Let’s go dancing!” at 11:45pm. Where do you go? With a handful of options available, we bring you one of the best clubs in town. Swanky interiors, the best of booze and a terrific sound system – we explore why Mi-a-Mi is a great choice for some drunken memories.
+
+With a handful of establishments to choose from in the area, Mi-a-Mi in JW Marriott Hotel Pune on S.B. Road stands out as a place for a drink or two and a night full of heavy dancing. What seems like a dull, grey modern day office space in daylight becomes a club heaven once the sun sets. Spread over 15,000 sq. ft the club boasts of a big dance floor and plush black, white and mahogany interiors. In a truly lavish fashion, expansive couches with silk upholstery adorn the area behind the massive bar at the club while bar tables and a dance floor greet you out in the front. The neon lights that line the entrance give an additional elegant touch to the clubs atmosphere. There is also a stage area for the artists and live bands to perform.
+
+Mi-a-Mi is for the wealthy, affluent, well-dressed people, and is a spontaneous venue for A-listers. You can head here to enjoy electronic, trance, house and commercial music on most nights. Apart from homegrown talent, Mi-a-Mi has seen some of the world’s best artists perform for Pune."/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350sp"
+        android:src="@drawable/mim3"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Yellow"
+        android:textStyle="bold"
+        android:textColor="@color/Saffaron"
+        android:layout_marginTop="20sp"
+        android:textSize="18sp"
+        android:text="Wednesday nights, aka Ladies Night, are popular with the women who are in for free drinks. The bar is usually crowded but the service remains unaffected. We suggest you opt for the Long Island Iced Tea, a popular favourite here.
+
+Timings are from 9.30 PM to 1.30 AM (Wednesday and Friday) while on Sat, it is from 9.30 PM to 2.30 AM.
+
+Entry is Rs 1,000 for a couple and Rs 2,000 for stags (Wednesday and Friday) and Rs 2,000 for a couple and Rs 3,000 for a stag on Saturday. The prices are full cover, which includes drinks and food. Ladies can enter for free on Wednesday and Friday
+"/>
+
+
+
+
+
+
+   </LinearLayout>
+</ScrollView>

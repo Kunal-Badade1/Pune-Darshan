@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Gardens">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Gardens in Pune"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="1.Kamala Nehru Park"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kamala"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Located in Erandwane in Pune, Kamala Nehru Park is one of the most green and beautiful gardens in the city. Blooming with a variety of vibrant flowers and bushes, the garden is ideal for early morning and evening walks. Besides, it has several artistic sculptures installed in the park which make the place look even prettier."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="2.Peshwa Udyan"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/peshwa"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Peshwe Udyan located right next to Saras Baug and is a popular attraction for locals where they can spend some time relaxing and reviving themselves. It is particularly popular among children, so, most parents living nearby get their families over a picnic on a weekend. But, the place draws both, young and old, who wish to escape into some me-time. The park has an expansive garden with well-maintained lawns, properly paved pathways and tall dense trees that create a beautiful ambience that every visitor can enjoy.
+
+Peshwe Udyan has a number of activities that visitors can participate in. Some of these are recreational activities while some are entertaining, educational and adventurous too. There is a zoo in the park where one can observe quite a variety of animals. The landscape also draws photography enthusiasts who are seeking inspiration for their art. During the weekends and the evenings, crowds flock in a considerably large number. Therefore, one must expect some hustle and bustle. Having said that, one can definitely find a place to spend some time in solitude."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="3.Saras Baug"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sarasbag"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Saras Baug is a popular attraction in Pune which was initially a lake at the foothills of Parvati. As the water of the lake dried up, the exposed land was developed into a park and was named Saras Baug. The attraction expands over an area 25 acres and also has a temple in the centre. The shrine is dedicated to Lord Ganesh and because it was built in the middle of a lake, it is also called Talyatla Ganpati. The baug and the temple also have some historical significance as they were built during the time of the Peshwa. The temple, in particular, has been an important venue for several historical events too.
+
+At Saras Baug, one can explore the lush green lawns which are often trimmed and well-maintained. People can also walk across the entire park through well-paved pathways. They can hang out at all the sections of the garden kept open for the public as long as they keep the surroundings clean. It, therefore, has a very relaxed sort of an ambience that draws locals in large numbers. The attraction is located at the foothills of Parvati, so, travellers can cover these two attractions in just a few hours. The park also has a small museum dedicated to Lord Ganesha. Saras Baug used to have a zoo also called the Peshwe Park which has been relocated now. "/>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_lalMahal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="लाल महाल"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/lal_mahal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+छत्रपति शिवाजी महाराज का यह बचपन का निवास कहाँ स्थित है?
+पुणे शहर का दिल। इस इमारत का पुनर्निर्माण उसी स्थान पर किया गया है
+और शिवाजी महाराज के सभी प्रशंसकों के दिलों में एक विशेष स्थान रखता है।
+
+लालू को विकसित करने के लिए पुणे नगर निगम ने तैयार किया मास्टर प्लान
+महल मुख्य पर्यटक आकर्षण और नई पीढ़ी के लिए प्रेरणा के रूप में।
+
+परिसर में के जीवन और मूल्यों को दर्शाने वाली विभिन्न दीर्घाएँ होंगी
+छत्रपति शिवाजी महाराज।
+"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मुख्य प्रवेश द्वार को शिव के भव्य प्रवेश द्वार की तरह बनाया गया है -
+कलिन किले। आप की मूर्ति के साथ खुले भू-भाग वाले क्षेत्र में प्रवेश करते हैं
+बाल शिवाजी और जीजामाता भूमि जोतते हैं। इमारत का अग्रभाग
+शिव-कालिन स्थापत्य शब्दावली के जीवन पर संशोधित है।"
+/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/lal_mahal1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+भूतल पर ओपन टू स्काई गैलरी में भित्ति चित्र प्रदर्शित होंगे
+शिवाजी महाराज के प्रशासन कौशल। भवन के भूतल पर हॉल
+यहां जीजामाता की मूर्ति है, जिसकी पूजा कई लोग करते हैं।
+
+पहली मंजिल के हॉल में जीवन की मुख्य घटनाओं को दर्शाने वाले चित्र होंगे
+शिवाजी महाराज का जिसमें शाहिस्ता खान का प्रकरण भी शामिल है
+इस स्थान पर। इसके अलावा आप हथियारों, कपड़े, सिक्कों का संग्रह देख सकते हैं,
+बर्तन, शिवाजी महाराज के काल के पत्र।
+
+
+
+"
+
+            ></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+नव विकसित टेरेस गैलरी प्रमुख . के बारे में जानकारी प्रदर्शित करेगी
+शिवाजी महाराज द्वारा बनाए गए किले पुणे के आसपास के किलों पर जोर देते हैं।
+
+इस प्रकार लाल महल फिर से बनाएगा और विभिन्न का आभासी अनुभव प्रदान करेगा
+महान शिवाजी महाराज के गौरवशाली जीवन के पहलू।
+
+
+
+
+"
+
+            ></TextView>
+
+
+    </LinearLayout>
+</ScrollView>

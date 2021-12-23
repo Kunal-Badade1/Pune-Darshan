@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindimilitary">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="दक्षिण कमांड मिलिटरी संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में राष्ट्रीय युद्ध स्मारक दक्षिणी कमान का उद्घाटन 15 अगस्त, 1998 को हुआ था। संग्रहालय में भारतीय सेना, नौसेना और वायु सेना से संबंधित कलाकृतियां हैं।
+
+राष्ट्रीय युद्ध स्मारक दक्षिणी कमान पुणे के घोरपडी इलाके में स्थित है। यह भारतीय सेना, थल सेना, नौसेना और वायु सेना की तीन शाखाओं को समर्पित है। संग्रहालय 1997 में स्थापित किया गया था। हालाँकि, इसे 15 अगस्त, 1998 को पुणे छावनी बोर्ड के अध्यक्ष, ब्रिगेडियर मदन गोपाल के कार्यकाल के दौरान खोला गया था। यह स्मारक संग्रहालय एक्सप्रेस सिटीजन फोरम के तहत धन जुटाकर पुणे के नागरिकों द्वारा बनाया गया है और यह एशिया में अपनी तरह का पहला संग्रहालय है। प्रारंभ में, यह भारतीय सेना तक ही सीमित था। हालाँकि, 2009 में इसे कुछ कलाकृतियों के साथ सशस्त्र बलों के तीन डिवीजनों के लिए बनाया गया था।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="इस संग्रहालय का मुख्य आकर्षण 25 फीट ऊंचे स्तंभ के रूप में बना यह स्मारक है। इस स्तंभ पर उन शहीदों के नाम हैं जिन्होंने हमारे देश के लिए अपनी जान गंवाई। संग्रहालय में हथियारों, सैन्य वर्दी, रॉकेट, टैंक, जहाजों, लोकोमोटिव स्केल मॉडल और कुछ सैनिकों की यादगार वस्तुओं का संग्रह है। संग्रहालय के अन्य आकर्षणों में मिग-23बीएन जेट फाइटर शामिल है, जिसका इस्तेमाल कारगिल युद्ध के दौरान किया गया था। आईएनएस त्रिशूल की प्रतिकृति भी है, जिसने गोवा मुक्ति संग्राम और 1971 के भारत-पाकिस्तान युद्ध में लड़ाई लड़ी थी। टैंक के अन्य उल्लेखनीय मॉडलों में टी-55, विजयंत, कब्जे वाले पाकिस्तानी पैटन टैंक शामिल हैं।
+
+यहां प्रथम विश्व युद्ध की दुर्लभ और पुरानी तस्वीरों के साथ-साथ सैन्य गोला-बारूद का संग्रह है। भारतीय सेना का प्रतिनिधित्व करने वाली प्रदर्शनी के अलावा, पर्यटक संग्रहालय में मराठों के सैन्य इतिहास को भी देख सकते हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="संग्रहालय का प्रबंधन पुणे छावनी बोर्ड द्वारा किया जाता है। बोर्ड द्वारा बुनियादी ढांचे को अक्सर बढ़ाया जाता है। सबसे हालिया जोड़ हर शनिवार शाम 5:40 बजे एक लाइट एंड साउंड शो है। यह शो साल में दो बार पुणे में राष्ट्रीय रक्षा अकादमी और देहरादून में भारतीय सैन्य अकादमी में भी आयोजित किया जाता है। 2019 से इसे हर हफ्ते इस संग्रहालय में प्रस्तुत किया जाता है। इस आयोजन के साथ, भारत के वीर शहीदों को श्रद्धांजलि देने के लिए एक साप्ताहिक परेड आयोजित की जाती है। घटना और परेड दोनों लगभग 65 मिनट तक चलते हैं। यह कार्यक्रम स्वतंत्रता से लेकर आज तक राष्ट्र को आकार देने और उसकी रक्षा करने में सेना द्वारा किए गए योगदान और बलिदान पर प्रकाश डालता है।
+
+संग्रहालय सुबह 9.30 बजे से दोपहर 12.30 बजे तक और दोपहर 3 बजे से शाम 7 बजे तक खुला रहता है। यह मंगलवार को छोड़कर सप्ताह के पूरे दिन खुला रहता है। प्रवेश नि: शुल्क है, लेकिन लाइट एंड साउंड शो के लिए 20 रुपये का शुल्क है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s4"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s5"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

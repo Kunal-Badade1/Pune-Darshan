@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathifupchup">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="गुपचूप गणपती मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gp1"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे शहरात फिरण्यासाठी बरीच छोटी मोठी मंदिरे आहेत. काही प्राचीन मंदिरे देखील आपल्याला पुण्यामध्ये बघायला मिळतात तर शिवकालीन आणि
+पेशवेकालीन मंदिरे देखील आपल्याला बघायला मि ळतात. असेच एक सुंदर मंदिर उत्तर पेशवाई मध्ये पुण्यातील शनिवार पेठेत आपल्याला पहायला
+मिळते. हे मंदिर म्हणजे‘वरदमूर्ती देवस्थान’ याच गणपतीला आजूबाजूला लोकं ‘गुपचूप गणपती’ म्हणून ओळखतात.
+आपण जेव्हा शनिवारवाड्याकडून ओंका ओं रेश्वरकडे जायला निघतो तिथेच उजव्या बाजूला आपल्याला एक पोलीस चौकी लागते त्या पोलीस चौकीला
+लागूनच काही जुने आणि प्रसिद्ध घाट आहे त्यापैकी एक ‘नेने घाट’ तर खूप प्रसिद्ध आहे याच नेने घाटाकडे जाणाऱ्या उजव्या उजवीकडील रस्त्यावर
+आपण वळालो कि आपल्याला समोर दिसते ते दगडी चौकटीचे प्रवेशद्वार असलेले ‘गुपचूप गणपती मंदिर म्हणजेच श्री वरद गणपती देवस्थान’."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gp2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="शनिवार पेठेमध्ये असलेले हे मंदिर भर वस्तीच्यामध्ये आहे. या मंदिराच्या सुंदर दगडी चौकटीच्या दिंडी दरवाज्याच्या प्रवेशद्वारातून आतमध्ये गेले असता
+आपल्याला आत दोन्ही बाजूस देवड्या पहायला मिळतात. येथून तीन दगडी पायऱ्या उतरून आत गेले कि एक छोटेसे सुंदर अंगण लागते येथून डाव्या
+बाजुला उत्तरा भिमुख असलेले सुरेख गणपती मंदिर आपल्याला पहायला मिळते. याच मंदिराच्या शेजारी एक घर देखील आहे. हे मंदिर पाहायचे
+असल्यास सकाळी ७ ते दुपारी १२ आणि संध्याका ळी ५ ते ९ यावेळेस जाऊन भेट देता येते. गेल्या तीन पिढ्या झाले या मंदिराची देखभाल ‘दीक्षित’
+कुटुंबाकडे आहे.
+या देवस्थानातील वरदमूर्ती गणपतीची मूर्ती ही ‘श्री. मोरेश्वर रावजी दीक्षित’ यांनी स्वत: तयार क्कारून त्याची शनिवार पेठेत १२ फेब्रुवारी १८९२ रोजी
+स्थापना केली त्यावेळेस फॉरेस्ट इंजिनियर असलेल्या चिंचवडजवळील राहणाऱ्या श्री गुपचूप यांनी हे देऊळ बांधले आणि आपले गुरु असणाऱ्या
+दीक्षितांना त्यांनी हे मंदिर अर्पण केले म्हणून या गणपतीला ‘गुपचूप गणपती’ असे नाव मिळाल"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gp3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="अत्यंत सुंदर आणि संपूर्ण लाकडी असणारा सभामंडप बांधताना ‘श्री गुपचूप’ यांनी या मंदिराचे सगळे लाकूड हे ब्रिटिशांच्या काळात भोरच्या जंगलातून
+उत्तम लाकूड आणले आणि संपूर्ण लाकडी सभामंडप हा इ.स. १८९४ साली बांधला. या लाकडी सभामंडपामध्ये आपल्याला प्रसिद्ध चित्रकार श्री राजा
+रवीवर्मा यांनी काढलेल्या चित्रांच्या फ्रेम्स तिथे आपल्याला पहायला मिळतात. दोन मजली सभामंडप, उंच लाकडी छत, उंच लाकडी खांब तसेच
+गाभाऱ्याचे जाळीदार प्रवेशद्वार हे आजही तेवढेच सुंदर आहे आणि टिकून देखील आहे. संपूर्ण मंदिरा ची बांधणी ही लाकडाची आहे. तसेच सभामंडपात
+आपल्याला आता दुर्मिळ झालेल्या दिव्याच्या हंड्या, झुंबरे हे देखील पहायला मिळते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gp4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराच्या गाभाऱ्यामध्ये ‘श्री वरद गणपतीची’ चतुर्भुज मूर्ती आहे. मूळ ‘श्री गणपतीची’ मूर्ती ही सुमारे ९ इंच उंचीची जरी असली तरी आता त्या मूर्तीवर
+शेंदूर लेपन केल्यामुळे तिची उंची अजून वाढलेली आपल्याला दिसते. ‘श्री वरद गणपतीची’ मूर्ती ही चतुर्भुज असून अर्धपद्मासनस्थ असून गणपतीचा डावा
+हात अभयमुद्रेत असून खालच्या उजव्या हातामध्ये आपल्याला मोदक पहायला मिळतो. या मोदकावर गणपतीने सोंडसों टेकवलेली देखील आपल्याल
+पहायला मिळते. मूर्तीच्या वरच्या दोन्ही हातामध्ये आपल्याला शस्त्रे पहायला मिळतात. मूर्तीला अंगभूत मुकुट नसल्याने गंडस्थळे पहायला मिळतात.
+तसेच मूर्तीच्या डावीकडे छोटासा उंदीर देखील आहे. मूळ मूर्तीच्या डावीकडे गणपतीच्या दोन संगमरवरी मूर्ती देखील ठेवलेल्या आपल्याला दिसतात.
+
+मंदिराच्या गाभाऱ्याला प्रदक्षिणा वाट असून कळस देखील सुस्थितीत आपल्याला पहायला मिळतो . या मंदिराचे अजून एक मुख्य वैशिष्ट्य म्हणजे
+गणपतीला प्रिय असणारी बरेच जुने शमीचे झाड हे प्रदक्षिणा मार्गावर आहे. या शमीच्या झाडावर न चढता येथे खाली पडलेली पाने ही वापरली जातात.
+शमी या वृक्षाचे फार महत्व असल्याने या मंदिरातील हे झाड नक्कीच मंदिराचे वैशिष्ट्य ठरते. शमी गणेश अर्थात शमीवृक्षाखालील गणपतीजवळ
+उपासना केल्यास ति फलदायी असते. आजकाल दुर्मिळ झालेले शमीचे झाड या गणपतीच्या आवारात आपल्याला बघावयास मिळते.
+‘श्री वरद गणपती’ याच्यावर खूप लोकांची श्रद्धा आजही आहे. या गणपतीच्या दर्शनासाठी आण्णासाहेब पटवर्धन, लोकमान्य टिळक या गणपतीच्या
+दर्शनासाठी येत असत. ता ई महाराजांचा जेव्हा खटला चालू होता तेव्हा या खटल्यात लोकमान्य टिळकांना या ‘श्री वरद गणपतीची’ प्रचीती आली होती
+असे सांगितले जाते. १९६१ साली आलेल्या पानशेत पुरामध्ये मंदिर कळसासकट पाण्याखाली असून देखील मंदिरास हानी पोहोचली नव्हती"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gp5"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="श्री वरद गणपतीची’ महिन्यात रोज पंचामृत पुजा, माघ महिन्यात गणेश जन्म आणि भाद्रपद महिन्या तील उत्सव मोठ्या उत्साहात पार पाडले जातात.
+भाद्रपद आणि माघ उत्सवाच्या काळामध्ये ‘श्री वरद गणपतीस’ शेंदूर लावला जातो. असे हे सुंदर लाकडी सभामंडप आणि दगडी दिंडी तसेच शमी वृक्ष
+असलेले सुंदर मंदिर खर्च आपल्याला प्रेमात पाडते. पुण्यातील अत्यंत वर्दळीच्या ठिकाणी असलेले हे सुरेख मंदिर कायम भेट द्यावेसे वाटते ते त्याच्या
+निरव शांततेमुळेच. ‘श्री वरद गणपतीचे’ हे उत्तर पेशवाई मधील मंदिर त्याच्या बांधकामाच्या शैलीमुळे नक्कीच पुण्यातील एक वैशिष्ट्यपूर्ण मंदिर ठरते.
+"/>
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

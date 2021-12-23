@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathifule">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="महात्मा फुले संग्रहालय"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/ph1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+महात्मा फुले संग्रहालय {आधीचे नाव रे म्यूझियम) भारतातील महाराष्ट्राच्या पुणे शहरातले एक वस्तुसंग्रहालय आहे. या संग्रहालयाची स्थापना १८९० मध्ये झाली. तेव्हा हे 'पूना औद्योगिक संग्रहालय' म्हणून ओळखले जात असे. त्यानंतर याला 'लॉर्ड रे संग्रहालय' असे नाव देण्यात आले. इ.स. १९६८मध्ये ह्या संग्रहालयाचे नाव बदलून महात्मा फुले संग्रहालय असे झाले.
+
+सुरुवातीला पुण्यातील (भाजी)मंडईच्या वरच्या मजल्यावर असलेले हे संग्रहालय नंतर घोले रोडवर गेले.
+संग्रहालयात छायाचित्रे, आलेख, मॉडेल्स, यंत्र आणि वैज्ञानिक नमुने असलेले विभाग आहेत. त्यातील वस्तू उद्योग आणि अभियांत्रिकी, भूशास्त्र आणि खनिजे, हस्तकला आणि कॉटेज उद्योग, शेती, वनीकरण, नैसर्गिक इतिहास आणि शस्त्रास्त्रांशी संबंधित आहेत. शस्त्रास्त्रांत मुघल आणि मराठा काळातील शस्त्रे आहेत. पुणे जिल्ह्यातील विविध किल्ल्यांचे तपशीलवार तक्ते आहेत. नैसर्गिक इतिहास विभागात प्राणी, पक्षी, कीटक, साप आणि मासे यांच्या विविध प्रजातींचे संग्रह आहे. औद्योगिक विभागात वैज्ञानिक शेतीसंबंधीचे भारतीय जलविद्युत आणि सिंचन प्रकल्पांचे नमुने आणि तेल संशोधनाच्या पद्धतींंची माॅडेल्स आहेत."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/ph2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="संग्रहालयाच्या स्थापनेपासूनच इथे ग्रंथालय आहे. यात विविध विषयांवर, विशेषत: पुरातन तंत्रज्ञान आणि संग्रहालयशास्त्र विषयावरील पुस्तके आहेत.
+
+संग्रहालयाद्वारे विज्ञान मासिक सृष्टीज्ञान प्रकाशित होते. या मासिकातील लेखांमधून लोकांना सोप्या भाषेत समजेल अशाप्रकारे वैज्ञानिक विकासाचे स्पष्टीकरण केलेले असते. इ.स. १९२८ मध्ये सुरू केलेले हे अग्रणी मराठी लोकप्रिय विज्ञान मासिक आहे. विज्ञान आणि तंत्रज्ञानाच्या विविध शाखांमधील अनेक वैज्ञानिक आणि तज्ज्ञ या मासिकात लोकप्रिय लेखांचे योगदान देतात."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/ph3"/>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Marathi_OshoAshram">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="ओशो आश्रम"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/osho"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यातील कोरेगाव पार्कमध्ये असलेल्या ओशो आश्रमाची स्थापना रजनीश चंद्र मोहन जैन यांनी केली होती, जे ओशो रजनीश म्हणून प्रसिद्ध आहेत. पुण्याचे ओशो कम्युन इंटरनॅशनल म्हणूनही ओळखले जाते, हा आश्रम 32 एकर परिसरात पसरलेला आहे. आश्चर्यकारक नैसर्गिक सौंदर्यासह हिरवेगार परिसर, अभ्यागतांना शहरांच्या प्रदूषणापासून आणि दैनंदिन जीवनातील गर्दीपासून खूप आवश्यक विश्रांती देते. पुण्यातील एक लोकप्रिय पर्यटन स्थळ, हे त्याच्या सुंदर लँडस्केप आणि शांत परिसराने पर्यटकांना आकर्षित करते.
+
+एक रिसॉर्ट, योग आणि ध्यानासाठी समर्पित आहे, ते आपल्या अभ्यागतांना टवटवीत अनुभवांचे वचन देते, त्यांच्या मनाला आणि आत्म्याला शांत करते. अध्यात्मिक जीवन आणि तणावमुक्त जीवनशैलीचे विविध प्रकारचे प्रशिक्षण कार्यक्रम येथे नियमित अंतराने आयोजित केले जातात. ओशो नादब्रह्म, ओशो कुंडलिनी ध्यान, ध्यान, ओशो नटराज, ओशो डायनॅमिक ध्यान, इत्यादी काही ध्यान तंत्रे आहेत, जी येथे आश्रमात शिकवली जातात.
+
+अध्यात्मिक गुरू ओशो यांच्या निधनानंतर, हा आश्रम त्यांच्या शिकवणींचा प्रसार करत आहे आणि त्यांचा वारसा विविध अभ्यासक्रमांच्या माध्यमातून पुढे नेत आहे. ओशो मल्टीव्हर्सिटी, आध्यात्मिक वाढीसाठी जगातील सर्वात मोठ्या केंद्रांपैकी एक, वैयक्तिक विकासासाठी विस्तृत पद्धती प्रदान करते. यापैकी काही उपचार कला, सर्जनशील कला, मार्शल आर्ट्स, गूढ विज्ञान, झेन, सूफीवाद आणि तंत्र आणि बरेच काही आहेत. दर महिन्याच्या दुसऱ्या शुक्रवारी ध्यान शिबिरे घेतली जातात. ही मध्यस्थी शिबिरे तीन दिवसांची आहेत.
+
+"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+1-दिवस आणि 2-दिवस प्रवेश स्टिकर्ससाठी भारतीयांसाठी प्रति व्यक्ती 870
+ 1-दिवस आणि 2-दिवस प्रवेश स्टिकर्ससाठी परदेशींसाठी प्रति व्यक्ती 1790
+3-दिवस आणि 4-दिवसांच्या प्रवेश स्टिकर्सवर अंदाजे 15% सूट दिली जाते
+5-दिवसांच्या प्रवेश स्टिकर्सवर अंदाजे 25% सूट दिली जाते
+30-दिवसांच्या प्रवेश स्टिकर्सवर अंदाजे 40% सूट दिली जाते
+
+
+ओशो आश्रम पुणे पत्ता: No.17, वेलकम सेंटर, 1st लेन, कोरेगाव पार्क, पुणे, महाराष्ट्र, 411001, भारत"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

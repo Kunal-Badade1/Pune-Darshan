@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".pethshindi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="1) शनिवार पेठ"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="10sp"
+            android:textSize="18sp"
+            android:text="मुर्तजा पेठ दरअसल इसी पेठ का नाम है। लेकिन यह पेशवाओं द्वारा बनवाए गए महल के कारण प्रसिद्ध हुआ। पेशवाई में, इमारत को थोरला वाड़ा कहा जाता था। बेशक शनिवार पेठ में होने के कारण इसे बाद में शनिवार वाड़ा कहा गया और यही पुणे की असली पहचान बन गई। इसी पेठ में रामशास्त्री प्रभुने का महल भी था। पूर्व में शनिवारवाड़ा के सामने आंगन में सब्जी मंडी थी।
+
+वर्ष 1764 में इस जिले में लगभग 374 घर थे लेकिन बाद में जैसे-जैसे शनिवार वाड़ा का महत्व कम होने लगा, इस जिले की जनसंख्या भी कम होने लगी। 1826 में इस जिले में केवल 159 घर थे।
+
+शनिवार पेठे में ओंकारेश्वर और अमृतेश्वर जैसे खूबसूरत पेशवा मंदिर हैं। यहां ओंकारेश्वर मंदिर में एक श्मशान हुआ करता था। पेठे में अमृतेश्वर मंदिर महान बाजीराव पेशवा की बहन द्वारा बनाया गया था।
+शनिवार पेठ में कई प्रसिद्ध सरदारों की हवेली थी। इनमें सांगलीकर, रास्ते, नाटू, मेहंदी, गोले, बिवलकर, थाटे, राजमाचिकर शामिल हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="2) मंगलवार पेठ:  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="औरंगजेब बादशाह के चाचा शाहिस्तेखान 9 मई, 1660 को डेक्कन अभियान पर पुणे पहुंचे, जिस समय वे रेड पैलेस में रुके, और उनके साथ
+उसने ढाई लाख सैनिकों को लाल महल के चारों ओर खुले स्थान पर आने की व्यवस्था की।
+तीन साल के भीतर, बाजार फलफूल रहा था। दस्तावेजी अभिलेखों से पता चलता है कि शाहिस्तेखना के निवास के रूप में इसे शास्तापुर आसे भी कहा जाता था।छत्रपति शिवाजी महाराज
+शाहिस्तेखान शिविर पर हमला करके लाल महल की खिड़की से भाग रहा था, उसकी उंगलियां काट दी गईं और वह दहशत में दिल्ली भाग गया"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="3) बुधवार पेठ: :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="रविवर पेठ चार साल में भर जाने के बाद नानासाहेब पेशवा ने इसके पास एक नई कॉलोनी बनाने का फैसला किया और कॉलोनी का नाम बदलकर 'बुधवार पेठ' कर दिया।
+इस क्षेत्र को 'कपड़ गंज (पेठ)' या 'कपड़ आली' के नाम से भी जाना जाता है, क्योंकि पास में विट्ठल का मंदिर है।
+नारायण गांव के सामने पसौदे बेचने वाले कुछ व्यापारी थे, इसलिए विट्ठल को 'पसोद्या विठोबा' भी कहा जाता था।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="4) गुरुवार पेठ :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gr1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text=" बुधवार और रविवार दोनों पेठ में बढ़ी आबादी व भीड़, बड़े व्यापारियों ने ज्यादा जगह ली लेकिन छोटी
+व्यापारियों को काफी परेशानी हुई। दिन भर
+जो व्यापार करके दिवाली पर वापस जाते हैं। ऐसे व्यापार को मोम बाजार कहा जाता है। इन छोटे व्यापारियों को जगह दिलाने के लिए
+नानासाहेब पेशवा ने इस नए 'गुरुवार' पेठ का निर्माण किया, वहाँ एक वेताला मंदिर भी बनवाया इसलिए इसे 'वेताल पेठ' भी कहा जाता है।
+इस गुरुवार पेठ में अथरपगड़ जाति के व्यापारी हैं. सोनार, लोहार, जंगम, काची, पेंधारी, छप्परबंद, मोची, तंबोली आदि.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gr2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="5) शुक्रवार पेठ :  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shn2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="शुक्रवार पेठ : इस पेठ की स्थापना जीवाजीपंत अन्ना खसगीवाले कोतवाल ने तीसरे पेशवा श्रीमंत बालाजी बाजीराव के आदेश पर की थी। क्षेत्रफल और जनसंख्या की दृष्टि से यह अन्य सभी से बड़ा था।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/mn3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="6) सोमवार पेठ :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sm2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सोमवार पेठ भारत गणराज्य के महाराष्ट्र राज्य के पुणे शहर में स्थित एक क्षेत्र है।
+यह क्षेत्र कस्बा पेठ, शनिवार पेठ और रविवर पेठ से घिरा है।
+सोमवार पेठ को 1625 में महाराज शाहजी राजे भोसले के मंत्री रंगो बापूजी धडफले द्वारा विकसित किया गया था।
+1630 में आदिल शाही वंश के छापे के कारण यह क्षेत्र प्रभावित हुआ था। 1636 और 1647 के बीच शाहजी के एक सैन्य और प्रशासनिक अधिकारी दादोजी कोंडादेव द्वारा इसका पुनर्विकास किया गया था।
+केईएम अस्पताल (किंग एडवर्ड मेमोरियल अस्पताल) और शाहू गार्डन इस क्षेत्र में स्थित हैं। सोमवार पेठ पीएमपीएमएल बसों द्वारा इन बस मार्गों पर कटराज, स्वारगेट, पुणे रेलवे स्टेशन, कैंप और अन्य क्षेत्रों से जुड़ा हुआ है। त्रिशुंड गणपति हेमाड पंथी मंदिर और नागेश्वर मंदिर सोमवार पेठ में सबसे पुराने मंदिर हैं।
+
+KEM अस्पताल पुणे शहर, महाराष्ट्र, भारत के सोमवार पेठ क्षेत्र में स्थित है। केईएम अस्पताल सोसायटी द्वारा संचालित यह अस्पताल पूरे पुणे जिले में सबसे बड़ा गैर सरकारी अस्पताल संगठन है। अस्पताल में 550 बिस्तर हैं और पुणे शहर के साथ-साथ पुणे उपनगरों और पुणे जिले के ग्रामीण क्षेत्रों के रोगियों की सेवा करता है। यह मध्य पुणे में स्थित होने के कारण आसानी से पहुँचा जा सकता है।
+
+पुणे में सोमवार पेठ क्षेत्र में स्थित स्कूल निम्नलिखित हैं:
+\n\n
+सरस्वती विद्यालय संघ प्राथमिक विद्यालय। (सह-एड)\n
+सरस्वती विद्यालय संघ हाई स्कूल और जूनियर कॉलेज (सह-एड)\n
+बालविकास शिक्षण संस्था प्राथमिक शाला। (सह-एड)\n
+अब्बासाहेब अत्रे हाई स्कूल। (सह-एड)\n
+सरस्वती विद्यालय संघ हाई स्कूल और जूनियर कॉलेज। (सह-एड)\n
+मुख्य कार्यकारी अधिकारी जिला परिषद\n
+एसआई रस्ता प्राथमिक विद्यालय (सह-एड)\n
+इंडियन रेड क्रॉस (सह-एड)\n
+"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sm3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="7) रविवर पेठ:  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="400sp"
+            android:src="@drawable/bd3"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="रविवर पेठ: कस्बा पेठ और शनिवार पेठ की आबादी बढ़ रही थी और जगह कम होती जा रही थी, बड़े बाजीराव पेशवा ने पुराने केदार गेट के बाहर पुराने मलकापुर पेठ के दोनों किनारों पर एक नया पेठ बनाया और इसका (आदित्यवर) नाम बदलकर 'रविवार' कर दिया। ' पेथ। व्यापारियों ने पुराने केदवेशी से पसोद्या विठोबा के मंदिर तक सड़क पर बाजार लगा दिए। कपडाली के पड़ोस के मोहियाबाद पेठ (बुधवार पेठ) की दुकानों में भी हड़कंप मच गया, इसलिए रविवर पेठ को दक्षिण की ओर बढ़ा दिया गया और आभूषण की दुकानें लगा दी गईं। रविवर पेठ के दक्षिणी छोर पर एक सोने की मारुति है। रविवर पेठ को अमीर व्यापारी पेठ के रूप में जाना जाता है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bd4"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="8)  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kb2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="कस्बा पेठ या कस्बा पुणे, भारत में सबसे पुराना आवासीय हिस्सा, 'पेठ' (इलाका) है। यह ऐतिहासिक शनिवार वाड़ा महल-किले के निकट है। कस्बा पेठ 5वीं शताब्दी के दौरान स्थापित होने वाला पहला पेठ था, और यह पुणे का सबसे पुराना क्षेत्र है। इसे 'पुणे शहर का दिल'  कहा जाता है। पुणे के इतिहास में, शहर को कभी 'कस्बे पुणे' के नाम से जाना जाता था।
+
+        कस्बा गणपति पुणे के ग्राम देवता हैं। इसका निर्माण शिवाजी के शासनकाल में हुआ था। लाल महल, शिवाजी का गढ़वाले निवास, कस्बा पेठ में स्थित था। आज शनिवारवाड़ा के पास इसकी प्रतिकृति देखी जा सकती है। शहर का सबसे पुराना हिस्सा होने के कारण, पुराने आवासीय परिसर, 'वाडा (घर)' , यहां मौजूद हैं। कस्बा पेठ मुख्य रूप से रिहायशी इलाका है। कस्बा पेठ (तंबत अली, शिम्पी अली, व्यवहार अली, भोई अली, आदि) के आसपास कई तरह की दुकानें हैं। यह कुम्भर वाड़ा (मिट्टी के बर्तन बनाने वालों का क्षेत्र) और ताम्बत अली (पीतल/तांबे के बर्तन निर्माताओं का क्षेत्र) के लिए प्रसिद्ध है।
+
+        कस्बा गणपति के बारे में एक कहानी है: कुछ बच्चे गायों को चराने के लिए क्षेत्र में लाए थे, और उन्हें गणपति की एक मूर्ति मिली। फिर, उन्होंने इस मूर्ति को रंग दिया और इसकी पूजा करने लगे। शिवाजी की मां जीजाबाई भी अक्सर मंदिर जाती थीं। इसलिए दादोजी कोंडदेव ने मूर्ति के सामने एक पेंडोल बनवाया; यहीं पर आज कस्बा गणपति मंदिर स्थित है।
+
+        मुथा नदी के पास पेठ का हिस्सा कुंभर वाडा (मिट्टी के बर्तन बनाने वालों का इलाका) के नाम से जाना जाता है। पीतल और तांबे से बर्तन बनाने के लिए जाने जाने वाले कुशल धातु शिल्पकार (तंबट के रूप में जाने जाते हैं) भी वहां रहते हैं।
+
+        लाल महल और कस्बा गणपति मंदिर, त्वष्ट कसार कालिका देवी मंदिर कुछ दर्शनीय स्थल हैं। बुधवार पेठ और शनिवार पेठ (दक्षिण पश्चिम में), रास्ता पेठ (दक्षिणपूर्व में), रविवर पेठ (दक्षिण में) और मंगलवार पेठ (पूर्व में) कस्बा पेठ के पड़ोसी पेठ हैं।"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kb3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="9) गणेश पेठ: :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गणेश पेठ: रविवर पेठ के पूर्व और गंज पेठ के उत्तर में एक कॉलोनी स्थापित की गई और उसका नाम बदलकर गणेश पेठ कर दिया गया। यहाँ दुल्या मारुति की एक प्रसिद्ध कथा है।पानीपत हत्याकांड की खबर सुनकर, मारुति यहाँ घूमने लगी, इसलिए इसका नाम 'दुल्या मारुति' पड़ा।"/>
+
+
+          <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="10) गंज पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मिथगंज पेठ : उस समय यह क्षेत्र नमक के बड़े पैमाने पर व्यापार, भंडारण और बिक्री के कारण 'मिथगंज' पेठ के नाम से जाना जाता था। नमक के साथ-साथ यहाँ अन्न मल का एक बड़ा गोदाम था, इसलिए कुछ समय बाद इसका नाम 'गंज पेठ' पड़ा। उस समय महात्मा ज्योतिबा फुले में रहते थे और अब सरकार ने उसी स्थान पर उनका स्मारक बनवाया है।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="11) नारायण पेठ:"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नारायण पेठ: इस पेठ की स्थापना पानीपत की लड़ाई के बाद पांचवें पेशवा नारायण बालाजी (मृत्यु 1773) की याद में की गई थी।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="12) घोरपड़े पेठ :"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="घोरपड़े पेठ: सरदार मालोजीराव घोरपड़े (1781) की अपनी निजी सेना थी। उनकी याद में इस पेठ की स्थापना की गई थी।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/gh"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="13) भवानी पेठ  :"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/bh"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भवानी पेठ (टिम्बर मार्केट): नागजारी से परे, जहां औरंगजेब का सेना शिविर 1603 में स्थित था, माधवराव पेशवा ने पुणे का विस्तार करने का फैसला किया। पेशवा के प्रबंधक सखाराम भगवंत ने खुली जगह में भवानी देवी का मंदिर बनवाया। बाद में इसे 'भवानी पेठ' के नाम से जाना जाने लगा।
+बाजार अभी भी थोक व्यापारी, तिलहन, लकड़ी और किराना के रूप में जाना जाता है। पर्याप्त जगह होने के कारण इस स्थान पर बाहर से माल की आवाजाही, भंडारण और वितरण होता है। इस पेठे के केंद्र में सूरजमुखी सिद्धिविनायक मंदिर के पास चावड़ी थी। इस पर रामोशी पहरेदार हुआ करता था, बगल में रामोशी गेट थाना है।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="14) नाना पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नाना पेठ: नाना पेठ की स्थापना नानासाहेब पेशवा की स्मृति में और केवल अनाज व्यापारियों के लिए की गई थी, और यह केवल व्यावसायिक उद्देश्यों के लिए स्थापित किया गया था।"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="15) रास्ते पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="रास्ते पेठ: पेशवा प्रमुख आनंदराव लक्ष्मण रस्ते (1782) पेशवा घुड़सवार सेना का नेतृत्व करते थे। इस पेठ को उनके नाम से जाना जाता है।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="16) नागेश पेठ :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नागेश पेठ: उन्हें 'न्याहल' पेठ के नाम से भी जाना जाता था।
+जनसंख्या बढ़ी, उद्योग बढ़े, नई शाखाएँ स्थापित हुईं। सात गुना, सात पेठा का समीकरण कभी पीछे नहीं रहा। आजकल सिर्फ नए शहर बनते हैं।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="लेकिन इन पेठों की वजह से पुणे का काफी हिस्सा बच गया है। समय के साथ भले ही बदलाव आए हों, लेकिन जो कहते हैं कि पुणे अब नहीं रहा, उनका यहां भटकना तय है।
+
+1869 से 1872 तक पुणे में रे लाइट नामक एक ब्रिटिश अधिकारी द्वारा एक सर्वेक्षण किया गया था। क्योंकि तब पेठा का मतलब पुणे और पुणे का मतलब पेठा होता है।"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

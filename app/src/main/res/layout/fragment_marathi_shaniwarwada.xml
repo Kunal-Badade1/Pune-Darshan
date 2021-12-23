@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathi_shaniwarwada">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="शनिवार वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shaniwar_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="शनिवार वाडा हे पुण्यातील ऐतिहासिक वास्तू आणि प्रसिद्ध ठिकाणांपैकी एक आहे.
+पेशव्यांच्या काळातील भारतीय राजकारणाचे स्थान ते मराठा वैभवाचे प्रतीक बनले आहे.
+बागा आणि कारंजे असलेला हा एक विस्तीर्ण, मोहक राजवाडा आहे.
+
+हे मूळत: मराठा साम्राज्यातील महान सेनापती पेशव्यांच्या निवासस्थानी बांधले गेले होते.
+1730 मध्ये बाजीराव प्रथम याने पाया घातला.
+बांधकामासाठी ही जागा कशी निवडली गेली याबद्दल एक मनोरंजक किस्सा आहे.
+कथा सांगते की बाजीरावांनी येथे एक ससा कुत्र्याचा पाठलाग करताना पाहिला
+आणि निर्णय घेतला की कधीही पराभव होणार नाही असा महाल बांधणे सर्वोत्तम आहे.
+ 1818 पर्यंत पेशव्यांनी इंग्रजांना शरणागती पत्करली तोपर्यंत त्यांचा विश्वास जवळजवळ खरा ठरला."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shaniwar_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+१८२८ मध्ये एका अस्पष्ट आगीत ही इमारत जवळपास नष्ट झाली होती. तिला पाच दरवाजे आहेत
+आणि या भव्य इमारतीला वेढलेले नऊ बुरुज. तुम्ही आता सागवान ट्रेसरी पाहू शकता
+खांब, पॉलिश संगमरवरी, शोभेच्या उत्कृष्ट कोरीव कमानी आणि प्रभावी कारंजे.
+शनिवार वाड्याला भेट देताना तेथील सोनेरी वर्षांच्या खुणा बघायला मिळतात.
+
+अपराजित मराठा सेनापती बाजीराव पहिला यांचा पुतळा परिसराचे सौंदर्य वाढवतो.
+हे वास्तुशिल्प चमत्कार पुण्यातील एक आवश्‍यक आकर्षण आहे.
+
+तुम्ही येथे मार्गदर्शक टूर निवडू शकता, अगदी मिनिमलिस्टिकसह
+ठिकाणाचा इतिहास समजून घेण्यासाठी प्रवेश शुल्क.
+
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

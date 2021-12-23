@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathitrishunda">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="त्रिश्रूंड गणपती मंदिर "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यनगरीमधील कलात्मक शिल्प मंदिर 'त्रिशुंड गणपती'
+
+महाराष्ट्रा मध्ये अनेक सुंदर सुंदर मंदिरे आहेत. या मंदिरांच्या प्रदेशात अनेक लहानमोठ्या गावांमध्ये असलेली प्राचीन मंदिर ही महाराष्ट्रा चे वेगळेपण
+दर्शवतात. महाराष्ट्रा तील ही प्राचीन मंदिरे आपल्याला अनेक लहान मोठ्या गावांमध्ये बघायला मिळतात. ही मंदिरे जणू या गावांचा इतिहास सांगत
+आजही येणाऱ्या जाणाऱ्या भाविकाला आपला प्राचीन इतिहास सांगत असतात आणि इतिहासाच्या पाउलखुणा जपत असतात तसेच संस्कृती देखील
+टिकवून ठेवण्यास मदत करतात. अश्याच जुन्या मंदिरांपैकी एक सुंदर शिल्पांनी अलंकृत असलेले एक सुंदर मंदिर पुणे शहराच्या भरवस्तीत वसलेले
+आहे.
+पुणे हि महाराष्ट्रा ची सांस्कृतिक राजधानी म्हणून ओळखले जाते तसेच पुणे हे मंदिरांचे शहर म्हणून देखील ओळखले जाते. या पुण्याच्या परिसरात अशी
+बरीच छोटी मोठी असंख्य राउळे आपल्याला बघायला मिळतात यातील काही मंदिरे हि अत्यंत वैशिष्ट्यपूर्ण आहेत अश्याच वैशिष्ट्यपूर्ण मंदिरांपैकी एक
+संपूर्ण कातळात केलेले को रीव काम असणारे आणि १७ व्या शतकाची ओळख जपणारे एक ऐतिहा सिक 'त्रिशुंड गणपती' मंदिर पुण्यातील सोमवार
+पेठेमध्ये भरवस्तीमध्ये आजही मोठ्या दिमाखात उभे आहे.त्रिशुंड गणपती मंदिर हे पुण्यात राहूनही बऱ्याचश्या लोकांना आजही परिचित नाही. उत्तर पेशवाई मधील हे सुंदर मंदिर म्हणजे जणू शिल्पांचा खजिनाच.
+मंदिराच्या बाह्यांगावर कोरलेली हि अलंकृत शिल्पे आणि वैशिष्ट्यपूर्ण तीन सोंडा सों असलेली गणेश मूर्ती आपले डोळे दिपवून टाकतात. जणू काही आपण
+एखादे सुंदर लेणे बघत आहोत कि काय असा आपल्याला भास होतो इतक्या सुंदर पद्धतीमध्ये त्रिशुंड गणपती मंदिराच्या बाहेरील प्रवेशद्वार अलंकृत
+केलेले आहे.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="650sp"
+            android:src="@drawable/tr2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भैरवाचे शिल्प."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड मंदिरा ला भेट द्यायची असल्यास नव्या पुलाकडून साततोटी पोलीस चौकी शेजारून जो रस्ता कमला नेहरू हॉस्पिटल कडे जातो तेथे जाऊन
+रस्त्यामध्ये एक पार लागतो या पाराशेजारून उजवीकडे वळले असता थेट आपल्याला त्रिशुंड गणपती मंदिराच्या समोर नेऊन उभा करतो. भरवस्तीत
+असलेले हे शिल्पजडित मंदिर आपल्या मनाला मोहिनी घालते. या मंदिराच्या परिसरात आजूबाजूला असणाऱ्या इमारती मंदिराच्या सौंदसौं ऱ्याला बाधा
+आणतात. मंदिराच्या अगदीच जवळ जवळ इमारती असल्यामुळे त्रिशुंड गणपतीचे मंदिर झाकोळून गेलेले आहे तरीही ह्या संपूर्ण मंदिराची रचना या
+सगळ्यात उठून दिसते.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="650sp"
+            android:src="@drawable/tr3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिरावरील कृष्ण."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुरुषभर उंच असलेले मंदिराचे जोते आणि त्याच्यावर उभे केलेले पूर्वाभिमुख मंदिर खरोखरच देखणे आहे. या जोत्यावर पुणे महानगर पालिकेने एक
+माहितीदर्शक फलक उभे केलेले आहे. मंदिराच्या बह्याभागावर नजर फिरवली असता काही शिल्प आपल्याला अक्षरशः खुणावतात. यामध्ये एक
+बंदुकधारी इंग्रज शिपाई या ने गेंड्याला साखळदंडाने पकडून ठेवलेले आहे हे शिल्प पहिले असता त्या काळातील परिस्थितीचे वर्णन केलेले आपल्याला या
+वैशिष्ट्यपूर्ण शिल्पातून दिसून येते. शिल्पातील वर्णन दुसरे तिसरे काही नसून प्लासीच्या लढाई मध्ये ईस्ट इंडिया कंपनीने लॉर्ड क्लाइव्ह याच्या
+नेतृत्वाखाली बंगाल आणि आसाम या प्रदेशावर कब्जा मिळवला तीच ईस्ट इंडिया कंपनी येथील राज्यकर्ती झाली याकडे लक्ष वेधले आहे. अश्याच पद्धती
+मध्ये उजव्या बाजूच्या भिंतीवर देखील हेच शिल्प कोरलेले आपल्याला दिसते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="प्लासीची लढाई याचे शिल्प."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="या शिल्पांमध्ये गेंड्याला ज्या साखळदंडाने बांधलेले आहे ते साखळदंड अतिशय सूक्ष्म रित्या कोरलेले आपल्याला बघावयास मिळतात. तसेच दोन्ही
+बाजुंच्या खालच्या शिल्पपटात एकमेकांशी झुंजणारे हत्ती कोरण्यात आलेले आहेत. हे हत्ती म्हणजे महाराष्ट्रा तील सत्तांचे प्रतिक होय. वरील शिल्पपटातील
+इंग्रजांच्या वेशभूषा बंदुका अगदी हुबेहूब कोरलेल्या आहेत. हे संपूर्ण शिल्पपट बऱ्याचश्या तत्कालीन गोष्टींचा ष्टीं इतिहास आपल्याला सांगून जाते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भैरव शिल्प"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपतीच्या प्रवेशद्वारावर द्वारपाल कोरलेले आहेत हे द्वारपाल अत्यंत देखणे आहेत. द्वारपालांच्या बाजूला दोन खांब अत्यंत सुबकरित्या कोरलेले
+आहेत या खांबांवर असलेल्या घंटा आणि त्यांच्यावर केलेले घट-पल्लव शिल्पकाम नजर भारावून टाकते. तसेच मंदिराच्या कोनाड्यां मधील शिल्पे देखील
+नजरेत भरतात. प्रवेशद्वाराच्या वरती गणेशपट्टीका कोरलेली असून त्यावरील गणेशाची सुबक मूर्ती कोरलेली आहे. या गणेशपट्टीकेच्यावर दोन बाजूंना
+दोन हत्ती असणारे गजलक्ष्मी सुंदर रित्या कोरलेली आहे. हे शिल्प आपल्या डोळ्यांचे पारणे फेडून टाकते.
+या गजलक्ष्मीच्या शिल्पाच्या वरच्या बाजूस आपल्याला शेषशाही विष्णू कोरलेला बघायला मिळतो. या शेषशाही विष्णूच्या महिरपिच्या बाजूस कोरलेली
+माकडे आणि पोपट अत्यंत वैशिष्ट्यपूर्ण आणि बारीक नजरेने कोरलेली आपल्याला दिसतात. या शि ल्पांच्या वर आपल्याला दशअवतार , यक्ष तसेच
+किन्नर देखील बघायला मिळतात. अश्या पद्धतीत वरच्या बाजूस केलेले कोरीव काम डोळे दिपवून टाकते अत्यंत बारीक गोष्टी या कारागिराने टिपलेल्या
+आपल्याला पहावयास मिळतात.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr6"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिरावरील द्वारपाल."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="एखाद्या लेण्या प्रमाणे कोरलेले हे मंदिर मनाला भुरळ घालते. या मंदिराच्या शिल्पपटात काही शिल्प हि बघण्यासारखी आहेत त्यापैकी एक शिल्प
+हे लिंगोद्भव रूप असून या शिल्पामध्ये शिव अग्नीस्तंभाच्या रूपात प्रकटतात तेव्हा ब्रह्मदेव हंसरूपाने व विष्णू वराहरूपाने त्या अग्नीस्तंभाचा आदिअंत
+शोधायचा अयशस्वी प्रयत्न करतात, हि आख्या यिका या मंदिराच्या मागच्या बाजूला आपल्याला कोरलेली दिसते. या मंदिरात एक पुरुषाकृती कोरलेली
+असून तिच्याभोवती दोन स्त्रिया आहेत हे सुंदर शृंगारिक शिल्प लक्ष वेधून घेते
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr7"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="लिंगोद्भव रूप असलेले शिल्प."/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr8"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नटराज शिल्प"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="इंदूर येथे असलेल्या धामा पूर या गावातील संपन्न गोसावी भिमगिरजी यांनी या सुंदर मंदिराचे बांधकाम इ.स. १७५४ मध्ये पूर्ण केले संपूर्ण दगडात
+उभारलेल्या या मंदिराचा दरवाजा हा पूर्वाभिमुख असून राजस्थानी वास्तुशैलीचा मंदिर उभारणीसाठी उपयोग केला गेला असल्याचे दिसून येते.
+पेशव्यांच्या कालखंडात बांधेलेले हे सुंदर मंदिर संपूर्ण दगडात उभे केलेले आहे या मंदिरामध्ये कोठेही आपल्याला लाकडी कलाकुसर असलेले खांब
+बघावयास मिळत नाही. मंदिराचा सभामंडप देखिल सुंदर बांधून काढलेला आहे. सभा मंडपातून आत गेले असता छोटेसे अंतराळ कोरून काढलेल
+आपल्याला बघावयास मिळतात मंदिराच्या आतील बाजूस कमानीवर आपल्याला दोन शिलालेख पहावयास मिळतात ते शिलालेख पुढीलप्रमाणे:-
+
+पुण्यनगरी पुरी
+|| श्री गणेशाय नम: ||श्री||
+|| सरस्वत्यै नम: ||श्रीगुरु ||
+|| दक्षिणामुर्तये नम:||स||
+|| संवत् १८०१ तथा नृपशाली |
+|| वाहन शके १६७६ भावाना |
+|| म संवत्सरे मार्गशीर्ष शुक्ल
+|| सौम्यवासरे शुभवेला ||
+|| यां अस्य स्थाने श्री महका ||
+|| ल रामेश्वर प्रतिष्ठीतं सु ||
+|| तिष्ठीतमस्तु || श्री देवदत्त ||
+|| इह स्छान शुभं भवतु श्रीरस
+
+शिलालेखाचा अर्थ पुढीलप्रमाणे:-
+हे मंदिर रामेश्वर शिवाचे असून याची स्थापना विक्रम संवत् १८०१ या दिवशी म्हणजेच २० नोव्हेंबर १७५४ या दिवशी करण्यात आली.असे या शिलालेखात
+सांगितलेले आपल्याला बघायला मिळते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr9"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराच्या आतील शिलालेख"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="शिलालेखाचा अर्थ पुढीलप्रमाणे:-
+|| श्री गुरुदेव ||
+|| दत्त ||
+|| श्री गणेशाय नम: महेशा ||
+|| त्रापारो देव महिम्नो नाप ||
+|| रा स्तुती: || अघोरात्रापारो ||
+|| मंत्रो नास्ति तत्वं गुरोः परं ||
+|| जयंती मंगला | काली भद्र
+|| काली कपालिनी || दुर्गा
+|| क्षमा शिव धात्री स्वाहा
+|| स्वधा नमोस्तु ते || सर्व मंग
+|| ल मांगल्ये शिवे सर्वार्थसा
+|| धके || शरण्ये त्र्यंबके गौ
+|| री नारायणी नमोस्तु ते ||
+|| यत्र योगेश्वर: कृत्सनो यत्र पा
+|| र्थो धनुर्धरः || तत्र श्रीर्विजयो
+||भूतिर्धृवा नी नीतिर्मतिर्मम ||
+
+तसेच या मंदीरात एक फारसी शिलालेख देखील बघावयास मिळतो. तो फारसी शिलालेख पुढीलप्रमाणे:-
+
+१) ई मकान गुरुदेवदत्
+२) फुकरा की तारीख हफ्तुम
+३) शहर जूकअद रोज चहार श्बदेह
+४) सनह ११६७ तश्मीर नमूद शुद
+
+शिलालेखाचा अर्थ पुढीलप्रमाणे:-
+हे घर फकीर गुरुदेव दत्त यांचे असून २६ ऑगस्ट १७५४ हि तारीख यामध्ये बघायला आपणास मिळते. हे शिलालेख आजही चांगल्या अवस्थेमध्ये असून
+त्यांच्यावरची अक्षरे आपल्याला ठळकपणे वाचता येतात.
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराचे देवकोष्ठ"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपती मंदिराच्या गाभाऱ्याच्या बाहेरच्या बाजूस काही कोरीव काम आपल्याला बघावयास मिळत नाही. मंदिराच्या पश्चिमेस आणि उत्तरेस
+आपल्याला सुंदर देवकोष्ठे पहावयास मिळतात. या देवकोष्ठ्यात आपल्याला ' नटराजाची मूर्ती ' पहावयास मिळते तर दुसऱ्या देवकोष्ठ्यात ' लिंगोद्भव
+रुप ' आपल्या ला पहावया स मिळते तसेच गाभाऱ्याच्या पश्चिमेस असलेल्या देवकोष्ठ्यात ' चतुर्भुज भैरवाची ' मूर्ती पहावयास मिळते. मंदिराच्या
+उंबऱ्यामधील कीर्तिमुख अत्यंत सुंदर कोरलेली आहेत
+"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr11"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सभामंडप द्वारशाखा"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr12"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="द्वारशाखेवरील शंकराचे शिल्प."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराच्या गाभाऱ्यात असलेली गणेश मूर्ती अत्यंत सुंदर आहे ह्या मूर्तीचे वैशिष्ट्य म्हणजे या गणेशमूर्तीला एक मुख, तीन सोंडा सों , सहा हात आणि मोरावर
+आरूढ असलेली हि सुंदर मूर्ती नेत्रदीपक आहे. हि मूर्ती संपूर्ण शेंदुर्चर्चीत आहे या मूर्तीमध्ये शेजारी रिद्धी देखील बसलेली दाखवली आहे. या
+गणेशमूर्तीला तीन सोंडा सों दाखवल्या असून एक सोंडसों हि मोदकपात्रास स्पर्श करताना दिसते, दुसरी सोंडसों हि पोटावर रुळताना दिसते तिसरी सोंडसों हि
+रिद्धीच्या हनुवटीवर आहे असे आपल्याला दिसून येते. या सुबक गणेशमूर्तीस सहा हात असून वरच्या बाजूच्या डाव्या हातात परशु धरलेला आपल्याला
+दिसतो, खालच्या उजव्या हाताकडे पाहिले असता मोदकपात्र धरलेले आपल्या पहावयास मिळते, मधल्या उजव्या हातामध्ये शूल बघायला मिळते, वरच्या
+उजव्या हातामध्ये अंकुश बघायला मिळतो, मधल्या डाव्या हातामध्ये पाश बघायला मिळतो, तसेच खालचा डाव्या हाताने डाव्या बाजूच्या मांडीवर
+बसलेल्या रिद्धीला आधार दिलेला आपल्याला पहावयास मिळतो. अशी हि सुंदर गणेशमूर्ती अक्षरशः भुरळ पाडते"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr13"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराची गणेशपट्टी."/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपती मंदिराचे आणखी एक वैशिष्ट्य म्हणजे या त्रिशुंड गणपतीच्या मूर्ती खाली असलेले तळघर. या मंदिराच्या तळघरात श्री दत्तगुरू गोसावी
+यांची समाधी आहे. तसेच या गणेशमूर्तीचा अभिषेक केला जातो तेव्हा या मुर्तीवारचे पाणी या समाधी वर पडते. तसेच या तळघराचे मुख्य वैशिष्ट्य
+म्हणजे या तळघरात एक जिवंत पाण्याचा झरा आहे वर्षाचे १२ महिने ह्या झऱ्यामधील पाणी हे या तळघरात साठत राहते. हे तळघर साधारणपणे ५ मीटर
+खोल आहे. हे तळघर इतर दिवशी कधीही उघडे नसते ते फक्त गुरुपौर्णीमेला उघडले जाते तेव्हा तळघरातील समाधीचे दर्शन घेता येते. या सुंदर गणेश
+मंदिरामध्ये गणेशमूर्तीच्या पाठीमागच्या बाजूच्या भिंतीमध्ये गणेशयंत्र देखील कोरलेले आपल्याला पाहायला मिळते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr14"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपती आणि मागे शेषशायी विष्णू."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="अत्यंत सुंदर आणि शिल्पा अलंकृत असलेला हा ठेवा आपण नक्कीच जपायला हवा इथली शिल्प हि या मंदिराची शोभा द्विगुणीत करतात इतके
+वैशिष्ट्यपूर्ण मंदिर महाराष्ट्रा मध्ये सापडणे फारच दुर्मिळ आहे. अश्या या ऐतिहासिक त्रिशुंड मंदिराचा हा वारसा पुण्यातील आणि बाहेरच्या लोकांनी
+नक्की जाऊन बघावा असा आह"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr15"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गजव्याल शिल्प."/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

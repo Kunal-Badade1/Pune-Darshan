@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_ShoppingCenter">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पुणे में शॉपिंग मॉल"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="1. फीनिक्स मार्केट सिटी, पुणे"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/phoenix"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में सबसे बड़े मॉल में से एक होने के लिए जाना जाता है, लाइफस्टाइल मॉल की इस प्रसिद्ध श्रृंखला ने आधुनिक और पारंपरिक खुदरा तत्वों में पूरी तरह से मिश्रण करके शहर में अपना पदचिह्न बनाया है। चार मंजिला खुदरा बिक्री स्वर्ग में एक विशाल हाइपरमार्केट, चार विशाल डिपार्टमेंटल स्टोर हैं , एक वैल्यू शॉपिंग बाज़ार, और 280 से अधिक रिटेलिंग स्टोर पार्टनर। स्टोर में खिलौनों, किताबों, इलेक्ट्रॉनिक्स, ब्यूटी सर्विस और लाइफस्टाइल स्टोर, कैजुअल, स्पोर्ट्स और लक्ज़री गियर, आर्ट एंड क्राफ्ट आदि के लिए प्रीमियम और होम लेबल का सही मिश्रण शामिल है। जो लोग लगातार खरीदारी के बाद कुछ समय के लिए आराम करना चाहते हैं, उनके लिए मॉल में एक विशाल आंगन और एक झरना क्षेत्र है जो पुणे के पास महान झरनों से प्रेरित है। बच्चों का खेल क्षेत्र आपके छोटों को घंटों तक व्यस्त रखेगा।
+
+भोजन के लिए आ रहा है, मॉल के विनम्र फूड कोर्ट में 6 बढ़िया भोजन वाले रेस्तरां हैं, जिन्हें निश्चित रूप से पुणे की सूची में सबसे प्रतिष्ठित रेस्तरां में शामिल किया जा सकता है, 20 से अधिक बहु-व्यंजन रेस्तरां, कई त्वरित-सेवा काउंटर, एक उद्यान भोजन क्षेत्र जो परोसता है फ़ास्ट फ़ूड, पॉपकॉर्न, और स्नैक्स, साथ ही कैफ़े के साथ एक खुली हवा में टैरेस गार्डन। नौ स्क्रीन वाला पीवीआर मल्टीप्लेक्स वह जगह है जहां आप नवीनतम रिलीज पर पकड़ बना सकते हैं। मॉल परिसर में एक सामुदायिक केंद्र, एक 5 सितारा होटल और लक्ज़री सर्विस्ड अपार्टमेंट और एक विशाल अत्याधुनिक व्यापार केंद्र जैसी सुविधाएं भी शामिल हैं। कोई आश्चर्य नहीं, फीनिक्स मॉल, पुणे सभी मौसमों के दौरान पसंदीदा भीड़ है।
+
+स्थान: विमान नगर रोड, पुणे
+समय: हर दिन सुबह 11.00 बजे से रात 11.00 बजे तक (रेस्तरां 12.00 बजे तक खुले रहते हैं)
+निकटतम बस स्टॉप: इनऑर्बिट मॉल बस स्टॉप "/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="3. सीजन्स मॉल, पुणे"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/seasons"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="एक फूड कोर्ट जो 25,000 वर्ग फुट में फैला है, एक 15-स्क्रीन मल्टीप्लेक्स, एक सनसनीखेज हाइपरमार्केट, और सौ से अधिक ब्रांडों के कई स्टोर हैं - ठीक है, पुणे में सीजन्स मॉल में आपको अपनी खरीदारी की भावना जगाने के लिए सब कुछ है। सस्ती विलासिता इस मॉल का मुख्य विषय है जो इसके ग्राहक-केंद्रित मूल्यों को दर्शाता है। मॉल अपने गेमिंग ज़ोन, किड्स प्ले ज़ोन, गो-कार्टिंग ट्रैक और स्नो वर्ल्ड के साथ मनोरंजन और अवकाश में सर्वश्रेष्ठ को समायोजित करता है, जबकि फाइन-डाइनिंग यहाँ के रेस्तरां शहर में सबसे अच्छे हैं। मॉल में एक भव्य प्रवेश द्वार है जहाँ मौसमी विषयों के अनुसार विभिन्न स्वागत सेटिंग्स और मॉडल प्रदर्शित किए जाते हैं। हर मंजिल पर लिफ्ट और एस्केलेटर हैं और आपकी कारों और दोपहिया वाहनों के लिए एक बड़ा पार्किंग क्षेत्र है। मॉल हर बार जब आप वहां जाते हैं तो गिरोह के साथ एक शानदार समय और उस विशेष अवसर के लिए एक शानदार खरीदारी अनुभव का वादा करता है।
+
+स्थान: मगरपट्टा सिटी, पुणे
+समय: सुबह 10.30 बजे से रात 11.00 बजे तक; हर दिन
+निकटतम बस स्टॉप: मगरपट्टा"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="4. पुणे सेंट्रल मॉल, पुणे"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/central"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सेंट्रल मॉल, पुणे मौसमी दुकानदारों के लिए है, जो किफ़ायती लक्ज़री ब्रांडों के लिए द्वि-दुकान करते हैं। इसमें कपड़े, परिधान, सहायक उपकरण, जूते, घरेलू सजावट और जीवन शैली उत्पादों के लिए एक बड़ा डिपार्टमेंटल स्टोर है। सीएमपी में से चुनने के लिए 300 से अधिक ब्रांड हैं। , दुकानदार विभिन्न प्रकार के उदार सामानों पर बंधुआ होने के लिए बाध्य हैं जो पूर्ण ट्रेंडसेटर हैं। प्रत्येक लेबल के तहत नवीनतम संग्रह शहर के फैशन-फ़ॉरवर्ड लोगों के लिए यहां प्रदर्शित किया गया है। मॉल में एक लंबे दिन के बाद रिचार्ज करने के लिए एक बड़ा फूड कोर्ट है कई फास्ट-सर्विस काउंटर और कैजुअल डाइनिंग आउटलेट के साथ खरीदारी की होड़। आपको अपने वाहनों को खड़ा करने के बारे में चिंता करने की ज़रूरत नहीं है क्योंकि मॉल में एक उदार पार्किंग स्थान है। इस सप्ताह के अंत में पुणे सेंट्रल में निर्बाध खरीदारी की दुनिया में उद्यम करें और कुछ अद्भुत ग्रब पर जाएं बाद में, क्या कहें?
+
+स्थान: खिलारेवाड़ी, पुणे
+समय: सुबह 11.00 बजे से रात 10.30 बजे तक; हर दिन
+निकटतम बस स्टॉप: गरवारे कॉलेज"/>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

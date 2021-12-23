@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jadhavgad_marathi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="जाधवगड"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/jadhavgad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+महाराष्ट्रातील एकमेव फोर्ट हेरिटेज हॉटेल, फोर्ट जाधवगड हॉटेल आणि रिसॉर्ट आहे
+अतुलनीय लक्झरी अनुभवण्यासाठी भेट दिलीच पाहिजे.
+
+25 एकरमध्ये पसरलेल्या, हेरिटेज हॉटेलमधील वैशिष्ट्यांमध्ये हे समाविष्ट आहे:
+
+आरामदायी आणि भव्य निवास (तंबूच्या निवासस्थानांसह)
+तापमान नियंत्रित जलतरण तलाव
+एक सुंदर सुशोभित आणि सुसज्ज जेवणाचे क्षेत्र
+इन हाऊस स्पा
+घरातील एक संग्रहालय
+किल्ले जाधवगड येथील इतर क्रियाकलापांमध्ये गझल नाइट्स आणि आकर्षक दान पट्टा शो यांचा समावेश आहे
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/jadhavgad1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="कृपया अधिकाऱ्यांना फोन करून किल्ल्याला भेट देण्यापूर्वी कळवा.
+तुम्‍हाला रिसॉर्टमध्‍ये राहायचे असल्‍यास, आगाऊ खोली/तंबू बुक करण्‍याची शिफारस केली जाते.
+\nआईटीआई बस
+\nधुमे वाडी बस
+
+
+\nकिल्ले जाधवगढ पत्ता: हडपसर सासवड रोड, जाधववाडी, पुणे, महाराष्ट्र ४१२३०१, भारत
+\nकिल्ले जाधवगड संपर्क क्रमांक: +91-2115305200
+\nकिल्ले जाधवगड वेळ: सकाळी 09:00 ते संध्याकाळी 06:00
+\nकिल्ले जाधवगड पाहण्यासाठी सर्वोत्तम वेळ (प्राधान्य वेळ): सकाळी 08:00 ते दुपारी 12:00
+\nकिल्ले जाधवगड पाहण्यासाठी लागणारा वेळ: 07:00 वा
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

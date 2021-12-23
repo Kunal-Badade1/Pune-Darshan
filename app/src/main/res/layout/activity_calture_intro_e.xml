@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".caltureIntroE">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Introduction"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shanivar"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text=" Pune exemplifies an indigenous Marathi culture and ethos,
+             in which education, arts and crafts,
+             and theatres are given due prominence.
+             It is the birthplace of the poet-saint Tukaram (in Dehu) and Jnaneshvara
+              (in Alandi), the author of the well-known commentary ‘Jnaneshwari’,on
+               the “Bhagavad Gita”. It is the home of great freedom
+                fighters like Bal Gangadhar Tilak, Agarkar and Gopal Krishna
+                Gokhale. Jayant Narlikar, the famous contemporary scientist,
+                is from Pune. Pune is the seat of North Indian Classical music.
+                 Annually, in the month of December, it hosts a three nightlong
+                  cultural program of vocal and instrumental classical music, called “Savai-Gandharva”.
+                  Pune has been an example for the blending of the culture and heritage
+                  with modernisation and its side effects.
+             Pune is the cultural capital of the Maharashtra.."/>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

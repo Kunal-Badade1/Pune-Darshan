@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.PlaceholderFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Parvati"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/parvati1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+पुणे शहरातील सर्वात प्रसिद्ध ‘टेकडी’ आणि टेकड्यांपैकी,
+ महाराष्ट्र, पार्वती टेकडी अभ्यागतांना भव्य आणि आकर्षक देते
+आसपासच्या दरीची दृश्ये. जवळजवळ परत डेटिंगचा इतिहास सह
+250 वर्षे, पार्वती टेकडी मंदिरे आणि संग्रहालयांसाठी प्रसिद्ध आहे
+पुण्यातील सर्वात जुन्या वास्तूंपैकी एक आहे.
+ "/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+17 व्या शतकाच्या सुरुवातीला बांधलेले, पार्वती हिल टेंपल कॉम्प्लेक्स हे करू शकते
+पार्वती टेकडीवर आढळतात. मंदिर टेकडीच्या माथ्यावर स्थित आहे आणि
+भगवान गणेश, देवी पार्वती, भगवान विष्णू, भगवान कार्तिकेय यांच्या मूर्ती बसवतात
+तसेच देवतेश्वर. हे एकमेव प्रार्थनास्थळ म्हणूनही चालत असल्याचे सांगितले जाते
+ पूर्वीच्या काळातील पेशवे राज्यकर्ते.
+
+समुद्रसपाटीपासून जवळजवळ 640 मीटर उंचीवर वसलेले आहे
+संपूर्ण पुणे शहरातील सर्वात सुंदर ठिकाणांपैकी एक आणि
+संपूर्ण शहराचे उत्कृष्ट दृश्य देते. च्या वर पोहोचू शकतो
+टेकडी फक्त 103 पायऱ्या चढून ज्या विशिष्ट दगडांनी चिन्हांकित आहेत
+मराठा शैलीतील वास्तुशिल्प.
+"
+
+            ></TextView>
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/parvati2"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+
+
+शिवाय, टेकडीवर पार्वती संग्रहालय देखील आहे, ज्यात पुरातन हस्तलिखिते आहेत.
+ दुर्मिळ शस्त्रे आणि एक प्रकारची नाणी. संग्रहालयाजवळ सती स्मारक आणि वेताळ चबुतरा आहेत.
+याव्यतिरिक्त, संग्रहालय संकुलात श्रीमंत नानासाहेब पेशवे यांचे समाधीस्थान देखील आहे.
+
+पार्वती हिल टेंपल कॉम्प्लेक्स हे शहरातील सर्वात जुन्या वारसा वास्तूंपैकी एक आहे, अजूनही सेवा देत आहे
+प्रदेशातील पेशव्यांच्या राजवटीची सौम्य पण भव्य आठवण म्हणून. अनेक जुन्या आख्यायिका सुचवतात
+पेशवे शासक बाळाजी बाजीराव हे किरकीचे युद्ध आणि त्यानंतरचा पराभव पाहत असत.
+या टेकडीवरून इंग्रजांचे.
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

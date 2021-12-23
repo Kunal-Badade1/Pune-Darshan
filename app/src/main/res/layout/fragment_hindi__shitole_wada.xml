@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_ShitoleWada">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="शितोळे वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shitole_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="इस ऐतिहासिक इमारत के असली मालिक राजा राजेंद्र शितोल राजा हैं,
+सिसोदिया वंश के वंशज। ये कुल उत्तर से आए और बन गए
+स्थानीय लगभग बारह सौ साल पहले, और कई शताब्दियों तक वे निर्बाध थे
+राष्ट्रीय अधिकार। वह पाषाण, लावले,
+पुणे क्षेत्र में हडपसर, वानवाड़ी, मंजरी, मोशी। आज भी 21वीं सदी में,
+ भूमि के मालिक के रूप में शितोले देशमुख के अभिलेख उन गांवों से लिए गए हैं।
+
+पुणे में शनिवारवाड़ा बनाने के लिए इस्तेमाल की जाने वाली जमीन सरदारों की कृषि भूमि थी
+शितोले देशमुख। शितोले सरकार ने पेशवाओं को जमीन दी थी
+शनिवारवाड़ा के निर्माण के लिए, जिसके बदले में उन्हें बनेर और जवालार्जुन में जमानत दी गई थी।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shitole_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+बाद में सरदार शितोले की जहाँगीरी का विस्तार होशंगाबाद, शाहजाबाद, खंडवा तक हुआ।
+मध्य प्रदेश के सोनपत, पानीपत, नरवर, उज्जैन, ग्वालियर आदि जिले और
+महाराष्ट्र के सतारा, पुणे, अहमदनगर, नासिक जिलों के साथ खानदेश तक।
+
+इस परिवार के एक व्यक्ति को इस वास्तु में नरसिंह के दर्शन हुए थे।
+इसलिए भगवान नरसिंह इस परिवार के देवता हैं
+गणपती मंदिर, ७३/अ, रामगणेश गडकरी पथ, श्री कसबा जवळ, यशोदत्त हाउसिंग सोसायटी, कसबा पेठ, पुणे, महाराष्ट्र ४१११०११
+
+
+
+
+"
+
+            ></TextView>
+
+
+
+    </LinearLayout>
+
+</ScrollView>

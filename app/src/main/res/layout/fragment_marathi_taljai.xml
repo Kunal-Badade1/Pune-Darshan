@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathi_taljai">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Taljai Tekdi"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="महाराष्ट्राला अनेक नयनरम्य प्रवासाचे वरदान लाभले आहे
+निसर्ग प्रेमींना चुंबकीय खेचणारी गंतव्यस्थाने आणि
+साहसी प्रेमी. मग ते हिरवळीचे डोंगर असोत किंवा
+घनदाट जंगले, पावसाळा या ठिकाणांना एक गूढ आकर्षण वाढवतो
+जेव्हा ते टवटवीत आणि हिरवे दिसतात.
+
+ "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+तळजाई हिल्स हे शहरातील एक लोकप्रिय वीकेंड गेटवे आहे
+पुण्याचे, जे पर्यटकांचे भरपूर आवडते आहे
+नैसर्गिक सौंदर्य आणि विदेशी प्राणी. पश्चिम घाटात टकले
+वर्षभर आनंददायी हवामान असलेले, ठिकाण
+पर्यावरणवादी आणि शटरबगसाठी अनेक आकर्षणे आहेत.
+ मोकळे वनक्षेत्र सकाळ आणि संध्याकाळ फिरण्यासाठी आरामदायी आश्रयस्थान प्रदान करते.
+
+
+
+तळजाई डोंगर हे प्रसिद्ध मंदिरासाठी पुणेकरांमध्ये लोकप्रिय आहे
+ तळजाई माता देवी डोंगरावर आहे. मंदिराचा रस्ता
+तुमच्याकडे असलेल्या वनक्षेत्राच्या बाजूने झिगझॅग बिटुमिनस पायवाट आहे
+ टेकडीच्या शिखरापर्यंत कोणतीही वाहने पोहोचत नाहीत म्हणून चढण्यासाठी. पासून
+ जंगल दाट नाही, तुम्हाला एक्सप्लोर करण्याची चांगली संधी आहे
+तुम्ही मंदिरापर्यंत जाताना ठिकाण.
+
+"
+
+            ></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+
+तळजाई डोंगर हे प्रसिद्ध मंदिरासाठी पुणेकरांमध्ये लोकप्रिय आहे
+ तळजाई माता देवी डोंगरावर आहे. मंदिराचा रस्ता
+तुमच्याकडे असलेल्या वनक्षेत्राच्या बाजूने झिगझॅग बिटुमिनस पायवाट आहे
+ टेकडीच्या शिखरापर्यंत कोणतीही वाहने पोहोचत नाहीत म्हणून चढण्यासाठी. पासून
+ जंगल दाट नाही, तुम्हाला एक्सप्लोर करण्याची चांगली संधी आहे
+तुम्ही मंदिरापर्यंत जाताना ठिकाण."
+            ></TextView>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/taljai2"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+
+
+तुमच्या प्रवासादरम्यान तुम्ही स्थलांतरित पक्ष्यांची संख्या पाहू शकता,
+ फुलपाखरे, मोर आणि ससे यांच्या दुर्मिळ प्रजाती
+निवासस्थान मंदिराचा परिसर पक्क्या बसण्याच्या जागेसह व्यवस्थित आहे
+जेथे प्रवासी बसून थोडा वेळ आराम करू शकतात. तळजाईच्या वाटेवर
+माता मंदिर तुम्ही एका तलावासमोर याल जिथे तुम्हाला बदके दिसतात
+ खेळकर मूड मध्ये पोहणे.
+
+
+
+आनंद देणारे हे दुर्मिळ दृश्य आहे! तळजाई हिल्स एक परिपूर्ण आहे
+मैदानी पिकनिक आणि सहलीसाठी ठिकाण जेथे तुम्ही असू शकता
+निसर्गाच्या सान्निध्यात राहा आणि काही काळ तुमचे बेड्या सोडा.
+मंदिराच्या शिखरावरून, तुम्ही 360 डिग्री पॅनोरामिकचा आनंद घेऊ शकता
+हिरवागार पश्चिम घाटाच्या पार्श्वभूमीवर पुणे शहराचे दृश्य.
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

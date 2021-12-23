@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.punedarshan">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PuneDarshan">
+        <activity
+            android:name=".osho_English"
+            android:exported="false" />
+        <activity
+            android:name=".cultureintroH"
+            android:exported="true" />
+        <activity
+            android:name=".culturePeopelH"
+            android:exported="true" />
+        <activity
+            android:name=".culturesFairsFestivalE"
+            android:exported="true" />
+        <activity
+            android:name=".cultureLanguageReligionH"
+            android:exported="true" />
+        <activity
+            android:name=".cultureFoodH"
+            android:exported="true" />
+        <activity
+            android:name=".culturePeopleE"
+            android:exported="true" />
+        <activity
+            android:name=".cultureLanguageReligionE"
+            android:exported="true" />
+        <activity
+            android:name=".cultureFoodE"
+            android:exported="true" />
+        <activity
+            android:name=".caltureIntroE"
+            android:exported="true" />
+        <activity
+            android:name=".cultureML"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="false"
+            android:label="SplashScreen"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_ShoppingCenter"
+            android:exported="false"
+            android:label="Marathi_ShoppingCenter"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_Gardens"
+            android:exported="false"
+            android:label="Marathi_Gardens"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_OshoAshram"
+            android:exported="false"
+            android:label="Marathi_OshoAshram"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_CafeToons"
+            android:exported="false"
+            android:label="Marathi_CafeToons"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_AambyValleyGolfCourse"
+            android:exported="false"
+            android:label="Marathi_AambyValleyGolfCourse"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_Miami"
+            android:exported="false"
+            android:label="Marathi_Miami"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_Foods"
+            android:exported="false"
+            android:label="Marathi_Foods"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_Lifestyle"
+            android:exported="false"
+            android:label="Marathi_Lifestyle"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_ShoppingCenter"
+            android:exported="false"
+            android:label="Hindi_ShoppingCenter"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_Gardens"
+            android:exported="false"
+            android:label="Hindi_Gardens"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_OshoAshram"
+            android:exported="false"
+            android:label="Hindi_OshoAshram"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_AambyValleyGolfCourse"
+            android:exported="false"
+            android:label="Hindi_AambyValleyGolfCourse"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_CafeToons"
+            android:exported="false"
+            android:label="Hindi_CafeToons"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_Miami"
+            android:exported="false"
+            android:label="Hindi_Miami"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_Foods"
+            android:exported="false"
+            android:label="Hindi_Foods"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".HindiLifestyle"
+            android:exported="false"
+            android:label="HindiLifestyle"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".ShoppingCenter"
+            android:exported="false"
+            android:label="ShoppingCenter"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Gardens"
+            android:exported="false"
+            android:label="Gardens"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".OshoAshram"
+            android:exported="false"
+            android:label="OshoAshram"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".CafeToons"
+            android:exported="false"
+            android:label="CafeToons"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".AambyValleyGolfCourse"
+            android:exported="false"
+            android:label="AambyValleyGolfCourse"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Miami"
+            android:exported="false"
+            android:label="Miami"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Foods"
+            android:exported="false"
+            android:label="Foods"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_HistoricalPlaces"
+            android:exported="false"
+            android:label="@string/title_activity_hindi_historical_places"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".marathi_historical_places"
+            android:exported="false"
+            android:label="@string/title_activity_marathi_historical_places"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Historical_Places"
+            android:exported="false"
+            android:label="@string/title_activity_historical_places"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_hills"
+            android:exported="false"
+            android:label="@string/title_activity_hindi_hills"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_hills"
+            android:exported="false"
+            android:label="@string/title_activity_marathi_hills"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".English_hills"
+            android:exported="false"
+            android:label="@string/title_activity_english_hills"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Hindi_Forts"
+            android:exported="false"
+            android:label="@string/title_activity_hindi_forts"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".Marathi_Forts"
+            android:exported="false"
+            android:label="@string/title_activity_marathi_forts"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".English_Forts"
+            android:exported="false"
+            android:label="@string/title_activity_english_forts"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".marathitemples"
+            android:exported="true"
+            android:label="@string/title_activity_marathitemples"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".marathimuseum"
+            android:exported="true"
+            android:label="@string/title_activity_marathimuseum"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".marathipetha"
+            android:exported="true"
+            android:label="@string/title_activity_marathipetha"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".hinditemples"
+            android:exported="true"
+            android:label="@string/title_activity_hinditemples"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".hindimuseum"
+            android:exported="true"
+            android:label="@string/title_activity_hindimuseum"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".hindipeth"
+            android:exported="true"
+            android:label="@string/title_activity_hindipeth"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".marathihistory"
+            android:exported="true" />
+        <activity
+            android:name=".hindihistory"
+            android:exported="true" />
+        <activity
+            android:name=".engTemples"
+            android:exported="true"
+            android:label="@string/title_activity_eng_temples"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".engmuseum"
+            android:exported="true"
+            android:label="@string/title_activity_engmuseum"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".pethh"
+            android:exported="true"
+            android:label="@string/title_activity_pethh"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar" />
+        <activity
+            android:name=".lifestyle"
+            android:exported="true"
+            android:label="Lifestyle" />
+        <activity
+            android:name=".history"
+            android:exported="true"
+            android:label="History" />
+        <activity
+            android:name=".culture"
+            android:exported="true"
+            android:label="Culture" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.PuneDarshan.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

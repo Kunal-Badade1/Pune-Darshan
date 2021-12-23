@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathipethorg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पेठेचे नांव पेठ कोणी वसविली कोणत्या वर्षी वसविली नांवामागचे कारण"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pe1"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="कसबा पेठ :  राष्ट्रकूट राजे ५ व्या शतकात\n
+गुरुवार पेठ : शहाजी राजे  १६२५ \n
+सोमवार पेठ :  दादोजी कोंडदेव १६३६\n
+मंगळवार पेठ :  दादोजी कोंडदेव १६३७\n
+शुक्रवार पेठ : निळोपंत मुजूमदार  १६७०\n
+रविवार पेठ  : निळोपंत मुजूमदार  १६७०\n
+शनिवार पेठ  : मोरोपंत पिंगळे १६७५\n
+भवानी पेठ : संभाजीमहाराज  १६८२\n
+भवानी मातेच्या मंदिरावरून नांव पडले
+घोरपडे पेठ :  सेनापती संताजी घोरपडे १६९२ त्यांचे स्मरणार्थ \n
+बुधवार पेठ : औरंगजेब १७०३\n
+गणेश पेठ : सखारामबापू बोकिल १७४८ नंतर  गणेशाचे नांव\n
+सदाशिव पेठ : सदाशिवराव पेशवे १७५७  त्यांचे स्मरणार्थ\n
+नारायण पेठ : नारायनराव पेशवे १७७० त्यांचे स्मरणार्थ\n
+रास्ता पेठ : सरदार रास्ते १७८० त्यांचे स्मरणार्थ\n
+नाना पेठ : नाना फडणवीस १७८३ त्यांचे स्मरणार्थ\n
+गंज पेठ (हिचेच आत्ताचे नांव महात्मा फुले पेठ असे आहे) :
+ब्रिटिश सरकारने १८१८ नंतर महात्मा फुलेंच्या स्मरणार्थ\n
+नवी पेठ : ब्रिटिश सरकारने १८१८ नंतर  नव्याने वसवलेली असल्याने\n "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pe"/>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

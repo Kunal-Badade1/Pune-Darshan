@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_Foods">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="भोजन"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="1) अगर आप कुछ मुंह में पानी लाने वाली मिसल किस्म चाहते हैं तो काटा किर पुणे में खाने के लिए सबसे अच्छी जगह है। आप पकवान के हल्के, मध्यम और मसालेदार संस्करणों के बीच चयन कर सकते हैं, जिसका अर्थ है कि यहाँ हर तालू के लिए एक मिसल पाव है! यह भीड़ का पसंदीदा है।
+
+कहा पे: काटा किर, कई आउटलेट
+
+कब: सुबह 08:00 बजे से शाम 05:00 बजे तक (मंगल-सूर्य)
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/misal"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="2) वड़ा-पाव, गार्डन वड़ा पाव केंद्र
+सबसे पुराने और सबसे पुणे के प्रसिद्ध भोजनालयों में से एक, गार्डन वड़ा पाव केंद्र पुणे में सबसे प्रसिद्ध वड़ा पाव (यकीनन) परोसने के लिए प्रसिद्ध है। स्वाद और बनावट नायाब हैं, और भाग बहुत बड़े हैं, जो हमेशा एक अच्छी बात है। इसके अलावा, अपने स्वादिष्ट वड़ा-पाव के साथ कुछ चुर्रा मांगना न भूलें।
+
+कहां: गार्डन वड़ा पाव (सभी आउटलेट)
+
+कब: सुबह 09:00 बजे से रात 10:00 बजे तक"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vadapav"/>
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+</ScrollView>

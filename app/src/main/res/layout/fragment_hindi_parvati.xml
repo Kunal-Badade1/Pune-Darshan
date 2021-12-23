@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindi_parvati">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पर्वती मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="550sp"
+            android:src="@drawable/pv1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पार्वती महाराष्ट्र में पुणे के दक्षिण-पूर्व में एक पहाड़ी है। टेकदिस पार्वती नाम देवी पार्वताई के नाम से लिया गया है यह पुणे के कई हिस्सों से दिखाई देता है।
+इसका सिर समुद्र तल से लगभग 640 मीटर (2100 फीट) ऊपर है। आप करीब 103 सीढ़ियां चढ़कर यहां पहुंच सकते हैं"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pv2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="ये सीढ़ियां शानदार हैं
+यह नौबतखाना के पास समाप्त होता है इसके सिर पर देवदेवेश्वर मंदिर और कुछ अन्य देवताओं के मंदिर हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pv3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मराठा साम्राज्य के प्रधान मंत्री नानासाहेब पेशवा ने तवारे पाटिल से जमीन ली और वदेवेश्वर मंदिर का निर्माण किया।
+23 अप्रैल 2006 मंदिर 1749 में बनाया गया था। पहाड़ी पर नानासाहेब पेशवा के स्मारक, पेशवा संग्रहालय, पैर में प्राचीन गुफाएं हैं।
+
+देवदेवेश्वर के मुख्य मंदिर के अलावा पहाड़ी पर कार्तिकेय, विष्णु, विट्ठल-रुक्मिणी आदि देवताओं के मंदिर हैं। इनमें से कार्तिकस्वामी मंदिर, श्री विष्णु मंदिर, गृह विद्यालय आदि भवन देवदेवेश्वर मंदिर के बाद बनाए गए थे। पानीपत की तीसरी लड़ाई में मराठों की भारी हार के कारण थक चुके नानासाहेब पेशवा की मृत्यु जून में हुई थी। मुख्य मंदिर आधुनिक हिंदू शैली में बनाया गया है। इसका शीर्ष ऊंचा और नुकीला है और सोने से मढ़ा हुआ है। मंदिर क्षेत्र में चौकोर बैठने की जगह के चारों कोनों में चार छोटे मंदिर हैं, जो सूर्य देव (दक्षिण-पूर्व), गणेश (दक्षिण-पश्चिम), अंबाबाई (उत्तर-पश्चिम) और विष्णु (उत्तर-पूर्व) को समर्पित हैं। 1766 में, माधवराव पेशवा ने इस शिव पंचायत को विकसित किया जिसमें चार छोटे मंदिर और एक मुख्य मंदिर शामिल हैं। मंदिर में भगवान शंकर, पार्वती और गणेश की धातु की मूर्तियां हैं। तीन मूर्तियाँ मूल रूप से 1749 में सोने से बनी थीं; इसे 1932 में चुरा लिया गया था और इसकी जगह इसकी खुद की एक और धातु की मूर्ति लगा दी गई थी। मुख्य मंदिर के पश्चिम में भगवान कार्तिक स्वामी का मंदिर है। महिलाओं का वहां प्रवेश वर्जित है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pv4"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pv5"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

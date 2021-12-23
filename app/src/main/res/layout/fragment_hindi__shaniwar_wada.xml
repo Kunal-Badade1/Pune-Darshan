@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_ShaniwarWada">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="शनिवार वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shaniwar_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+शनिवार वाड़ा पुणे में ऐतिहासिक स्मारकों और प्रसिद्ध स्थलों में से एक है।
+पेशवा काल में भारतीय राजनीति का आसन, यह मराठा वैभव का प्रतीक बन गया है।
+यह बगीचों और फव्वारों के साथ एक विशाल, आकर्षक महल है।
+
+यह मूल रूप से मराठा साम्राज्य के महान सेनापतियों पेशवाओं के निवास के रूप में बनाया गया था।
+इसकी नींव 1730 ई. में बाजीराव प्रथम ने रखी थी।
+इस जगह को निर्माण के लिए कैसे चुना गया, इस बारे में एक दिलचस्प किस्सा है।
+कहानी कहती है कि बाजीराव ने यहां एक खरगोश को कुत्ते का पीछा करते देखा था
+और फैसला किया कि एक ऐसा महल बनाना सबसे अच्छा है जिसे कभी हार का सामना न करना पड़े।
+ उनका मानना ​​​​था कि 1818 तक लगभग सच हो गया, जब पेशवाओं ने अंग्रेजों के सामने आत्मसमर्पण कर दिया।
+
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/shaniwar_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+इमारत 1828 में एक अस्पष्टीकृत आग में लगभग नष्ट हो गई थी। इसमें पाँच द्वार हैं
+और नौ बुर्ज जो इस राजसी इमारत को घेरे हुए हैं। अब आप टीक ट्रेसरी को देख सकते हैं
+स्तंभ, पॉलिश संगमरमर, सजावटी उत्कृष्ट नक्काशीदार मेहराब और प्रभावशाली फव्वारे।
+शनिवार वाड़ा की अपनी यात्रा पर, आप इसके सुनहरे वर्षों के निशान देख सकते हैं।
+
+अपराजित मराठा सेनापति बाजीराव प्रथम की एक मूर्ति इस क्षेत्र की सुंदरता में चार चांद लगा देती है।
+यह वास्तुशिल्प चमत्कार पुणे के दर्शनीय स्थलों में से एक है।
+
+आप यहां निर्देशित पर्यटन का विकल्प चुन सकते हैं, साथ ही बहुत ही न्यूनतर
+जगह के पीछे के इतिहास को समझने के लिए प्रवेश शुल्क।
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

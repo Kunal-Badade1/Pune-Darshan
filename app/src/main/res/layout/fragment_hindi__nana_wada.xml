@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_NanaWada">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="नाना वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/nana_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="1780 में पेशवाओं के मुख्य प्रशासनिक अधिकारी नाना फडणवीस द्वारा निर्मित, नाना
+वाडा शहर के सबसे पुराने विरासत स्थलों में से एक है जो पेशवा युग की झलक है।
+नाना वाड़ा वसंत थिएटर के बगल में शनिवार वाड़ा के करीब स्थित है।
+
+नाना फडणवीस ने उत्तराधिकार में चार शासकों के अधीन लंबे समय तक मराठा वंश की सेवा की।
+माधवराव पेशवा की मृत्यु के बाद, मराठा साम्राज्य ने अपनी महिमा बरकरार रखी और शक्ति में वृद्धि हुई
+ नाना फडणवीस के नेतृत्व में। कोई भी मूल वास्तुशिल्प विशेषताओं को अभी भी देख सकता है
+नाना वाडा में बरकरार
+
+पुणे की डेक्कन एजुकेशन सोसाइटी ने 1907 में इस वाड़ा में न्यू इंग्लिश स्कूल का संचालन शुरू किया।
+उनके विस्तार के हिस्से के रूप में, स्कूल के लिए एक भवन भी बनाया गया था। औपनिवेशिक प्रभाव
+इमारत की वास्तुकला पर स्पष्ट रूप से दिखाई देता है और वाडा को नेत्रहीन रूप से दिलचस्प बनाता है।
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/nana_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+नाना वाड़ा बड़े पैमाने पर लकड़ी से बना है, और अन्य सजावट के बीच मेहराब है। बालकनियाँ
+लकड़ी की रेलिंग है, लकड़ी की छत पर एक नक्काशीदार पैटर्न है, और स्तंभ
+सामने के कमरे में सरू के पेड़ के आकार के हैं। फीकी दीवार पेंटिंग अब शायद ही दिखाई दे।
+
+वाड़ा की बालकनी में गुंबद के आकार की छत है। लकड़ी की वास्तुकला शाही को उजागर करती है
+वाडा की स्थिति पहली मंजिल में अभी भी 'दीवान-खाना' (अदालत गृह) और एक बरामदा है
+दीवारों पर पेंटिंग। बारीक नक्काशीदार लकड़ी की छत, मेहराब, सरू के आकार के स्तंभ और रूपांकन
+केले के फूल ने एक आगंतुक को चकित कर दिया। वाडा में भागने के साथ एक आपातकालीन निकास प्रावधान भी है
+ दीवार में सीढ़ी जो एक को वाड़ा से बाहर ले जाती है।
+
+पेशवा के प्रशासनिक अधिकारी होने के नाते नाना ने प्राचीन 'मोदी' लिपि का प्रयोग किया, जो प्रतिलेखित है
+ और उनके खातों और प्रशासनिक पत्रों के रिकॉर्ड बनाए रखा।
+
+वाडा में वर्तमान में एक नगरपालिका स्कूल और पुराने रिकॉर्ड का एक नगरपालिका कार्यालय है।
+वाडे के वैभव को वापस लाने के लिए कुछ हिस्सों का जीर्णोद्धार किया गया है। नाना भी
+वाई के पास मेनावली में एक और वाड़ा बनवाया, जो एक आदर्श उदाहरण माना जाता है
+
+715, पीएमसी विद्यालय रोड, बुधवार पेठ, पुणे, महाराष्ट्र 411002
+
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindifule">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@color/Yellow"
+           android:textStyle="bold"
+           android:textColor="@color/Saffaron"
+           android:layout_marginTop="20sp"
+           android:textSize="24sp"
+           android:text="महात्मा फुले संग्रहालय"/>
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="350sp"
+           android:src="@drawable/ph1"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@color/Yellow"
+           android:textStyle="bold"
+           android:textColor="@color/Saffaron"
+           android:layout_marginTop="20sp"
+           android:textSize="18sp"
+           android:text="महात्मा फुले वास्तु संग्रहालय को पहली बार 1890 में पूना औद्योगिक संग्रहालय के रूप में स्थापित किया गया था। बाद में, 1968 में महात्मा फुले संग्रहालय कहे जाने से पहले इसका नाम बदलकर लॉर्ड रे संग्रहालय कर दिया गया। हालांकि महात्मा ज्योतिबा फुले एक महान भारतीय समाज सुधारक थे, जिन्होंने जाति-विरोधी आंदोलन और महिला मुक्ति के लिए बड़े पैमाने पर काम किया, लेकिन संग्रहालय के पास करने के लिए कुछ भी नहीं है। उनके साथ। यह विभिन्न वन्यजीव प्रजातियों के मॉडल, चार्ट, चित्र, मशीन और टैक्सिडेरमी प्रदर्शित करता है। यह मोटे तौर पर भारतीय इतिहास में वानिकी, कृषि, प्राकृतिक इतिहास, शस्त्रागार, हस्तशिल्प, भूविज्ञान, इंजीनियरिंग, उद्योग और वास्तुकला के विषयों को शामिल करता है।"/>
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="350sp"
+           android:src="@drawable/ph2"/>
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@color/Yellow"
+           android:textStyle="bold"
+           android:textColor="@color/Saffaron"
+           android:layout_marginTop="20sp"
+           android:textSize="18sp"
+           android:text="जबकि शस्त्रागार मुगल और मराठा काल से संबंधित है, टैक्सिडर्मि खंड भारतीय प्रजातियों के जानवरों, सरीसृपों और पक्षियों में विकास के विशाल विस्तार को शामिल करता है। ताजमहल जैसे स्थापत्य चमत्कारों के मॉडल के अलावा कई जलविद्युत और सिंचाई परियोजनाओं को भी प्रदर्शित किया गया है।
+
+संग्रहालय में एक पुस्तकालय है, हालांकि यह जनता के लिए सुलभ नहीं है। संग्रहालय के बहुत सारे परिवर्तन, ऐतिहासिक रूप से, श्री बीवी घरपुरे को जिम्मेदार ठहराया गया है, जो 1930 से 1954 तक इसके निदेशक थे। संग्रहालय के रखरखाव की जिम्मेदारी पुणे नगर निगम को दी गई है और प्रवेश शुल्क द्वारा वित्त पोषित है जो आगंतुक भुगतान करते हैं। "/>
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="350sp"
+           android:src="@drawable/ph3"/>
+
+
+
+
+
+
+   </LinearLayout>
+
+</ScrollView>

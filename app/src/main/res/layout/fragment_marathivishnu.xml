@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathivishnu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="शेषशायी विष्णू मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यामधील नारायण पेठेमध्ये असलेले अपरिचित 'शेषशायी विष्णू मंदिर'
+
+पुणे हे जसे विद्येचे माहेरघर समजले जाते तसेच पुणे हे विविध मंदिरांसाठी देखील प्रसिद्ध आहे म्हणूनच पुणे शहराची ओळख हि 'मंदिरांचे शहर' म्हणून
+देखील सगळीकडे आहे. अश्याच या पुणे शहरातील मंदिरांची नावे देखील आपल्याला गमतीशीर आढळून येतात परंतु या मंदिराच्या शहरामध्ये
+नारायणपेठेमध्ये एक छानसे आणि वैशिष्ट्यपूर्ण 'शेषशायी विष्णूचे' फारसे परिचित नसलेले सुंदर मंदिर पुण्याच्या मध्यवस्तीमध्ये आपल्याला पहायला
+मिळते.
+पुण्यामधील हे अपरिचित 'शेषशायी विष्णूचे' मंदिर पाहायचे असल्यास आपण 'अप्पा बळवंत' चौ कातून केळकर रस्त्यावर लागावे तेथून रमणबाग
+चौकाकडे जाताना आपल्या डाव्या बाजुस एच.डी.एफ.सी. बँकेची नारायण पेठ ब्रांच लागते तेथेच अलीकडे डाव्या बाजूस आपल्याला या 'श्री शेषशायी
+मंदिर' अशी पाटी वरच्या बाजूस आपल्याला पाहायला मिळते. अजून एक मंदिराच्या जवळची खून म्हणजे श्रीकृष्ण ब्रॉस बँँड हे दुकान याच्या शेजारून
+आपल्याला या मंदिराकडे आतमध्ये जाता येते."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नारायण पेठेती ल एका जुन्या वाड्याच्या आतमध्ये असलेले हे मंदिर खरोखरच एकवेळ शंका आणते कि आपण खरच पुण्याच्या मध्यवस्तीत आहोत कि
+काय एवढी शांतता तिथे अनुभवयाला मिळते. वाड्याच्या दरवाजातून आतमध्ये गेल्यावर आपल्याला उजवीकडे एक आड देखील पाहायला मिळतो
+आजही तो आड तेथील लोक वापरतात. तेथून पुढे सरळ गेल्यावर आपल्याला झाडीमध्ये मंदिर समोरच बघायला मिळते.
+मंदिराच्या दरवाजातून आतमध्ये गेल्यावर आपल्याला एक समाधी पाहायला मिळते. ह्या समाधीचा चौथरा हा संगमरवरी असून याच्या माथ्यावर
+आपल्याला शि वलिंग पाहायला मिळते. हि समाधी केशव नारायण दामले उर्फ सच्चीदानंद स्वामी यांची आहे. इ.स. १९०६ साली केशवराव दामले यांनी
+काशी येथे जाऊन संन्यास घेतला आणि इ.स. १९१० साली त्यांनी या मंदिरामध्ये संजीवन समाधी घेतली."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="वाड्याच्या आतमध्ये असलेला 'आड'
+
+हि समाधी पाहून समोरच्या बाजूस आपल्याला एका लाकडाच्या देवघरात 'शेषशायी विष्णूची' सुंदर मूर्ती पाहायला मिळते. हि मूर्ती धातूची असून या
+'शेषशायी विष्णूचे' मुख्य वैशिष्ट्य म्हणजे हि मूर्ती 'पद्मनाभ' आहे. 'पद्मनाभ' मूर्ती म्हणजे विष्णूच्या बेंबीमधून लांब देठाचे कमळ वर आलेले आहे आणि
+त्या कमळाच्या मध्ये चार तोंडेतों डेअसलेली तसेच दोन हात असलेली अशी ब्रम्हदेवाची छोटी मूर्ती आपल्या ला पाहायला मिळते. ह्या विष्णूमूर्तीचे अजून एक
+महत्वाचे वैशिष्ट्य म्हणजे यामध्ये असलेल्या ब्रम्हदेवाची मूर्ती तसेच कमळ हे सुटे देखील करता येतात.
+मंदिरामधील 'शेषशायी विष्णूची' मूर्ती नीट पाहिली तर आपल्याला त्याच्या उजव्या खालच्या हातामध्ये गदा पाहायला मिळते. तसेच उजवा वरचा हात हा
+मानेखाली डो क्याला आधार देणारा घेतलेला पाहायला मिळतो. तसेच विष्णूने डाव्या वरच्या हातामध्ये शंख घेतलेला असून डावा खालचा हात मांडीवर
+ठेवलेला पाहायला मिळतो. तसेच विष्णूचा उजवा पाय हा लक्ष्मीच्या मांडीवर असून विष्णुपत्नी लक्ष्मी हि विष्णूचा पाय चेपताना दाखवली आहे. या
+मूर्तीमध्ये लक्ष्मीची केश रचना आणि वेशभूषा आणि अलंकार हे पेशवे काळातील वाटतात."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिराचा सभामंडप आणि समोर असलेल्या मोठ्या देवघरात विष्णूमूर्ती आह
+
+हि समाधी केशव नारायण दामले उर्फ सच्चीदानंद स्वामी यांची आह
+
+अशी हि सुंदर 'शेषशायी विष्णू' मूर्ती पहायची असेल तर नारयण पेठेमधील हे मंदिर नक्कीच पाहावे. ह्या मंदिराची व्यवस्था तेथील विश्वस्तांकडे असून या
+मंदिराची सध्याची अवस्था जास्त चांगली नाहीये. मंदिरासाठी कोणताही कर्मचारी वर्ग नाही कारण मंदिराला तेवढे उत्पन्न नाहीये. हे मंदिर बघायचे
+असल्यास आपल्याला सकाळी १० ते १०.३० या वेळेमध्ये जावे लागते पूजेसाठी हे मंदिर तेवढ्यावेळ उघडे असते त्यानंतर मात्र हे मंदिर दिवसभर बंद
+असते. 'वझे' नावाचे गृहस्थ हे येथे पूजा करतात ते असताना आपल्याला हि मूर्ती आणि मंदिर पाहायला मिळते. असे हे पुण्याच्या मध्यवस्तीमध्ये असलेले
+सुंदरमंदिर नक्कीच पाहावे या मंदिरातील धातूची 'शेषशायी विष्णू' मूर्ती आपल्याला नक्कीच मंत्रमुग्ध करते.
+
+'शेषशायी विष्णूचे' मुख्य वैशिष्ट्य म्हणजे हि मूर्ती 'पद्मनाभ' आहे."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh5"/>
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

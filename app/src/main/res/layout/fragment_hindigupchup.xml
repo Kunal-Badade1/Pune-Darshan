@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.hindigupchup">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="vertical">
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="24sp"
+          android:text="गुपचूप गणपती मंदिर"/>
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="350sp"
+          android:src="@drawable/gp1"/>
+
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="18sp"
+          android:text="पुणे शहर में घूमने के लिए कई छोटे और बड़े मंदिर हैं। आप पुणे में कुछ प्राचीन मंदिर भी देख सकते हैं, लेकिन शिव काल के दौरान और
+आप पेशवा मंदिर भी देख सकते हैं। उत्तर पेशवा के पुणे के शनिवार पेठ में हमने देखा ऐसा सुंदर मंदिर
+हो जाता है। इस मंदिर को 'वरदामूर्ति देवस्थान' कहा जाता है। इस गणपति के आसपास के लोग 'गुप्चुप गणपति' के नाम से जाने जाते हैं।
+जब आप शनिवारवाड़ा से ओंका ओ रेेश्वर जाते हैं, तो दाईं ओर आपको एक पुलिस चौकी मिलती है।
+पास में कुछ सबसे पुराने और सबसे प्रसिद्ध घाट हैं, जिनमें से एक 'नेने घाट' है।
+हमने मुड़कर देखा तो हमारे सामने 'गुपचुप गणपति मंदिर यानी श्री वरद गणपति देवस्थान' के साथ एक पत्थर की खिड़की का प्रवेश द्वार था।"/>
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="350sp"
+          android:src="@drawable/gp2"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="18sp"
+          android:text="यह मंदिर शनिवार पेठे में स्थित है। डिंडी दरवाजा के प्रवेश द्वार से इस मंदिर की खूबसूरत पत्थर की चौखट अंदर चली गई होगी
+अंदर, आप दोनों तरफ पोर्च देख सकते हैं। यहां से पत्थर की तीन सीढ़ियां उतरें और बाईं ओर एक छोटे से सुंदर आंगन में प्रवेश करें
+आप उत्तर की ओर मुख करके सुंदर गणपति मंदिर देख सकते हैं। इस मंदिर के बगल में एक घर भी है। इस मंदिर को देखना चाहते हैं
+यदि हां, तो आप सुबह 7 बजे से दोपहर 12 बजे तक और शाम 5 बजे से रात 9 बजे तक दर्शन कर सकते हैं। मंदिर का रखरखाव 'दीक्षित' द्वारा पिछली तीन पीढ़ियों से किया जा रहा है।
+परिवार है।
+इस मंदिर में वरदमूर्ति गणपति की मूर्ति 'श्री' है। इसे मोरेश्वर रावजी दीक्षित ने शनिवार, 12 फरवरी, 1892 को शनिवार पेठ में तैयार किया था।
+मंदिर का निर्माण श्री गुपचुप, एक वन अभियंता द्वारा किया गया था, जो इसकी स्थापना के समय चिंचवड़ के पास रहता था।
+जैसे ही उन्होंने इस मंदिर को दीक्षाओं को अर्पित किया, इस गणपति को 'गुप्चुप गणपति' नाम मिलेगा"/>
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="350sp"
+          android:src="@drawable/gp3"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="18sp"
+          android:text="एक सुंदर और पूरी तरह से लकड़ी के मंडप का निर्माण करते हुए, 'मि।
+बढ़िया लकड़ी लाई गई और पूरे लकड़ी के मंडप को आई.एस. 1894 में निर्मित। इस लकड़ी के सभा भवन में आपको प्रसिद्ध चित्रकार श्री राजा मिलेंगे
+वहां आप रवि वर्मा द्वारा खींची गई तस्वीरों के फ्रेम देख सकते हैं। दो मंजिला हॉल, ऊंची लकड़ी की छत, ऊंचे लकड़ी के खंभे भी
+मकबरे का जालीदार प्रवेश द्वार आज भी उतना ही खूबसूरत है, जितना तब था। पूरा मंदिर लकड़ी का बना है। साथ ही सभागार में
+हमें अब दुर्लभ दीये और झूमर भी देखने को मिलते हैं।"/>
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="350sp"
+          android:src="@drawable/gp4"/>
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="18sp"
+          android:text="मंदिर के गभरे में 'श्री वरद गणपति' की चतुर्भुज मूर्ति है। यद्यपि 'श्री गणपति' की मूल मूर्ति लगभग 9 इंच ऊँची है, अब उस मूर्ति पर
+आप देख सकते हैं कि वर्मीक्यूलाइट लगाने से उसकी हाइट बढ़ गई है. 'श्री वरद गणपति' की मूर्ति चतुर्भुज है
+हाथ अभयमुद्रा में है और निचले दाहिने हाथ में हमें मोदक दिखाई देता है। इस मोदक पर हमारे पास गणपति के पुत्र भी हैं
+नज़र आ रहा है। आप मूर्ति की दोनों ऊपरी भुजाओं में हथियार देख सकते हैं। मूर्ति में अंतर्निर्मित मुकुट नहीं है।
+प्रतिमा के बाईं ओर एक छोटा चूहा भी है। मूल मूर्ति के बाईं ओर भगवान गणेश की संगमरमर की दो मूर्तियाँ हैं।
+
+मंदिर मंदिरों से घिरा हुआ है और शिखर अच्छी स्थिति में है। इस मंदिर की एक और प्रमुख विशेषता है
+परिक्रमा मार्ग पर एक बहुत पुराना शमी वृक्ष है, जो गणपति को प्रिय है। इस शमी के पेड़ पर चढ़े बिना यहां गिरे हुए पत्तों का भी उपयोग किया जाता है।
+शमी वृक्ष के महत्व के कारण यह वृक्ष निश्चित रूप से मंदिर की विशेषता है। शमी गणेश का अर्थ है शमी वृक्ष के नीचे गणपति
+पूजा फलदायी होती है। आजकल आप इस गणपति के परिसर में दुर्लभ शमी के पेड़ को देख सकते हैं।
+बहुत से लोगों की आज भी 'श्री वरद गणपति' में आस्था है। इस गणपति के दर्शन के लिए अन्नासाहेब पटवर्धन, लोकमान्य तिलक
+दर्शन के लिए आते थे। जब ता ई महाराज का मुकदमा चल रहा था, लोकमान्य तिलक को इस 'श्री वरद गणपति' के बारे में पता चला।
+यह कहा जाता है। मंदिर 1961 की बाढ़ में क्षतिग्रस्त नहीं हुआ था, भले ही मंदिर पानी के नीचे था।"/>
+
+
+      <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="350sp"
+          android:src="@drawable/gp5"/>
+
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:background="@color/Yellow"
+          android:textStyle="bold"
+          android:textColor="@color/Saffaron"
+          android:layout_marginTop="20sp"
+          android:textSize="18sp"
+          android:text="श्री वरद गणपति के महीने में, दैनिक पंचामृत पूजा, माघ के महीने में, गणेश का जन्म और भाद्रपद का महीना बहुत उत्साह के साथ मनाया जाता है।
+भाद्रपद और माघ त्योहारों के दौरान, 'श्री वरद गणपति' को वर्मीक्यूलाइट से लगाया जाता है। ये सुंदर लकड़ी के हॉल और पत्थर के मंडप के साथ-साथ शमी के पेड़ हैं
+मंदिर की खूबसूरत कीमत आपको प्यार में डाल देती है। पुणे में बेहद भीड़भाड़ वाली जगह पर स्थित यह खूबसूरत मंदिर हमेशा देखने लायक है
+चुप्पी के कारण। उत्तर पेशवा में 'श्री वरद गणपतिचे' का मंदिर निश्चित रूप से अपनी निर्माण शैली के कारण पुणे में एक अनूठा मंदिर है।
+"/>
+
+
+
+   </LinearLayout>
+
+</ScrollView>

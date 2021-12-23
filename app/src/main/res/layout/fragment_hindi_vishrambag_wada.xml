@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_vishrambagWada">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="विश्रामबाग वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vishrambag_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="दूसरा पेशवा बाजी राव द्वारा 1811 के वर्ष में निर्मित,
+विश्रामबाग वाडा एक तीन मंजिला पेशवा हवेली है, जो
+आज भी अपनी ऐतिहासिक समृद्धि से सभी को मोहित करते हैं जो
+ यह अब का प्रतीक है। सदाशिव पेठ चौराहे पर स्थित
+ बाजीराव रोड और लक्ष्मी रोड का, यह वाडा, हालांकि उपेक्षित अवस्था में,
+ वास्तुकला की उत्कृष्टता प्रदर्शित करता है।
+
+नक्काशीदार खंभों के साथ प्रवेश द्वार भी शानदार है
+जो सागौन की लकड़ी से बने होते हैं, फिर भी मजबूत खड़े होते हैं।
+विश्रामबाग वाडा ऊधम के बीच भव्य रूप से खड़ा है
+एक व्यस्त बाजार की हलचल। इसके सरू के आकार के स्तंभ, सजाए गए
+प्रवेश द्वार के दोनों ओर छत, पत्थर का फर्श और सागौन दीर्घा
+आपको बाजीराव के गौरवशाली युग में ले चलते हैं। इमारत की पहली मंजिल पर,
+आपको एक विशाल हॉल, दरबार, जटिल नक्काशीदार छत के साथ मिलेगा,
+उत्तम नक्काशी के साथ सागौन की लकड़ी के खंभों के साथ भव्य झूमर।
+इसकी शानदार सागौन की बालकनी, जहाँ अब आगंतुकों की अनुमति नहीं है,
+उस स्थान के बारे में कहा जाता है जहां से बाजीराव के संगीतकार प्रदर्शन करते थे।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/vishrambag_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+वाड़ा का एक हिस्सा सार्वजनिक यात्रा के लिए खुला है, बाकी के साथ
+भाग कार्यालयों के रूप में उपयोग किया जा रहा है। हालांकि कुछ ही हिस्से देखने को मिलते हैं, यह
+जगह तलाशने लायक है। यह आपको . की भव्यता की एक झलक देता है
+महाराष्ट्र में बाजीराव युग। त्रुटिहीन सुंदरता जिसके साथ यह था
+निर्मित कुछ याद रखने और प्रशंसा करने लायक है। अंग्रेजों के बाद
+पर अधिकार कर लिया, और पेशवा शासन के पतन के बाद, विश्रामबाग वाडा को एक जेल का उपयोग किया गया।
+इसका उपयोग पुणे नगर निगम कार्यालय के लिए भी किया जाता था,
+1930 से 1958 के वर्ष तक।
+
+
+
+"
+
+            ></TextView>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+वर्तमान में, कई सरकारी कार्यालय विश्रामबाग वाडा से संचालित होते हैं।
+इसका काफी हिस्सा पोस्ट ऑफिस में भी इस्तेमाल होता है।
+SMILE (सावित्री मार्केटिंग इंस्टीट्यूशन फॉर लेडीज़ एम्पावरमेंट) द्वारा एक हस्तशिल्प की दुकान भी है।
+वाडा परिसर के अंदर।
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

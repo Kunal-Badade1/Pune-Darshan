@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Hindi_Gardens">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पुणे में उद्यान"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="1.कमला नेहरू पार्क"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/kamala"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में एरंडवाने में स्थित, कमला नेहरू पार्क शहर के सबसे हरे और सुंदर उद्यानों में से एक है। विभिन्न प्रकार के जीवंत फूलों और झाड़ियों के साथ खिलते हुए, उद्यान सुबह और शाम की सैर के लिए आदर्श है। इसके अलावा, पार्क में कई कलात्मक मूर्तियां स्थापित हैं जो इस जगह को और भी खूबसूरत बनाती हैं।"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="2. पेशवा उद्यान"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/peshwa"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पेशवे उद्यान सरस बाग के ठीक बगल में स्थित है और स्थानीय लोगों के लिए एक लोकप्रिय आकर्षण है जहां वे आराम और खुद को पुनर्जीवित करने के लिए कुछ समय बिता सकते हैं। यह बच्चों के बीच विशेष रूप से लोकप्रिय है, इसलिए, आस-पास रहने वाले अधिकांश माता-पिता अपने परिवार को पिकनिक पर ले जाते हैं एक सप्ताहांत पर। लेकिन, यह जगह युवा और बूढ़े दोनों को आकर्षित करती है, जो कुछ समय के लिए भागना चाहते हैं। पार्क में एक विस्तृत उद्यान है जिसमें अच्छी तरह से बनाए हुए लॉन, ठीक से पक्के रास्ते और ऊंचे घने पेड़ हैं जो एक सुंदर वातावरण बनाते हैं। हर आगंतुक आनंद ले सकता है।
+
+पेशवे उद्यान में कई गतिविधियाँ हैं जिनमें आगंतुक भाग ले सकते हैं। इनमें से कुछ मनोरंजक गतिविधियाँ हैं जबकि कुछ मनोरंजक, शैक्षिक और साहसिक भी हैं। पार्क में एक चिड़ियाघर है जहाँ आप विभिन्न प्रकार के जानवरों को देख सकते हैं। परिदृश्य फोटोग्राफी के प्रति उत्साही लोगों को भी आकर्षित करता है जो अपनी कला के लिए प्रेरणा चाहते हैं। वीकेंड और शाम के समय यहां काफी भीड़ उमड़ती है। इसलिए, किसी को कुछ हलचल की उम्मीद करनी चाहिए। ऐसा कहने के बाद, निश्चित रूप से एकांत में कुछ समय बिताने के लिए जगह मिल सकती है।"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="20sp"
+            android:text="3.सरस बाग"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sarasbag"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सरस बाग पुणे में एक लोकप्रिय आकर्षण है जो शुरू में पार्वती की तलहटी में एक झील थी। जैसे ही झील का पानी सूख गया, उजागर भूमि को एक पार्क में विकसित किया गया और इसका नाम सरस बाग रखा गया। आकर्षण का विस्तार 25 एकड़ क्षेत्र में और केंद्र में एक मंदिर भी है। यह मंदिर भगवान गणेश को समर्पित है और क्योंकि यह एक झील के बीच में बनाया गया था, इसे तल्यतला गणपति भी कहा जाता है। बैग और मंदिर का कुछ ऐतिहासिक महत्व भी है जैसा कि वे पेशवा के समय में बनाया गया था मंदिर, विशेष रूप से, कई ऐतिहासिक घटनाओं के लिए भी एक महत्वपूर्ण स्थल रहा है।
+
+सरस बाग में, हरे-भरे लॉन का पता लगाया जा सकता है जिन्हें अक्सर छंटनी और अच्छी तरह से बनाए रखा जाता है। लोग पक्के रास्तों से पूरे पार्क में चल भी सकते हैं। जब तक वे अपने आस-पास को साफ रखते हैं, तब तक वे जनता के लिए खुले बगीचे के सभी हिस्सों में घूम सकते हैं। इसलिए, इसमें एक बहुत ही आरामदेह माहौल है जो बड़ी संख्या में स्थानीय लोगों को आकर्षित करता है। आकर्षण पार्वती की तलहटी में स्थित है, इसलिए यात्री इन दोनों आकर्षणों को कुछ ही घंटों में कवर कर सकते हैं। पार्क में भगवान गणेश को समर्पित एक छोटा संग्रहालय भी है। सरस बाग में एक चिड़ियाघर हुआ करता था जिसे पेशवे पार्क भी कहा जाता है जिसे अब स्थानांतरित कर दिया गया है। "/>
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".culturesFairsFestivalM">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Fairs And Fesivals"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/fes"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे का लोकप्रिय त्योहार चतुरशृंगी मेला है
+             जो नवरात्रि उत्सव के दौरान आयोजित किया
+            जाता है। सवाई गंधर्व संगीत समारोह भी इस समय के लोकप्रिय संगीत
+             समारोहों में से एक है। इस उत्सव में केवल प्रसिद्ध किराना घराने के
+              गायक ही प्रस्तुति देते हैं। पुणे का एक और लोकप्रिय त्योहार ओशो महोत्सव है।
+"/>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

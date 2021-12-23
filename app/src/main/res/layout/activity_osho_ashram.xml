@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OshoAshram">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Osho Ashram"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/osho"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="Located in the Koregaon Park in Pune, Osho Ashram was founded by the Rajneesh Chandra Mohan Jain, who is popularly famous as Osho Rajneesh. Also known as, Osho Commune International of Pune, this ashram is spread across an area of 32 acres. Its lush green campus with its startling natural beauty, offers visitors a much needed break from the pollution of cities and crowds of everyday life. A popular tourist spot in Pune, it attracts visitors with its beautiful landscapes and calm surroundings.
+
+A resort, dedicated to yoga and meditation, it promises its visitors with rejuvenating experiences, soothing for their mind and soul. Various kinds of training programs on spiritual living and stress free lifestyle are conducted here at regular intervals. Osho Nadabrahma, Osho Kundalini meditation, meditation, Osho Nataraj, Osho dynamic meditation, etc. are a few of the meditation techniques, which are taught here at the ashram.
+
+After the demise of spiritual guru Osho, this ashram is disseminating his teachings and carrying forward his legacy through a wide array of courses. Osho Multiversity, one of the world’s largest centers for spiritual growth, provides an extensive range of methods for personal development. Some of these are healing arts, creative arts, martial arts, esoteric sciences, Zen, Sufism and tantra and many more. Every month, on its second Friday, meditation camps are conducted. These mediation camps are for duration of three days.
+
+"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+870 per person for Indians for 1-day and 2-day entry stickers
+ 1790 per person for Foreigners for 1-day and 2-day entry stickers
+3-day and 4-day entry stickers are discounted by approximately 15%
+5-day entry stickers are discounted by approximately 25%
+30-day entry stickers are discounted by approximately 40%
+
+
+Osho Ashram Pune Address: No.17, Welcome Center, 1st Lane, Koregaon Park, Pune, Maharashtra, 411001, India"/>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>

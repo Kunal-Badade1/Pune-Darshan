@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathi_nanawada">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="नाना वाडा"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/nana_wada"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पेशव्यांचे मुख्य प्रशासकीय अधिकारी नाना फडणवीस यांनी १७८० मध्ये बांधले.
+वाडा हे शहरातील सर्वात जुन्या वारसा स्थळांपैकी एक आहे जे पेशवेकालीन एक झलक आहे.
+नाना वाडा शनिवार वाड्यापासून जवळच वसंत थिएटरच्या शेजारी आहे.
+
+नाना फडणवीस यांनी एकापाठोपाठ चार राज्यकर्त्यांखाली दीर्घकाळ मराठा घराण्याची सेवा केली.
+माधवराव पेशव्यांच्या मृत्यूनंतर मराठा साम्राज्याने आपले वैभव टिकवून ठेवले आणि सत्तेत वाढ झाली.
+ नाना फडणवीस यांच्या नेतृत्वाखाली. मूळ वास्तुशिल्प वैशिष्‍ट्ये अजूनही पाहायला मिळतात
+नाना वाड्यात अखंड.
+
+पुण्याच्या डेक्कन एज्युकेशन सोसायटीने या वाड्यात १९०७ मध्ये न्यू इंग्लिश स्कूल सुरू केले.
+त्यांच्या विस्ताराचा एक भाग म्हणून शाळेसाठी इमारतही बांधण्यात आली. वसाहतवादी प्रभाव
+इमारतीच्या वास्तूवर स्पष्टपणे दृश्यमान आहे आणि वाडा दिसायला मनोरंजक बनवतो."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/nana_wada1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+
+
+नाना वाडा मोठ्या प्रमाणात लाकडापासून बनविला जातो आणि इतर सजावटींमध्ये कमानी आहेत. बाल्कनी
+लाकडी रेलिंग आहेत, लाकडाच्या छतावर कोरलेली नमुना आहे आणि स्तंभ आहेत
+समोरच्या खोलीत डेरेदार झाडांसारखे आकार आहेत. मिटलेली भिंत चित्रे आता फारच कमी दिसत आहेत.
+
+वडाच्या बाल्कनीला घुमटाच्या आकाराचे छत आहे. लाकडी वास्तुकला राजेशाही ठळक करते
+वाड्याची स्थिती. पहिल्या मजल्यावर अजूनही ‘दिवाण-खाना’ (कोर्ट हाऊस) आणि व्हरांडा आहे
+भिंतींवर चित्रे. बारीक नक्षीकाम केलेले लाकडी छत, कमानी, सायप्रसच्या आकाराचे खांब आणि आकृतिबंध
+केळीचे फुल पाहुण्याला आश्चर्यचकित करते. वाड्यामध्ये सुटकेसह आपत्कालीन बाहेर पडण्याची सोय आहे
+ वडाच्या बाहेर जाणार्‍या भिंतीतील जिना.
+
+नाना, पेशव्याचे प्रशासकीय अधिकारी असल्याने, प्राचीन ‘मोदी’ लिपी वापरत, लिप्यंतरित
+ आणि त्यांच्या लेखा आणि प्रशासकीय पत्रांच्या नोंदी ठेवल्या.
+
+वाड्यात सध्या महापालिकेची शाळा आणि जुन्या नोंदी असलेले महापालिकेचे कार्यालय आहे.
+वडाचे वैभव परत आणण्यासाठी काही भागांच्या जीर्णोद्धाराचे काम हाती घेण्यात आले आहे. नाना सुद्धा
+वाईजवळ मेणवली येथे आणखी एक वाडा बांधला, जो उत्तम नमुना मानला जातो
+वाडा वास्तुकला.
+
+
+
+
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cultureLanguageReligionH">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="भाषा और धर्म "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/ganpati"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में लोग विभिन्न क्षेत्रीय भाषाएं बोलते हैं।
+            पुणे की आधिकारिक भाषा मराठी है और ज्यादातर लोग मराठी में ही बोलते हैं।
+             मराठी के अलावा, लोग हिंदी, अंग्रेजी और स्थानीय भाषा भी बोलते हैं।
+
+
+पुणे में कई धर्मों का पालन किया जाता है।
+ पुणे में पालन किया जाने वाला प्रमुख धर्म हिंदू धर्म है,
+  जबकि अन्य धर्म जैसे सिख, ईसाई और मुस्लिम भी यहां हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/patii"/>
+
+    </LinearLayout>
+
+</ScrollView>

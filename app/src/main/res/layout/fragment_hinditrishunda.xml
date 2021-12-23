@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hinditrishunda">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="त्रिश्रूंड गणपती मंदिर "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में कलात्मक मूर्तिकला मंदिर 'त्रिशुंड गणपति'
+
+महाराष्ट्र में कई खूबसूरत मंदिर हैं। महाराष्ट्र की विशिष्टता इन मंदिरों के क्षेत्र में कई छोटे और बड़े गांवों में स्थित प्राचीन मंदिर हैं
+संकेत दें। महाराष्ट्र के ये प्राचीन मंदिर कई छोटे और बड़े गांवों में देखे जा सकते हैं। ये मंदिर बताते हैं इन गांवों का इतिहास
+आज भी वे दर्शनार्थियों को अपना प्राचीन इतिहास बताते हैं और इतिहास के साथ-साथ संस्कृति के पदचिन्हों को भी सहेज कर रखते हैं।
+बनाए रखने में मदद करता है। ऐसे ही पुराने मंदिरों में से एक है पुणे शहर के बीचोबीच स्थित खूबसूरत मूर्तियों से सजी एक खूबसूरत मंदिर
+है।
+पुणे को महाराष्ट्र की सांस्कृतिक राजधानी के साथ-साथ मंदिरों के शहर के रूप में भी जाना जाता है। यह पुणे क्षेत्र में है
+यहां कई छोटे-बड़े राउल हैं, इनमें से कुछ मंदिर आप देख सकते हैं जो बेहद खास हैं.
+पुणे में एक ऐतिहासिक सिख 'त्रिशुंड गणपति' मंदिर, जिसमें सभी जगह एक प्रतिष्ठित कार्य किया गया है और 17 वीं शताब्दी की पहचान को संरक्षित किया गया है।
+भरवस्ती में पेठे अभी भी लंबा खड़ा है।
+
+भले ही त्रिशुंड गणपति मंदिर पुणे में स्थित है, फिर भी यह अधिकांश लोगों से परिचित नहीं है। उत्तर पेशवा का यह खूबसूरत मंदिर मूर्तियों के खजाने की तरह है।
+मंदिर के बाहरी भाग पर उकेरी गई ये अलंकृत मूर्तियां और गणेश की विशिष्ट त्रिमुखी मूर्ति हमारी आंखों को रोशन करती है। तुम्हारी तरह
+त्रिशुंड गणपति मंदिर के प्रवेश द्वार को इतने खूबसूरत तरीके से सजाया गया है कि हमें एक खूबसूरत गुफा दिखाई देती है।
+हो चूका है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="650sp"
+            android:src="@drawable/tr2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भैरव की मूर्ति।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="यदि आप त्रिशुंड मंदिर के दर्शन करना चाहते हैं, तो नए पुल से कमला नेहरू अस्पताल तक का रास्ता लें, जो सत्तोती थाने के पीछे है।
+सड़क के चौराहे पर, इस चौराहे पर दाएं मुड़ते हुए, त्रिशुंड हमें सीधे गणपति मंदिर के सामने ले जाता है और खड़ा हो जाता है। भरोसेमंद
+यह मूर्तिकला मंदिर हमारे मन को मोह लेता है। इस मंदिर के आसपास की इमारतें मंदिर की सुंदरता में बाधक हैं
+लाना। वैसे तो मंदिर के काफी करीब इमारतें हैं, त्रिशुंड गणपति का मंदिर ढका हुआ है, लेकिन इस पूरे मंदिर की संरचना इस प्रकार है:
+भीड़ से अलग दिखने लगता है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="650sp"
+            android:src="@drawable/tr3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर पर कृष्ण"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर का जूता जो आदमी के चारों ओर लंबा है और उस पर पूर्वमुखी मंदिर खड़ा है, वास्तव में सुंदर है। इस ज्योति वन . पर पुणे नगर निगम
+सूचना बोर्ड बनाया गया है। जब आप मंदिर के बाहरी भाग को देखते हैं, तो कुछ मूर्तियां सचमुच आपको चिह्नित करती हैं। इनमें से एक
+यहाँ उस समय की स्थिति का वर्णन है जब आपने एक ब्रिटिश सैनिक द्वारा एक गैंडे की मूर्ति को बंदूक के साथ पकड़े हुए देखा था।
+जैसा कि विशिष्ट मूर्तिकला से देखा जा सकता है। मूर्तिकला में वर्णन किसी से पीछे नहीं है।
+यह बताया गया है कि ईस्ट इंडिया कंपनी इसके नेतृत्व में बंगाल और असम की शासक बनी। इसी तरह के तरीके
+दायीं ओर की दीवार पर आप वही मूर्ति देख सकते हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="प्लासी के युद्ध की मूर्ति।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="इन मूर्तियों में आप गैंडे से जुड़ी जंजीरें देख सकते हैं, जिन पर बहुत बारीक नक्काशी की गई है। साथ ही दोनों
+आपस में लड़ते हाथियों को नीचे की ओर की मूर्तिकला में उकेरा गया है। यह हाथी महाराष्ट्र में शक्ति का प्रतीक है। उपरोक्त मूर्ति में
+ब्रिटिश पोशाक बंदूकें बहुत अच्छी तरह से नक्काशीदार हैं। यह पूरी मूर्ति हमें कई समकालीन चीजों का इतिहास बताती है।
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="भैरव शिल्प।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपति के प्रवेश द्वार पर द्वारपालों की नक्काशी की गई है। द्वारपाल की ओर के दो स्तम्भ बहुत ही सुन्दर ढंग से उकेरे गए हैं
+खंभों पर लगी घंटियां और उन पर घट-पल्लव की मूर्तियां मनमोहक हैं। साथ ही मंदिर के कोनों में मूर्तियां
+आँख भरता है। प्रवेश द्वार पर एक गणेश बार उकेरा गया है और उस पर गणेश की एक सुंदर मूर्ति उकेरी गई है। इस गणेशपट्टी के दोनों ओर
+गजलक्ष्मी दो हाथियों के साथ खूबसूरती से उकेरी गई है। यह मूर्ति आपका ध्यान खींच लेती है।
+इस गजलक्ष्मी मूर्तिकला के शीर्ष पर हम विष्णु के अवशेष खुदे हुए देखते हैं। यह अवशेष विष्णु की महिरापी के किनारे उकेरा गया है
+हम बंदरों और तोतों को बहुत ही विशिष्ट और बारीक नक्काशीदार देखते हैं। इन मूर्तियों के ऊपर आपको दशावतार, यक्ष भी मिलेंगे
+किन्नर भी नजर आ रहे हैं। इस तरह से शीर्ष पर की गई नक्काशी आकर्षक है।
+आपको देखने को मिलता है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr6"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर के द्वारपाल।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गुफा की तरह खुदा हुआ यह मंदिर मन को मोह लेता है। इस मंदिर की कुछ मूर्तियां देखने लायक हैं
+यह लिंगोद्भव का रूप है और इस मूर्ति में शिव अग्नि स्तंभ के रूप में प्रकट होते हैं।
+इसे खोजने का असफल प्रयास करते हुए, कहानी यिका मंदिर के पीछे खुदी हुई प्रतीत होती है। इस मंदिर में एक मर्दाना आकृति खुदी हुई है
+उसके चारों ओर दो महिलाएं हैं और यह खूबसूरत कामुक मूर्ति ध्यान आकर्षित करती है"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr7"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="लिंगोद्भव रूप वाली मूर्तियां।"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr8"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नटराज शिल्प।"/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="इस खूबसूरत मंदिर का निर्माण इंदौर के धामपुर गांव से गोसावी भीमगीरजी ने शुरू किया था। 1754 में पूर्ण पत्थर में पूरा किया गया
+इस मंदिर का द्वार पूर्व की ओर है और देखने में आता है कि मंदिर के निर्माण में राजस्थानी शैली की स्थापत्य कला का प्रयोग किया गया है।
+पेशवाओं इस काल में निर्मित यह सुन्दर मंदिर पूर्णतया पत्थर से निर्मित है।
+नहीं देख सकता मंदिर के असेंबली हॉल को भी खूबसूरती से बनाया गया है। मिलन तंबू से एक छोटा सा स्थान उकेरा जाएगा
+आप मंदिर के अंदर मेहराब पर दो शिलालेख देख सकते हैं शिलालेख इस प्रकार हैं: -
+
+पुण्यनगरी पुरी
+|| श्री गणेशाय नम: || श्री ||
+|| सरस्वती नम: || श्रीगुरु ||
+|| दक्षिणामूरताये नम: || सा ||
+|| संवत 1801 और नृपशाली
+|| वाहन शेक 1676 भवन
+|| मैं वार्षिक शुल्क का भुगतान करूंगा
+|| सौम्यवसारे शुभवेल ||
+|| यान अस्य स्थान श्री महाका ||
+|| एल रामेश्वर प्रतिष्ठाम सु ||
+|| तिष्टितमस्तु || श्री देवदत्त ||
+|| यह स्थान है शुभ भावु श्रीरासी
+
+शिलालेख का अर्थ इस प्रकार है:-
+यह मंदिर रामेश्वर शिव का है और इसकी स्थापना विक्रम संवत 1801 यानी 20 नवंबर 1754 को हुई थी।
+आप देख सकते हैं कि क्या कहा गया है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr9"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर के अंदर पत्थर"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+शिलालेख का अर्थ इस प्रकार है:-
+|| श्री गुरुदेव ||
+|| दत्त ||
+|| श्री गणेशाय नमः महेश ||
+|| ट्रैपरो देव महिमनो नाप ||
+|| रा स्तुति: || अघोरात्रपारो ||
+|| मन्त्रो नास्ति तत्व गुरु: परमी
+|| जयंती मंगला | काले सज्जन
+|| काली कपालिनी || दुर्गा
+|| क्षमा शिव धात्री स्वाहा
+|| स्वाधा नमोस्तु ते || सभी मैंगो
+|| ल मंगलये शिव सर्वार्थस
+|| पुश || शरण्ये ट्रिंबेक गौ
+|| री नारायणी नमोस्तु ते ||
+|| यात्रा योगेश्वर: कृतसानो यात्रा पा
+|| रोठो धनुरधर: || तत्काल श्रीसर्विजयो
+|| भूतिरध्रवा नी नीतिर्मतिर्मम ||
+
+इस मंदिर में एक फारसी शिलालेख भी है। फारसी अभिलेख इस प्रकार है:-
+
+1) ई मकान गुरुदेवदाती
+2) फुकरा की तिथि 7वीं है
+3)शहर जुकाड़ रोज़ चाहर शब्ददेही
+4) सनाह 1167 तशमीर नमुद शुद
+
+शिलालेख का अर्थ इस प्रकार है:-
+यह घर फकीर गुरुदेव दत्त का है और आप इसमें 26 अगस्त 1754 की तारीख देख सकते हैं। ये शिलालेख आज भी अच्छी स्थिति में हैं
+आप उन पर पत्र पढ़ सकते हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr10"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर कक्ष।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="त्रिशुंड गणपति मंदिर के बाहर हमें कोई नक्काशी नहीं दिखती। मंदिर के पश्चिम और उत्तर में
+आपको सुंदर मंदिर देखने को मिलते हैं। इस देवकोष्ठ में हम 'नटराज की मूर्ति' देखते हैं और दूसरे देवकोष्ठ में हम 'लिंगोद्भव' देखते हैं
+आप मंदिर के पश्चिम में मंदिर में 'रूप' और 'चतुर्भुज भैरव' की मूर्ति भी देख सकते हैं। मंदिर का
+दहलीज में मशहूर हस्तियों को बहुत खूबसूरती से उकेरा गया है
+"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr11"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="सभामंडप द्वारशाखा।"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr12"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="चौखट पर भगवान शिव की मूर्ति"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर के केंद्र में गणेश जी की मूर्ति बहुत ही सुंदर है इस मूर्ति की विशेषताएं इस प्रकार हैं:
+घुड़सवार यह खूबसूरत मूर्ति शानदार है। यह मूर्ति पूरे जोरों पर है।इस मूर्ति में रिद्धि को भी बैठे हुए दिखाया गया है। या
+गणेश की मूर्ति को तीन सूंडों के साथ दिखाया गया है और एक सूंड को मोदकपात्रों को छूते हुए देखा गया है, दूसरी सूंड पेट पर लुढ़कती हुई दिखाई देती है और तीसरी सूंड दिखाई देती है।
+आप देख सकते हैं कि यह रिद्धि की ठुड्डी पर है। गणेश की इस खूबसूरत मूर्ति की छह भुजाएँ हैं और ऊपरी बाएँ हाथ में एक कुल्हाड़ी है
+जब आप निचले दाहिने हाथ को देखते हैं, तो आप देख सकते हैं कि आप एक मोदकपत्र धारण कर रहे हैं, आप मध्य दाहिने हाथ में शीर्ष पर एक सुई देख सकते हैं।
+आप दाहिने हाथ में कर्ब, मध्य बाएं हाथ में लूप और बायीं जांघ में निचला बायां हाथ देख सकते हैं।
+बैठी रिद्धि का सहारा आप देख सकते हैं। गणेश की इतनी सुंदर मूर्ति सचमुच मनोरम है"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr13"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर के गणेशपट्टी।"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+त्रिशुंड गणपति मंदिर की एक अन्य विशेषता इस त्रिशुंड गणपति की मूर्ति के नीचे का तहखाना है। इस मंदिर के तहखाने में श्री दत्तगुरु गोसावी
+उसे दफना दिया गया है। साथ ही जब इस गणेश प्रतिमा का अभिषेक किया जाता है तो इस समाधि पर इस मूर्ति का पानी गिरता है। साथ ही इस बेसमेंट की मुख्य विशेषता
+इसका मतलब है कि इस तहखाने में रहने वाले पानी का एक झरना है इस झरने का पानी साल के 12 महीनों के लिए इस तहखाने में जमा किया जाता है। यह बेसमेंट लगभग 5 मीटर . है
+गहरा है। यह तहखाना किसी अन्य दिन कभी नहीं खुला। हे सुंदर गणेश
+मंदिर में आप मूर्ति की पिछली दीवार में खुदी हुई गणेश वाद्ययंत्रों को देख सकते हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr14"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पीठ में त्रिशुंड गणपति और विष्णु।"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="यह जगह बहुत ही खूबसूरत है और मूर्तियों को सजाया गया है।
+विशिष्ट मंदिर महाराष्ट्र में बहुत कम पाए जाते हैं। इस ऐतिहासिक त्रिशुंड मंदिर की यह विरासत पुणे और बाहर के लोगों द्वारा साझा की जाती है
+निश्चित रूप से एक यात्रा के लायक"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/tr15"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="गजवाल की मूर्ति।"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

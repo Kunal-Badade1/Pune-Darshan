@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".jadhavgad_hindi">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="जाधवगड"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/jadhavgad"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="
+
+महाराष्ट्र का एकमात्र फोर्ट हेरिटेज होटल, फोर्ट जाधवगढ़ होटल एंड रिजॉर्ट है
+अद्वितीय विलासिता का अनुभव करने के लिए अवश्य जाना चाहिए।
+
+25 एकड़ में फैले, हेरिटेज होटल के भीतर सुविधाओं में शामिल हैं:
+
+आरामदायक और भव्य आवास (तम्बू आवास सहित)
+एक तापमान नियंत्रित स्विमिंग पूल
+खूबसूरती से सजाया गया और सुसज्जित भोजन क्षेत्र
+घर में स्पा
+घर में संग्रहालय
+फोर्ट जाधवगढ़ में अन्य गतिविधियों में ग़ज़ल नाइट्स और एक मनोरंजक दान पत्ता शो शामिल हैं।
+
+            "/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/jadhavgad1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="क
+कृपया अधिकारियों को फोन करें और किले का दौरा करने से पहले उन्हें सूचित करें।
+यदि आप रिसॉर्ट में रहने का इरादा रखते हैं, तो अग्रिम में एक कमरा/टेंट बुक करने की अनुशंसा की जाती है।
+\nआईटीआई बस
+\nधुमे वाडी बस
+
+
+
+\nफोर्ट जाधवगढ़ पता: हडपसर सासवड रोड, जाधववाड़ी, पुणे, महाराष्ट्र 412301, भारत
+\nकिला जाधवगढ़ संपर्क नंबर: +91-2115305200
+\nफोर्ट जाधवगढ़ समय: 09:00 पूर्वाह्न - 06:00 अपराह्न
+\nजाधवगढ़ किले की यात्रा का सबसे अच्छा समय (पसंदीदा समय): सुबह 08:00 बजे से दोपहर 12:00 बजे तक
+\nजाधवगढ़ किले की यात्रा के लिए आवश्यक समय: 07:00 बजे
+"
+
+            ></TextView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

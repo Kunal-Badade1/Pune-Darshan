@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindioriginpeth">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पेठ का नाम पेठ की स्थापना किसने की थी जिस वर्ष इसकी स्थापना हुई थी"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pe1"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="\nकस्बा पेठ : राष्ट्रकूट राजाओं ने 5वीं शताब्दी में\n
+\nगुरुवार पेठ : शाहजी राजे 1625\n
+\nसोमवार पेठ : दादोजी कोंडदेव 1636\n
+\nमंगलवार पेठ : दादोजी कोंडदेव 1637\n
+\nशुक्रवार पेठ : नीलोपंत मुजुमदार 1670\n
+\nरविवर पेठ : नीलोपंत मुजुमदार 1670\n
+\nशनिवार पेठ : मोरोपंत पिंगले 1675\n
+\nभवानी पेठ : संभाजी महाराज 1682
+यह नाम भवानी माता के मंदिर से लिया गया है\n
+\nउनकी स्मृति में घोरपड़े पेठ : सेनापति संताजी घोरपड़े 1692\n
+\nबुधवार पेठ : औरंगजेब 1703\n
+\nगणेश पेठ : सखारम्बापु बोकिल 1748 के बाद गणेश का नाम\n
+\nसदाशिव पेठ : सदाशिवराव पेशवा 1757 उनकी स्मृति में\n
+\nउनकी स्मृति में नारायण पेठ : नारायणराव पेशवा 1770\n
+\nउनकी स्मृति में रास्ता पेठ : सरदार रास्ता 1780\n
+\nनाना पेठ : नाना फडणवीस 1783 उनकी स्मृति में\n
+\nगंज पेठ (जिसे अब महात्मा फुले पेठ कहा जाता है) :
+1818 के बाद ब्रिटिश सरकार द्वारा महात्मा फुले की स्मृति में\n
+\nचूंकि नवी पेठ की स्थापना 1818 के बाद ब्रिटिश सरकार द्वारा की गई थी\n"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pe"/>
+
+
+
+
+
+
+
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

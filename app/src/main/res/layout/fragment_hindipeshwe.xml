@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindipeshwe">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पेशवे संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="महाराष्ट्र में पेशवा परिवार के इतिहास और विरासत को पहाड़ी पर पेशवाडा के संग्रहालय में संरक्षित किया गया है।
+
+पहाड़ी पर पेशवा का महल 1795 में अमीर नानासाहेब पेशवा ने बनवाया था। आज इसका एक हिस्सा पेशवा कला के संग्रहालय में तब्दील कर दिया गया है। ये कलाकृतियाँ मुख्य रूप से पेशवा महल से प्राप्त हुई हैं। इसमें पेशवा शासकों से जुड़े सभी हथियार, कपड़े, बर्तन, आभूषण, फर्नीचर, संगीत वाद्ययंत्र और पालकी शामिल हैं। पेशवाओं की ऐतिहासिक घटनाओं और पारिवारिक मानचित्र के अनुसार बाजीराव पेशवा, मस्तानी, नानासाहेब पेशवा, चिमाजीअप्पा पेशवा, बालाजी विश्वनाथ जैसे मराठा नेताओं के चित्र हैं। संग्रहालय में पेशवाओं से संबंधित मध्ययुगीन पांडुलिपियां भी हैं, साथ ही पुणे शहर की कुछ पुरानी और दुर्लभ तस्वीरें भी हैं।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="संग्रहालय में भारत में पेशवा, मुगल और ब्रिटिश युग के दौरान इस्तेमाल किए गए सिक्कों और सिक्कों का एक बड़ा संग्रह भी है। इनमें से कुछ सिक्के अत्यंत दुर्लभ और मूल्यवान हैं।
+
+पानीपत की तीसरी लड़ाई में अपने बेटे और भाई दोनों को खोने वाले अमीर नानासाहेब पेशवा की समाधि संग्रहालय के पास है। उस तरफ के हिस्से को पुनर्निर्मित कर एक हॉल में बदल दिया गया है। इसमें मराठों द्वारा लड़े गए कई युद्धों को दर्शाया गया है। मध्य प्रदेश के बुरहानपुर के सरदार भुस्कुटे और स्थानीय जमींदारों का महल भी इस संग्रहालय का हिस्सा हैं।
+
+संग्रहालय शाम 4:30 बजे से रात 9 बजे तक खुला रहता है। प्रवेश शुल्क रु. 10 प्रत्येक।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p2"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/p4"/>
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cultureFoodH">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="Food"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/fes"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text=" पुणे का व्यंजन शांत मसालेदार है और यहाँ के
+             व्यंजन बनाने में बड़ी मात्रा में हरी मिर्च का उपयोग किया जाता है।
+              पुणे के पारंपरिक खाद्य पदार्थ पूरन पोली, अमती, पिठला भाकरी,
+               वरण भट, मटकी की उसल, थाली पीठ,
+                अलु ची वड़ी हैं। पुणे का स्थानीय
+            भोजन नारियल और लहसुन का विशिष्ट स्वाद देता है।"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

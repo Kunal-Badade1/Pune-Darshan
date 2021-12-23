@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindipataleshwarmandir">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="पाताळेश्वर मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पातालेश्वर गुफाएं, जिन्हें पांचालेश्वर मंदिर या भाम्बुर्दे पांडव गुफा मंदिर के रूप में भी जाना जाता है, महाराष्ट्र, भारत में राष्ट्रकूट काल में पुणे, महाराष्ट्र में एक 8 वीं शताब्दी का नक्काशीदार हिंदू मंदिर है। शिव को समर्पित, यह एक उल्लेखनीय गोलाकार नंदी मंडप और एक बड़े स्तंभ के साथ एक मंडप के साथ एक अक्षुण्ण उत्खनन था। यह तीन रॉक-कट गुफाओं का मंदिर है, जो ज्यादातर मूल ब्रह्म-शिव-विष्णु को समर्पित है, लेकिन वर्तमान में मूल पार्वती-मूल शिव-गणेश को समर्पित है। अब इस जगह के चारों ओर एक बगीचा है, नई मूर्तियों को परिसर में कहीं और रखा गया है। विध्वंस ने गुफाओं के अंदरूनी हिस्से को नुकसान पहुंचाया है। बाहर, स्मारक सदियों से प्राकृतिक तत्वों के प्रभावों को दर्शाता है।
+
+पातालेश्वर मंदिर भारत का एक संरक्षित स्मारक है और इसका प्रबंधन भारतीय पुरातत्व सर्वेक्षण द्वारा किया जाता है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पातालेश्वर गुफाएं पुणे के उत्तर में एक चट्टानी पहाड़ी पर, मुला और मुथा नदियों के संगम के पश्चिम में स्थित हैं - मंदिर वास्तुकला पर ऐतिहासिक संस्कृत ग्रंथों में मंदिरों के लिए अनुशंसित स्थल। साइट के 19वीं शताब्दी के सर्वेक्षण में 'पंचलेश्वर गुफाएं' , 'पुणे की भाम्बुर्दे गुफाएं', 'पांडु गुफाएं' या 'पंचलेश्वर मंदिर' का उल्लेख है; वह पुणे के उत्तर में एक गांव में स्थित होने का उल्लेख करता है। हालाँकि, जैसे-जैसे पुणे शहर विकसित हुआ है, यह स्थान अब शिवाजीनगर (पुणे) शहरी संरचनाओं से घिरा हुआ है। पातालेश्वर गुफाएं मुंबई से लगभग 150 किलोमीटर (93 मील) दूर हैं
+
+        पातालेश्वर गुफाएं एक चट्टानी पहाड़ी की निरंतर खुदाई है जो धीरे-धीरे सूज जाती है और यहां का भूभाग बनाती है। इसका प्रवेश द्वार परिसर के पूर्व की ओर लगभग 20 फीट लंबा है। यह मूल रूप से एक खोदी गई सुरंग थी लेकिन यह ढह गई। इसे कुछ समय के लिए पत्थर के निर्माण द्वारा बहाल किया गया था। यह मार्ग खुले कोर्ट की ओर जाता है जो लगभग एक वर्ग (उत्तर-दक्षिण में अधिकतम 95 फीट, पूर्व-पश्चिम में 90 फीट) है।
+
+        इस खाली टेंट के फर्श पर पथराव किया गया। इसमें नंदी मंदिर और नंदी को प्रकट करने के लिए सभी मूल चट्टानों से काटकर एक गोलाकार नंदी मंडप है। इस मंडप में नंदी मंडप की छत को सहारा देने के लिए सोलह स्तंभ थे, परिधि पर बारह और अंदर की तरफ चार। हालांकि, चार पूर्व स्तंभ और छत जो उन्हें सहारा देती थीं, अब नष्ट हो गई हैं। मूर्तिकारों ने नंदी मंडप के चारों ओर फर्श को काटकर लगभग 2 फीट गहरा एक गोलाकार पूल बनाया, जिसमें नंदी या अनुष्ठान धोने के लिए इस्तेमाल किया जाने वाला कोई भी तरल हो सकता है। नंदी एक पैर पर बैठे हैं, यह भी प्राकृतिक चट्टान में अक्षुण्ण रूप से उकेरा गया है।
+
+        पातालेश्वर स्थल का ढका हुआ भाग एक बड़ा वर्गाकार मंडप है, जो आकार में नंदी मंडप वाले खुले प्रांगण से थोड़ा छोटा है। अग्रभाग में आठ स्तंभ और दो स्तंभ हैं। इन स्तंभों की पाँच पंक्तियाँ हैं, जिनमें आठ फुट की सीढ़ियाँ हैं, जबकि गुफा की दीवारों पर स्तंभ हैं, सभी एक ही चट्टान को तराश कर उकेरे गए हैं। गर्भगृह पूर्व की ओर खुला है और तीन अभयारण्यों (कक्षा) से घिरा हुआ है। इस परिसर के अभयारण्य क्षेत्र की एक उल्लेखनीय विशेषता यह है कि यह निचले स्तर पर है, जो जमीन में गहराई तक कटा हुआ है। इस 'अंडरवर्ल्ड' प्रतीकवाद के कारण ही इस स्थान का नाम पड़ा - पातालेश्वर (भारत में कई मंदिरों को जमीन में गहरे पातालेश्वर भी कहा जाता है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="एक ढके हुए तंबू में दो बिस्तरों वाले पत्थर के बाघों से उकेरी गई सीढ़ियों का एक समूह। तीसरी पंक्ति और चौथे स्तंभ के बीच, गर्भगृह के सामने, एक और छोटी नंदी को साइट पर उकेरा गया है, इस प्रकार यह पुष्टि करता है कि यह मूल रूप से हिंदू शैव धर्म का स्थान था। तीनों गुफाएं कुल 39 फीट लंबी और 27.5 फीट गहरी हैं। केंद्रीय मंदिर में महादेव पांचालेश्वर लिंग (मूल) चट्टान से काटा गया है, जबकि इसके बगल के कमरे में मूर्तियों के लिए जगह है। मूल मूर्तियाँ खो जाती हैं, और एक ओर ब्रह्मा और दूसरी ओर विष्णु की संभावना होती है। 19वीं शताब्दी के मध्य से कुछ समय पहले, पार्वती की मूर्तियों और गणेश की मूर्तियों को जोड़कर उन्हें पुनः प्राप्त किया गया था।
+
+गुफाओं में अवशेष और आराम के निशान हैं, जिनमें से अधिकांश अब खो गए हैं। जिन लोगों की पहचान की जा सकती है उनमें सप्तमातृका (शक्तिवाद), गजलक्ष्मी, त्रिपुरंतक, अनंतसायिन (वैष्णव धर्म) और लिंगोद्भव शामिल हैं।"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="परिसर में दुर्गा का एक छोटा सा मंदिर है।
+
+समसामयिक जोड़
+19वीं शताब्दी की सर्वेक्षण रिपोर्टों में एक क्षतिग्रस्त जल निकासी व्यवस्था का उल्लेख है जिसके कारण वर्ष के कई महीनों में गुफाओं में वर्षा का पानी भर जाता है। एएसआई ने इसे सुधारने की कोशिश की है।
+
+पहले के औपनिवेशिक काल की एक सर्वेक्षण रिपोर्ट के अनुसार, गुफा परिसर 19वीं सदी के सामुदायिक पार्क का हिस्सा है। उद्यान अब और अधिक विस्तृत हो गया है। इसमें कुछ संरक्षित वास्तुशिल्प अवशेष शामिल हैं। भारतीय पुरातत्व सर्वेक्षण का पुणे कार्यालय एक पड़ोसी संपत्ति में है।"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt5"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/pt6"/>
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

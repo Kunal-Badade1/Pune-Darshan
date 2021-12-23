@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".hindivishnu">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="शेषशायी विष्णू मंदिर"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh5"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुणे में नारायण पेठे में अज्ञात 'शेषशाई विष्णु मंदिर'
+
+जैसा कि पुणे को शिक्षा का घर माना जाता है, पुणे अपने विभिन्न मंदिरों के लिए भी प्रसिद्ध है, इसलिए पुणे शहर को 'मंदिरों का शहर' कहा जाता है।
+भी हर जगह है। पुणे शहर में ऐसे मंदिरों के नाम भी दिलचस्प हैं, लेकिन इस मंदिर के शहर में
+पुणे के मध्य में नारायणपेठ में एक सुंदर और अद्वितीय 'शेषशाई विष्णु' का सुंदर मंदिर।
+हो जाता है।
+पुणे में 'शेषशाय विष्णु' के इस अपरिचित मंदिर को देखने के लिए आपको 'अप्पा बलवंत' चौराहे को पार करना होगा और वहां से रमनबाग जाने के लिए केलकर रोड पर चलना होगा।
+चौराहे के रास्ते में, एचडीएफसी पर बाएं मुड़ें। जिस बैंक में नारायण पेठ शाखा स्थित है, हाल ही में बाईं ओर आपको 'श्री शेषशाय' मिलेगा।
+आप शीर्ष पर 'मंदिर' चिन्ह देख सकते हैं। मंदिर के पास एक और हत्या उसके बगल में श्रीकृष्ण पीतल बैंड की दुकान है
+आप इस मंदिर के अंदर जा सकते हैं।
+
+'श्री शेषशाई विष्णु मंदिर'"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh2"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="नारायण पेठेटी में एक पुराने महल के अंदर का यह मंदिर वास्तव में संदेह पैदा करता है कि हम वास्तव में पुणे के केंद्र में हैं।
+वहाँ कितनी शांति का अनुभव होता है। जैसे ही आप महल के दरवाजे से प्रवेश करते हैं, आपको दाईं ओर एक बार भी दिखाई देता है
+आज भी स्थानीय लोग इसका इस्तेमाल करते हैं। वहां से सीधे जाकर आप मंदिर के सामने झाड़ी में देख सकते हैं।
+जैसे ही आप मंदिर के दरवाजे से प्रवेश करते हैं, आपको एक समाधि दिखाई देती है। इस समाधि का चौथारा सिर पर संगमरमर का है
+शिवलिंग देखने को मिलता है। यह समाधि केशव नारायण दामले उर्फ ​​सच्चिदानंद स्वामी की है। आई.एस. 1906 में केशवराव दामले द्वारा
+वे काशी गए और सेवानिवृत्त हो गए। 1910 में उन्होंने इसी मंदिर में संजीवन समाधि की।
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="महल के अंदर 'बाधा'
+
+इस समाधि को सामने की ओर देखकर आप एक लकड़ी के मंदिर में 'शेषशाय विष्णु' की सुंदर मूर्ति देख सकते हैं। यह मूर्ति धातु से बनी है
+शेषशाय विष्णु' की मुख्य विशेषता यह है कि यह मूर्ति 'पद्मनाभ' है। मूर्ति 'पद्मनाभ' विष्णु की बेम्बी से एक लंबे तने वाला कमल है
+उस कमल में आप चार मुख और दो हाथों वाली ब्रह्मा की एक छोटी मूर्ति देख सकते हैं। इन मूर्तियों में से एक और
+महत्वपूर्ण विशेषता यह है कि ब्रह्मा की मूर्तियों के साथ-साथ कमल को भी सहायक उपकरण में बनाया जा सकता है।
+यदि आप मंदिर में 'शेषशायी विष्णु' की मूर्ति को करीब से देखें, तो आपको उनके दाहिने निचले हाथ में एक गदा दिखाई देगी। साथ ही ऊपरी दाहिना हाथ
+गर्दन के नीचे दो कैला के लिए एक सहारा है। साथ ही विष्णु के बाएं ऊपरी हाथ में एक शंख और बाएं निचले हाथ में उनकी जांघ पर एक शंख है
+देख लेना। साथ ही विष्णु का दाहिना पैर लक्ष्मी की गोद में है और विष्णु की पत्नी लक्ष्मी को विष्णु के पैर दबाते हुए दिखाया गया है। या
+मूर्ति में लक्ष्मी की केशविन्यास और वेशभूषा और आभूषण पेशवा काल के प्रतीत होते हैं।
+"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh4"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="मंदिर के सभा भवन में और सामने बड़े मंदिर में विष्णु जी की मूर्ति है
+
+यह समाधि केशव नारायण दामले उर्फ ​​सच्चिदानंद स्वामी की है
+
+अगर आप ऐसी सुंदर शेषशायी विष्णु की मूर्ति देखना चाहते हैं, तो आपको नारायण पेठे में इस मंदिर को अवश्य देखना चाहिए। इस मंदिर का प्रबंधन ट्रस्टियों के पास है
+मंदिर की वर्तमान स्थिति बहुत अच्छी नहीं है। मंदिर के लिए कोई कर्मचारी नहीं है क्योंकि मंदिर के पास इतनी आय नहीं है। इस मंदिर को देखना चाहते हैं
+अगर ऐसा है तो आपको सुबह 10 बजे से 10.30 बजे के बीच जाना होगा।
+है। हमें यह मूर्ति और मंदिर तब देखने को मिलता है जब 'वज़े' नाम का गृहस्थ यहाँ पूजा कर रहा होता है। यह पुणे के केंद्र में स्थित है
+इस मंदिर में धातु 'शेषशायी विष्णु' की मूर्ति निश्चित रूप से देखने लायक है।
+
+शेषशाय विष्णु' की मुख्य विशेषता यह है कि यह मूर्ति 'पद्मनाभ' है।"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/sh5"/>
+
+
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".marathisoutherncommand">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="24sp"
+            android:text="दक्षिण कमांड मिलिटरी संग्रहालय"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s1"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="पुण्यातील राष्ट्रीय युद्ध स्मारक सदर्न कमांडचे १५ ऑगस्ट १९९८ रोजी उद्घाटन झाले. या संग्रहालयात भारतीय सेना, नौदल आणि हवाई दलाशी संबंधित कलाकृती आहेत.
+
+राष्ट्रीय युद्ध स्मारक सदर्न कमांड पुण्यातील घोरपडी परिसरात आहे. लष्कर, नौदल आणि हवाई दल या भारतीय सैन्य दलाच्या तिन्ही शाखांना ते समर्पित आहे. या संग्रहालयाची स्थापना १९९७ मध्ये झाली. मात्र, १५ ऑगस्ट १९९८ रोजी पुणे कँटोन्मेंट बोर्डाचे अध्यक्ष ब्रिगेडियर मदन गोपाळ यांच्या कार्यकाळात ते खुले करण्यात आले. हे स्मारक संग्रहालय पुण्यातील नागरिकांनी एक्स्प्रेस सिटीझन फोरमअंतर्गत निधी गोळा करून तयार केले असून, अशाप्रकारचे आशिया खंडातील हे पहिले संग्रहालय आहे. सुरुवातीला हे फक्त भारतीय सैन्यदलासाठी सीमित होते. मात्र, २००९ मध्ये त्यात काही कलाकृतींची भर घालून ते सशस्त्र दलाच्या तिन्ही विभागांसाठी तयार करण्यात आले."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s2"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="२५ फूट उंच खांबाच्या रूपातील हे स्मारक हेच या संग्रहालयाचे मुख्य आकर्षण आहे. या खांबावर आपल्या देशासाठी प्राण गमावलेल्या हुतात्म्यांची नावे आहेत. या संग्रहालयात ठेवलेली शस्त्रास्त्रे, सैन्याचे गणवेश, रॉकेट्स, टँक, जहाजे, लोकोमोटिव्ह स्केल मॉडेल्स आणि काही सैनिकांच्या स्मृतिचिन्हांचा संग्रह आहे. संग्रहालयातील इतर आकर्षणांमध्ये मिग-२३ बीएन जेट फाइटर विमानाचा समावेश असून, त्याचा उपयोग कारगिल युद्धात झाला होता. गोवा मुक्ती संग्राम आणि १९७१ च्या भारत-पाकिस्तान युद्धात काम करणार्‍या आयएनएस त्रिशूलची प्रतिकृतीही इथे आहे. टँकच्या इतर उल्लेखनीय मॉडेल्समध्ये टी-५५, विजयंत, हस्तगत केलेले पाकिस्तानी पॅटन टँक्स यांचा समावेश आहे.
+
+पहिल्या महायुद्धातील दुर्मिळ आणि जुन्या फोटोंचा संग्रह, तसेच लष्करी दारूगोळादेखील इथे आहे. भारतीय लष्कराचे प्रतिनिधित्व करणार्‍या प्रदर्शनाव्यतिरिक्त संग्रहालयात मराठ्यांचा लष्करी इतिहासही पर्यटकांना पाहायला मिळतो."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/Yellow"
+            android:textStyle="bold"
+            android:textColor="@color/Saffaron"
+            android:layout_marginTop="20sp"
+            android:textSize="18sp"
+            android:text="संग्रहालयाचे व्यवस्थापन पुणे कँटोन्मेंट बोर्डाद्वारे पाहिले जाते. बोर्डाद्वारे वारंवार पायाभूत सुविधांमध्ये वाढ केली जाते. त्यात सर्वांत अलिकडील भर म्हणजे प्रत्येक शनिवारी सायंकाळी ५ वाजून ४० मिनिटांनी इथे लाइट अँड साउंड शो आयोजित केला जातो. पुण्यातील राष्ट्रीय संरक्षण अकादमी आणि डेहराडूनची भारतीय सैन्य अकादमी इथेही वर्षातून दोनदा हा शो आयोजित केला जातो. २०१९ पासून या संग्रहालयात दर आठवड्याला तो सादर केला जाऊ लागला. या कार्यक्रमाबरोबरच भारताच्या शूर शहीद जवानांना श्रद्धांजली म्हणून साप्ताहिक परेड केली जाते. हा कार्यक्रम आणि परेड दोन्ही सुमारे ६५ मिनिटे चालते. या कार्यक्रमात स्वातंत्र्यापासून ते आजतागायत राष्ट्र घडविण्यात आणि त्याचे रक्षण करण्यासाठी सैन्य दलाने दिलेल्या योगदानावर आणि बलिदानांवर प्रकाश टाकला जातो.
+
+हे संग्रहालय सकाळी ९.३० ते दुपारी १२.३० आणि संध्याकाळी ३ ते सायंकाळी ७ या वेळेत खुले असते. मंगळवारवगळता आठवड्याचे सर्व दिवस ते खुले असते. इथे प्रवेश विनामूल्य आहे, परंतु लाइट अँड साउंड शो पाहण्यासाठी २० रुपये शुल्क आहे."/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s4"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="350sp"
+            android:src="@drawable/s5"/>
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>
